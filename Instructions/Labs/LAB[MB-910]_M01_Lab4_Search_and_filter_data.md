@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 1.3: Search and filter data'
+    title: 'Lab 1.4: Search and filter data'
     module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
