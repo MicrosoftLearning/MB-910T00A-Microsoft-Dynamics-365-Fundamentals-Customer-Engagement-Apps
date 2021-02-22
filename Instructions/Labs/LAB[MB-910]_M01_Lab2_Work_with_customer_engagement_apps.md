@@ -9,8 +9,6 @@ Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Practice Lab 1.2 - Work with customer engagement apps 
 
-## Lab scenario
-
 ## Objectives
 
 During this exercise, you will see that it is very easy to access the different Dynamics 365 applications available to you directly from the Home screen. Once you have opened an app, you can easily switch between the different applications as required. Accessing and using the basic functionality in Dynamics 365 applications is something you as a user will do daily.
