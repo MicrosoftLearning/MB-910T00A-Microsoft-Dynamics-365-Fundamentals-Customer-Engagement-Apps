@@ -13,7 +13,6 @@ Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do in the application. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
 
-
 ## Lab Setup
 
   - **Estimated Time**: 10 minutes
