@@ -9,7 +9,7 @@ Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Practice Lab 1.7 - Capstone lab
 
-##Lab Scenario
+## Lab Scenario
 
 ABC company specializes in the manufacturing, selling, installation and servicing of security equipment. Their products include both indoor and outdoor security cameras, moisture and fire sensors, monitoring services, and more. 
 
