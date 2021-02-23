@@ -5,7 +5,7 @@ demo:
     module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
-# Demo: Custonmer Insights
+# Demo: Customer Insights
 
 ## Instructions
 
