@@ -7,7 +7,7 @@ lab:
 Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 ========================
 
-## Practice Lab 3.3 - Dynamics 365 Custonmer Service capstone lab
+## Practice Lab 3.3 - Dynamics 365 Customer Service capstone lab
 
 ## Lab Scenario
 
