@@ -1,4 +1,3 @@
-
 ---
 demo:
     title: 'Demo: Customer Insights'
