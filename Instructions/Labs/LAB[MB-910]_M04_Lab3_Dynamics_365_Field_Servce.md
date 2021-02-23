@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 4.3: Dynamics 365 Field Service capstone lab'
-    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Fied Service'
+    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
 Module 4: Learn the Fundamentals of Dynamics 365 Field Service
