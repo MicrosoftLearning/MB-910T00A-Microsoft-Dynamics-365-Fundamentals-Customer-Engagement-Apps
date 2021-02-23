@@ -7,7 +7,7 @@ lab:
 Module 2: Learn the Fundamentals of Dynamics 365 Sales
 ========================
 
-## Practice Lab 2.3 - Capstone lab
+## Practice Lab 2.3 - Dynamics 365 Sales capstone lab
 
 ## Lab Scenario
 
