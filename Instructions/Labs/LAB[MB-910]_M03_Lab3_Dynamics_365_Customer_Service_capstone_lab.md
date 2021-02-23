@@ -91,9 +91,9 @@ Upon completion of the lab, you will have completed the following:
 
 9. Enter the following text into the **Content Designer** text.   
 
-Sensor is not currently working
+	Sensor is not currently working
 
-When a sensor is not working as it should, do the following:
+	When a sensor is not working as it should, do the following:
 
 	1. Locate and replace the batteries on the device. 
 
@@ -105,7 +105,7 @@ When a sensor is not working as it should, do the following:
 
 	5. Press reset button. 
 
-Once the device reboots, it will be back online. 
+	Once the device reboots, it will be back online. 
 
 10. In the content editor, select the Sensor is not currently working text
 
