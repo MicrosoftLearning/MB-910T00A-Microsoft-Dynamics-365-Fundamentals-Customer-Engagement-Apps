@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 1.7: Dynamics 365 Marketing capstone lab'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+    title: 'Lab 2.3: Dynamics 365 Sales capstone lab'
+    module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
 ---
 
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
+Module 2: Learn the Fundamentals of Dynamics 365 Sales
 ========================
 
-## Practice Lab 1.7 - Capstone lab
+## Practice Lab 2.3 - Capstone lab
 
 ## Lab Scenario
 
