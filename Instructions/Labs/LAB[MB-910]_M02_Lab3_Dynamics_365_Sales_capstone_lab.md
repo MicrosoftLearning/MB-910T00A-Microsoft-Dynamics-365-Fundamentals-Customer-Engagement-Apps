@@ -310,4 +310,4 @@ Now that you have create a sales order, we will close the order and generate an 
 
 4. On the **Command Bar** of the order, select the **Create Invoice** button. 
 
-5. Once the Invoice record is open, select the **Invoice Paid*
+5. Once the Invoice record is open, select the **Invoice Paid*.
