@@ -4,7 +4,7 @@ lab:
     module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
-Module 2: Learn the Fundamentals of Dynamics 365 Customer Service
+Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 ========================
 
 ## Practice Lab 3.1 - Create and publish a Knowlege Article in Dynamics 365 Customer Service
