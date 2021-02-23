@@ -12,13 +12,13 @@ Dynamics 365 Marketing lets your organization take control of all the different 
 
 1. Navigate to and open Dynamics 365 Marketing.
 
-	- Dynamics 365 Marketing, lets, you easily identify and target specific customers based on tailored demographics. 
+- Dynamics 365 Marketing, lets, you easily identify and target specific customers based on tailored demographics. 
 
-	        - Start on the Marketing Sales Pipeline Dashboard
+	- Start on the Marketing Sales Pipeline Dashboard
 
-		    - Leverage Multi-Channel Campaign to target leads
+	- Leverage Multi-Channel Campaign to target leads
 
-		    - Manage and Qualify leads to Sales
+	- Manage and Qualify leads to Sales
 
 - Work with Customer Segments
 
@@ -38,11 +38,11 @@ Dynamics 365 Marketing lets your organization take control of all the different 
 
 	- Defining how customers are interacted can be easily modified, by creating and defining which activities will be used in the Journey as well as how the when the activity will be used. 
 
-     - Add an Activity to the Journey.
+     		- Add an Activity to the Journey.
 
-     - Modify the Conditions to show the flexibility
+     		- Modify the Conditions to show the flexibility
 
-     - Save and Publish Customer Journey
+     		- Save and Publish Customer Journey
 
 - Based on the journey that you created, are provided with a targeted marketing experience based on who they are and what path they choose as they interact you’re your organizations marketing content. 
 
