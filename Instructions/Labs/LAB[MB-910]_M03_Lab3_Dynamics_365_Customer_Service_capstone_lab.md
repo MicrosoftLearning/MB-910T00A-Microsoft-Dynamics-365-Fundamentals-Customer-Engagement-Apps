@@ -90,7 +90,6 @@ Upon completion of the lab, you will have completed the following:
 	- **Description:** Helps work through scenarios where a sensor is not working. 
 
 9. Enter the following text into the **Content Designer** text.   
-‎
 
 Sensor is not currently working
 
@@ -123,8 +122,6 @@ Once the device reboots, it will be back online.
 16. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
 
  
-
-###  
 
 ### Task 2: Manage an article through the approval process
 
@@ -170,9 +167,6 @@ In most organizations, after the article author creates the record, it goes thro
 
 20. You will be asked to confirm the article approval, select **OK**. 
 
- 
-
-###  
 
 ### Task 3: Approve the Knowledge Article
 
@@ -204,11 +198,9 @@ Now that the article has been approved, we will publish it so that it will be av
 
 7. Click the **Publish** button to publish the article.
 
-##  
 
 ## Exercise 2: Manage a support case through its lifecycle
 
-###  
 
 ### Task 1: Create and manage a case
 
@@ -234,19 +226,19 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
  
 
-	9. Using the navigation on the left side of the screen, select **Cases**. 
+9. Using the navigation on the left side of the screen, select **Cases**. 
 
-	10. On the **Command Bar**, select the **New** button to create a new case record.
+10. On the **Command Bar**, select the **New** button to create a new case record.
 
-	11. Complete the new case record as follows:
+11. Complete the new case record as follows:
 
-		- **Case Title:** Sensor is not working – Your Initials
+	- **Case Title:** Sensor is not working – Your Initials
 
-		- **Customer:** Piper Smith
+	- **Customer:** Piper Smith
 
-		- **Origin:** Phone
+	- **Origin:** Phone
 
-		- **Description:** Piper is reporting that one of the sensors that she received is not working properly. 
+	- **Description:** Piper is reporting that one of the sensors that she received is not working properly. 
 
 12. Select the **Save** button to save the record and leave it open. 
 
