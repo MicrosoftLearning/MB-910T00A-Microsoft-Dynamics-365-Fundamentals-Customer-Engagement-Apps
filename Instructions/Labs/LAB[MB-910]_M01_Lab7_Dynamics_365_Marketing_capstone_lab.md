@@ -15,7 +15,7 @@ ABC company specializes in the manufacturing, selling, installation and servicin
 
 ABC company uses Dynamics 365 applications to engage with all their customers across different areas of their organization from sales to service. 
 
-**Sales &amp; Marketing**
+**Sales and Marketing**
 
 ABC Company markets to their residential customers directly through targeted marketing campaigns. Customers are targeted based on their city, and other factors. Marketing materials are sent through email and based on their interaction with the email are guided accordingly. 
 
