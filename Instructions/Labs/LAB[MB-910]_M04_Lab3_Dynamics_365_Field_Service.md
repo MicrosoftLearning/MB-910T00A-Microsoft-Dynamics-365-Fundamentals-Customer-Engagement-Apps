@@ -65,7 +65,7 @@ Recently a corporate customer Active Transport, Inc. contacted support about an 
 
 ## Instructions
 
-## Exercise1: Create a Case and Escalate to a Work Order 
+## Exercise 1: Create a Case and Escalate to a Work Order 
 
 ### Task 1: Create a Case record
 
