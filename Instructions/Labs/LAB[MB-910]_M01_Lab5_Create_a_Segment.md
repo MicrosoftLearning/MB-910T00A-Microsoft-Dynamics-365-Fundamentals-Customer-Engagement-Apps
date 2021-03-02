@@ -11,7 +11,7 @@ Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Objectives
 
-During this exercise you will see that it is very easy to create customer segments that target specific contacts based on common demographic information such as where they live or interests. The creation on customer segments in Dynamics 365 marketing is extremely common because customer segments are used for key marketing activities such as defining the target contacts in Customer Journeys.
+During this exercise you will see that it is very easy to create customer segments that target specific contacts based on common demographic information such as where they live or interests. The creation on customer segments in Dynamics 365 Marketing is extremely common because customer segments are used for key marketing activities such as defining the target contacts in Customer Journeys.
 
 ## Lab Setup
 
