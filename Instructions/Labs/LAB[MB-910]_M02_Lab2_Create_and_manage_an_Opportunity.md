@@ -86,7 +86,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 22. On the **Propose** stage, mark all four steps as **Completed**, and click the **Next Stage** button to advance to the **Close** stage. 
 
-23. On the **Close** stage, mark the **Complete Finial Proposal**, **Present Finial Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
+23. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
 
 24. Set **Confirm Decision Date** to **Todays date**. 
 
