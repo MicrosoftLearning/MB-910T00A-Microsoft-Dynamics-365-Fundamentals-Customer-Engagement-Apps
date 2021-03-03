@@ -39,19 +39,19 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 9. Enter the following text into the Content Designer text.   
 ‎  
-‎Item Arrived Damaged
+‎	Item Arrived Damaged
 
-When an item arrives damaged, do the following:
+	When an item arrives damaged, do the following:
 
-1. Open our web portal
+	1. Open our web portal
 
-2. Locate your order record
+	2. Locate your order record
 
-3. Select return Item
+	3. Select return Item
 
-4. Select damaged for the reason
+	4. Select damaged for the reason
 
-5. Click Print
+	5. Click Print
 
 Once we have received the returned / damaged item, your account will be credited back the amount.
 
