@@ -21,9 +21,9 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 1. If necessary, open the Dynamics 365 Marketing Application. 
 
-2. Using the navigation on the left, select Customer Journeys under the Marketing Execution group
+2. Using the navigation on the left, select Customer Journeys under the Marketing Execution group.
 
-3. Using the command bar, select **New** 
+3. Using the command bar, select **New**.
 
 4. The **New Customer Journey** page opens with the **Select a Customer Journey Template** dialog box shown. Select **Skip** to start creating the journey from scratch.
 
@@ -31,9 +31,11 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 6. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
 
-7. Select sample email message you created earlier, 
+7. Select **Choose an email**
 
-8. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
+8. Select a sample email message from the lookup field.
+
+9. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
 	- **Name**: Fargo Customer Journey
 
@@ -43,6 +45,6 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 	- **Time zone**: Select your local time zone 
 
-9. On the command bar, select **Save** to save the work you've done so far.
+10. On the command bar, select **Save** to save the work you've done so far.
 
-10. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
+11. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
