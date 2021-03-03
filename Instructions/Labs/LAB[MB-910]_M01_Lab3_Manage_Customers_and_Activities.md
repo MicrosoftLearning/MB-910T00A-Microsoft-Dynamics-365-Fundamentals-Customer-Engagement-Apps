@@ -33,7 +33,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Phone:** 888-555-1234
 
-	- **Address 1 Street 1:** 191 181<sup data-htmlnode="">st</sup> Ave N
+	- **Address 1 Street 1:** 191 181st Ave N
 
 	- **Address 1 City:** Seattle
 
@@ -51,7 +51,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Phone:** 888-555-4321
 
-	- **Address 1 – Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N
+	- **Address 1 – Street 1**: 187 11th ST N
 
 	- **Address 1 City:** Chicago
 
@@ -71,7 +71,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **First Name:** Jackson
 
-	- **Last Name:** Anderson
+	- **Last Name:** Anderson - Your initials
 
 	- **Job Title:** CEO
 
@@ -89,9 +89,9 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Subject:** Meeting with Jackson
 
-	- **Start Time:** Tomorrow at 10:00 AM
+	- **Start Time:** Today at 3:00 PM
 
-	- **End Time:** Tomorrow at 11:00 AM
+	- **End Time:** Today at 4:00 PM
 
 18. Select the **Save and Close** button. 
 
