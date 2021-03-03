@@ -69,44 +69,44 @@ Once we have received the returned / damaged item, your account will be credited
 
 After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
 
-	15. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval. 
+15. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval. 
 
-	16. Open the **Item Broken on Arrival – your initials** article you just created.
+16. Open the **Item Broken on Arrival – your initials** article you just created.
 
-	17. On the **New Process**, select the **Review** stage. Set the **Review** field to **Approved**.
+17. On the **New Process**, select the **Review** stage. Set the **Review** field to **Approved**.
 
-	18. You will be asked to confirm the article approval, select **OK**. 
+18. You will be asked to confirm the article approval, select **OK**. 
 
-	19. Click the **Next Stage** button to advance to the **Publish** stage. 
+19. Click the **Next Stage** button to advance to the **Publish** stage. 
 
-	20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
+20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
-	21. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
+21. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
 
-	22. Click the **Associate** button. 
+22. Click the **Associate** button. 
 
-	23. On the **New Process**, select the **Publish** stage. 
+23. On the **New Process**, select the **Publish** stage. 
 
-	24. Mark the **Set Product Associations** as **Complete**. 
+24. Mark the **Set Product Associations** as **Complete**. 
 
-	25. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
+25. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
-	26. Click the **Finish** button to complete the process. 
+26. Click the **Finish** button to complete the process. 
 
-	27. On the **Command Bar** for the article, click the **Publish** button. 
+27. On the **Command Bar** for the article, click the **Publish** button. 
 
-	28. Confirm that the following is selected:
+28. Confirm that the following is selected:
 
-		- **Publish:** Now
+	- **Publish:** Now
 
-		- **Published Status:** Published
+	- **Published Status:** Published
 
-		- **Expiration Date:** One year from today at 12:00 AM
+	- **Expiration Date:** One year from today at 12:00 AM
 
-		- **Expiration State:** Expired
+	- **Expiration State:** Expired
 
-		- **Expiration Status:** Expired
+	- **Expiration Status:** Expired
 
-		- **Publish Approved translations:** No
+	- **Publish Approved translations:** No
 
-29. Click the **Publish** button to publish the article.
+
