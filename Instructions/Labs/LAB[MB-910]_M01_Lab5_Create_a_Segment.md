@@ -27,7 +27,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
 4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
 
-5. Select **Add query block** to create a query against the contact entity. 
+5. Select **Add query block** to create a query against the contact table. 
 
 6. Select the ghost text **Select attribute**. 
 
@@ -37,7 +37,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
 9. Select the third drop-down list, which contains the ghost text **Enter text** and type **Redmond**.
 
-10. Click to select the **Name** field at the top of the query and enter Fargo Contacts.
+10. Click to select the **Name** field at the top of the query and enter **Fargo Contacts - Your initials**.
 
 11. Select **Save** on the command bar to save your segment
 
