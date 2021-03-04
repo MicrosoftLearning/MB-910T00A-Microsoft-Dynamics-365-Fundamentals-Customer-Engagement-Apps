@@ -81,47 +81,39 @@ Upon completion of the lab, you will have completed the following:
 
 9. Hover over and select the **Image gallery** button. 
 
-10. On the **Select a file** screen, select the **upload** button. 
+10. Select the **Security2 Image** and click the **Select** button to insert into your email. 
 
-11. On the upload files screen, select **Add files.**
+11. Use the size handles on the image to size the image to the desired size. 
 
-12. Select the **Security1** and **Security2** image files located in your student folder and click **Open**. 
+12. Click to select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
 
-13. Click the **Upload** button. 
+13. Click in the section below the text you just modified. 
 
-14. Select the **Security2 Image** and click the **Select** button to insert into your email. 
+14. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
 
-15. Use the size handles on the image to size the image to the desired size. 
+15. Select the **Image** just below the text you added. 
 
-16. Click to select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
+16. Hover over and select the **Image gallery** button. 
 
-17. Click in the section below the text you just modified. 
+17. Select the **Security1** image, and then click the **Select** button to insert into your email. 
 
-18. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
+18. Size the image until it takes up a solid portion on the message window. 
 
-19. Select the **Image** just below the text you added. 
+19. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
 
-20. Hover over and select the **Image gallery** button. 
+20. Click in the text box below the heading you just modified. 
 
-21. Select the **Security1** image, and then click the **Select** button to insert into your email. 
+21. Replace the text with the following text: **Our award-winning systems protect you.**
 
-22. Size the image until it takes up a solid portion on the message window. 
+22. Click to select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
 
-23. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
+23. Repeat the process for the remaining sections in the message. 
 
-24. Click in the text box below the heading you just modified. 
+24. Before we make the email live, we will check it for errors. On the **Command Bar**, select the **Check for Errors** button. 
 
-25. Replace the text with the following text: **Our award-winning systems protect you.**
+25. Once you have verified that there are no errors, on the **Command Bar**, select the **Go Live** button. 
 
-26. Click to select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
-
-27. Repeat the process for the remaining sections in the message. 
-
-28. Before we make the email live, we will check it for errors. On the **Command Bar**, select the **Check for Errors** button. 
-
-29. Once you have verified that there are no errors, on the **Command Bar**, select the **Go Live** button. 
-
-30. Click the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+26. Click the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
 
 You have now successfully created a marketing email that you can leverage in other areas of the marketing application. 
 
@@ -135,7 +127,7 @@ You have now successfully created a marketing email that you can leverage in oth
 
 3. Complete the **New Contact** page as follows.
 
-	- **First Name**: Piper
+	- **First Name**: Piper 
 
 	- **Last Name**: Smith – Your Initials
 
@@ -179,41 +171,41 @@ Creating a customer segment will let us define the customers that we want to tar
 
 1. Using the navigation on the left, select **Segments** under the **Customers** group. 
 
-	2. On the command bar, select **New**.
+2. On the command bar, select **New**.
 
-	3. Since we had the membership to change as contacts are added, removed, or edited, we will select **New Dynamic Segment** from the menu that appears. 
+3. Since we had the membership to change as contacts are added, removed, or edited, we will select **New Dynamic Segment** from the menu that appears. 
 
-	4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
+4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
 
-	5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
+5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
-	6. In the **Name** field enter **Seattle Customers – Your Initials**. 
+6. In the **Name** field enter **Seattle Customers – Your Initials**. 
 
-	7. In the segment definition window, select **Add query block**.
+7. In the segment definition window, select **Add query block**.
 
-	8. Notice that the Contact table is selected by default. Do not Change it. 
+8. Notice that the Contact table is selected by default. Do not Change it. 
 
-	9. Click to select the ghost text **Select attribute**. 
+9. Click to select the ghost text **Select attribute**. 
 
-	10. Enter the word City to filter the list. Choose **Address 1: City** from the list.
+10. Enter the word City to filter the list. Choose **Address 1: City** from the list.
 
-	11. Leave the next drop-down list set to **Equals**. 
+11. Leave the next drop-down list set to **Equals**. 
 
-	12. Select the third drop-down list, which contains the ghost text **Enter text** and type **Seattle**.
+12. Select the third drop-down list, which contains the ghost text **Enter text** and type **Seattle**.
 
-	13. Select **Save** on the command bar to save your segment.
+13. Select **Save** on the command bar to save your segment.
 
-	14. Select **Go Live** to publish the segment.
+14. Select **Go Live** to publish the segment.
 
-	15. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
+15. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
-	16. You should now see that a **Members** tab has been added.
+16. You should now see that a **Members** tab has been added.
 
 ### Task 3: Test your Customer Segment
 
 Now that we have successfully created your segment, let’s verify the dynamics segment will populate correctly as contacts are added or removed. To do this we will create a new contact who lives in Seattle. 
 
-1. Using the navigation on the left, select Contacts under the Customers Group
+1. Using the navigation on the left, select **Contacts** under the Customers Group
 
 2. On the command bar, select **New**.
 
