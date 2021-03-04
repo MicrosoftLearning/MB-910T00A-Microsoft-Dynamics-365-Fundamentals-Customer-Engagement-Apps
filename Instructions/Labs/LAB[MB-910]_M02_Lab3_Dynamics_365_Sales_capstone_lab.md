@@ -19,7 +19,7 @@ ABC company uses Dynamics 365 applications to engage with all their customers ac
 
 ABC Company markets to their residential customers directly through targeted marketing campaigns. Customers are targeted based on their city, and other factors. Marketing materials are sent through email and based on their interaction with the email are guided accordingly. 
 
-While some of their smaller products are sold through retailers, most products are sold direct consumers by their internal sale staff.
+While some of their smaller products are sold through retailers, most products are sold direct to consumers by their internal sale staff.
 
 Internally, they focus on two key areas: 
 
@@ -35,11 +35,11 @@ The installation process for purchased security equipment varies based on the ty
 
 - **Residential Customers:** Since residential installs typically take less than a day, they are done by internal employees. After the sale is made, a work order is created, and a qualified technician is identified and scheduled to perform the install. 
 
-- **Enterprise Customers:** Enterprise deploys can take months, are requite a project manager to oversee the day to day operations. This includes creating project plans, defining project teams, and scheduling resources. 
+- **Enterprise Customers:** Enterprise deploys can take months, and require a project manager to oversee the day-to-day operations. This includes creating project plans, defining project teams, and scheduling resources. 
 
 **Service and Support:**
 
-Once systems are installed, ABC Company provides support after the sale. If a customer has an issue, they can contact customer support. An agent will attempt to work with the customer remotely to resolve their issue. If their issue cannot be resolved remotely, the support agent can escalate the issue to a work order that will be scheduled and worked on by a qualified field technician. 
+Once the systems are installed, ABC Company provides support after the sale. If a customer has an issue, they can contact customer support. An agent will attempt to work with the customer remotely to resolve their issue. If their issue cannot be resolved remotely, the support agent can escalate the issue to a work order that will be scheduled and worked on by a qualified field technician.  
 
 ## Objectives
 
