@@ -57,7 +57,7 @@ Upon completion of the lab, you will have completed the following:
 
 ## Lab Setup
 
-  - **Estimated Time**: 30 minutes
+  - **Estimated Time**: 45 minutes
 
 ## Instructions
 
