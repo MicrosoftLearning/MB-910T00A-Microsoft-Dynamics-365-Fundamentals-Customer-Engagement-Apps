@@ -15,7 +15,7 @@ Locating data in the application is almost a daily task. The more efficient you 
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+  - **Estimated Time**: 15 minutes
 
 ## Instructions
 
