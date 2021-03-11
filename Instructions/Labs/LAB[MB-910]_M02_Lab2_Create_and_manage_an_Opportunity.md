@@ -16,13 +16,13 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+  - **Estimated Time**: 25 minutes
 
 ## Instructions
 
 In this exercise, you will become familiar with how to access the different Dynamics 365 Customer engagement applications by using the Dynamics 365 Home screen. 
 
-1. If is not open already, open the **Dynamics 365 Sales Hub** application. 
+1. If it not open already, open the **Dynamics 365 Sales Hub** application. 
 
 2. Using the navigation on the left side of the screen, select **Opportunities**. 
 
