@@ -63,7 +63,7 @@ Upon completion of the lab, you will have completed the following:
 
 ## Lab Setup
 
-  - **Estimated Time**: 45 minutes
+  - **Estimated Time**: 30 minutes
 
 ## Instructions
   
@@ -120,7 +120,7 @@ Upon completion of the lab, you will have completed the following:
 
 11. Click the **X** on the stage window to close the window. 
 
-12. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
+12. Go to the record **Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
 
 13. From the menu that appears, select **Phone Call**.
 
@@ -136,7 +136,7 @@ Upon completion of the lab, you will have completed the following:
 
 15. Click the **Save and Close** button.
 
-16. Notice the **Looking for home security equipment** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
+16. Notice the **Looking for home security equipment** activity is now displayed on the record **Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
 
 17. On the **Close Phone Call** window, verify the state is set to **Completed**, and select the **Close** button.
 
@@ -172,7 +172,7 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 2. Select the drop-down arrow next to the **My Open Opportunities** view, from the menu that appears, select **Open Opportunities**.
 
-3. On the Command Bar, select Show Chart. Notice that the Top Customers chart displays based on the Opportunity Entity. 
+3. On the Command Bar, select Show Chart. Notice that the Top Customers chart displays based on the Opportunity table. 
 
 4. Select the drop-down arrow next to Top Customers, from the menu that appears, select **Sales Pipeline**.
 
@@ -252,15 +252,17 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 Now that you have a related quote, you will prepare the quote to present it to a customer. Under normal circumstances, we would likely add products to the quote record before it is delivered to a customer. Because we are working in shared environments, we are going to skip the adding of quote lines and walk through the delivery of the quote. 
 
-1. On the **Command Bar**, select the **Activate** button to activate the Quote. 
+1. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
 
-2. Now that the quote has been created, lets update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
+2. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left pane, select the Search icon and then select **Default Price List** from the options.
+
+3. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
 
 3. On the Opportunity record, select the **Propose** Stage. 
 
 4. Mark **Develop Proposal**, **Complete Internal Review**, and **Present Proposal** as **Completed**, and click the **Next Stage** button to advance to the **Close** stage. 
 
-5. On the **Close** stage, mark the **Complete Finial Proposal**, **Present Finial Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
+5. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
 
 6. Set **Confirm Decision Date** to **Todays date**. 
 
@@ -278,7 +280,7 @@ Now that you have a related quote, you will prepare the quote to present it to a
 
 	- **Status Reason:** Won
 
-	- **Date Won:** Todays Date
+	- **Date Won:** Today's Date
 
 	- **Close Opportunity:** Yes
 
