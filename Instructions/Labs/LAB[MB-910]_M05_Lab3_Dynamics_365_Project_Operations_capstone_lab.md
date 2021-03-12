@@ -68,8 +68,6 @@ Upon completion of the lab, you will have completed the following:
 
 ## Instructions
 
-
-
 ## Exercise 1: Create a Project Quote & Project Estimate
 
 The Project Opportunity is used to capture high level details about a potential project. As more and more details about the project emerge, you can create a Project Quote. The project quote often includes details related to different roles, timelines, and pricing. The project quote is what is presented to the customer. The project quote is also where you can begin to create a project plan that is associated with the project you are selling. This save time after the project is sold, because much of the details related to the project are already captured.
