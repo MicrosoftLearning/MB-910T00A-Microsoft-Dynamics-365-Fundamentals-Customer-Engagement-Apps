@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 5.1: Dynamics 365 Project Operations capstone lab'
+    title: 'Lab 5.3: Dynamics 365 Project Operations capstone lab'
     module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
 ---
 
 Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 ========================
 
-## Practice Lab 5.1 - Dynamics 365 Project Operations capstone lab
+## Practice Lab 5.3 - Dynamics 365 Project Operations capstone lab
 
 ## Lab Scenario
 
@@ -68,211 +68,9 @@ Upon completion of the lab, you will have completed the following:
 
 ## Instructions
 
-## Exercise 1: Create A Project Based Lead
 
-### Task 1: Create a new Lead
 
-1. If necessary, open an InPrivate browser and navigate to [Https://home.Dynamics.com](https://home.dynamics.com/) 
-
-2. When prompted, log in with the user credentials provided to you by the instructor. 
-
-3. From the list of applications that appears, select **Project Operations.** **(Note:** It might also say Project Service)
-
-4. Using the navigation on the left side of the screen, select the **Projects** Area. 
-
-5. From the menu that appears, select **Sales.**
-
-6. Using the navigation, select **Leads**. 
-
-7. To view all the current sales leads in the system, select the down arrow next to **My Open leads**, from the menu that appears select **Active Leads**. 
-
-8. To navigate back to your list of leads, select the down arrow next to Active Leads, and from the menu that appears, select **My Open Leads**. 
-
-9. Next, we will create a new lead for a company called Consolidated Sample, from the **My Open Leads** view, Select the **New** button on the Command bar.
-
-10. Complete your new lead record as follows:
-
-	- **Topic:** Complete Global Implementation – Your Initials
-
-	- **Type:** Work based
-
-	- **First Name:** Jean
-
-	- **Last Name:** Anderson - Your Initials
-
-	- **Business Phone:** 888 555-8855
-
-	- **Email:** jean@sample.com
-
-	- **Company:** Consolidated Sample – Your Initials
-
-	- **Street 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
-
-	- **City:** Seattle
-
-	- **State/Province:** WA
-
-	- **ZIP/Postal Code:** 98001 
-
-11. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
-
-12. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Click the **Qualify Stage** to select it. Complete the stage as follows:
-
-	- **Purchase Timeframe:** This Quarter
-
-	- **Estimated Budget:** 25000  
-
-	- **Purchase Process:** Committee
-
-	- **Identify Decision Maker:** Completed
-
-13. Click the **X** on the stage window to close the window. 
-
-14. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
-
-15. From the menu that appears, select **Phone Call**.
-
-16. On Quick Create Phone Call Screen, complete the phone call as follows:
-
-	- **Subject:** Initial Qualification Call – Your Initials  
-
-	- **Phone Number:** 888 555-8855
-
-	- **Direction:** Outgoing
-
-	- **Description:** Initial conversation with Jean to determine initial qualification. 
-
-17. Click the **Save and Close** button.
-
-18. Notice the **Initial Qualification Call** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
-
-19. On the **Close Phone Call** window, verify the state is set to **Completed**, and select the **Close** button.
-
- 
-
-### Task 2: Qualify the Lead and convert to Opportunity for further qualification
-
-1. On the **Command Bar**, select the **Qualify** button. 
-
-2. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
-
-3. Select the **Develop** stage to return to the opportunity.
-
-4. Click the **Save &amp; Close** button to close the Opportunity record that was created. 
-
-## Exercise 2: Manage a project-based opportunity 
-
-Now that you have successfully created a project opportunity based on a project0based lead, you will now use the opportunity to define high-level details related to the project. This will include defining products and work items, as well as defining sales related estimates. 
-
-### Task 1: Manage a Sales Opportunity 
-
-1. Using the navigation on the left side of the screen, select **Opportunities**. 
-
-2. From the list of My Open project Service Opportunities, Open the **Complete Global Security Implementation– Your Initials** opportunity that was created when you qualified the lead earlier. Notice the record is already in the **Develop** phase since it was created from a previously qualified Lead.  
-
-3. On the **Complete Global Security Implementation – Your Initials** opportunity header at the top of the record, select the down arrow next to the owner field. 
-
-4. Complete as follows:
-
-	- **Est. Close Date:** Tomorrow
-
-	- **Est Revenue:** 250,000.00
-
-5. On the Lead to Opportunity business process flow, select the **Develop** Stage. Notice that you need to Identify Stakeholders and Competitors.
-
-6. Click the **X** on the stage window to close it so you can continue working. 
-
-7. In the **Stakeholders** sub-grid, notice **Jean** is already defined as a stakeholder. 
-
-8. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
-
-9. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
-
-10. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
-
-11. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
-
-12. Select Coho Security record you just created in a previous exercise is selected, select the **Add** button. 
-
-13. Click to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
-
-14. Click the **Next Stage** button to advance to the **Propose** stage.
-
-15. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
-
-16. Click the **X** on the Propose stage to close the stage window. 
-
-17. On the opportunity record, select the **Opportunity Lines** tab.
-
-18. From the Project-based Lines sub-grid, select the Add New Opportunity Line button. Configure the new Opportunity Line item as follows:
-
-	- **Product Type:** Project-based Service
-
-	- **Opportunity:** Complete Global Security Implementation - Your initials
-
-	- **Name:** System Development
-
-	- **Customer Budget:** 25,000
-
-	- **Billing Method:** Fixed Price
-
-19. Select **Save &amp; Close**
-
-20. From the **Project-based Lines** sub-grid, select the **Add New Opportunity Line** button again to add another line item.   
-Configure the new Opportunity Line item as follows:
-
-  - **Product Type:** Project-based Service
-
-	- **Opportunity:** Complete Global Security Implementation - Your Initials
-
-	- **Name:** System Implementation 
-
-	- **Customer Budget:** 100000 
-
-	- **Billing Method:** Time and Material
-
-Now that we have defined the work-related items that will be associated with the opportunity, we will begin to add some actual products to the opportunity. Even though this is a project-based opportunity, there will often still be products that might be included such as cameras that are being installed. 
-
-21. From the **Product-based Lines** sub-grid, select the **Add New Opportunity Line** button. Configure the new Product Opportunity Line item as follows:
-
-	- **Product Type:** Product
-
-	- **Select Product:** Write-In
-
-	- **Write-In Product:** Security Camera
-
-	- **Pricing:** Override Price
-
-	- **Quantity:** 500
-
-	- **Sales Price:** $50.00
-
-	- **Customer Budget:** $25,000  
-
-22. Select **Save &amp; Close**
-
-23. From the **Product-based Lines** sub-grid, select the **Add New Opportunity Line** button again to define another product.   
-Configure the new Product Opportunity Line item as follows:
-
-	- **Product Type:** Product
-
-	- **Select Product:** Write-In
-
-	- **Write-In Product:** Sensors
-
-	- **Pricing:** Override Price
-
-	- **Quantity:** 5000
-
-	- **Sales Price:** 5  
-
-	- **Customer Budget:** 25000  
-
-24. Select **Save &amp; Close**
-
-**NOTE:** Leave the Project Opportunity open as we will be adding additional items to it in the next task. 
-
-## Exercise 3: Create a Project Quote & Project Estimate
+## Exercise 1: Create a Project Quote & Project Estimate
 
 The Project Opportunity is used to capture high level details about a potential project. As more and more details about the project emerge, you can create a Project Quote. The project quote often includes details related to different roles, timelines, and pricing. The project quote is what is presented to the customer. The project quote is also where you can begin to create a project plan that is associated with the project you are selling. This save time after the project is sold, because much of the details related to the project are already captured.
 
@@ -365,7 +163,7 @@ In this task you will be closing the project quote that you created and converti
 
 **Note:** Leave the Project Contact open so it can be used in the next task. 
 
-## Exercise 4: Manage a Project
+## Exercise 2: Manage a Project
 
 One of the advantages of leveraging the project selling capabilities of Project Operations, is the ability to create a project during the sales process. The created project will be accessible from different sales related records such as Project Quotes and Project Contracts. 
 
