@@ -11,7 +11,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+  - **Estimated Time**: 20 minutes
   
 ## Instructions
 
@@ -23,19 +23,23 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 4. Complete the Work Order details as follows:
 
-	- **Service Account:** A. Datum Corporation
+	- **Service Account:** A. Datum Corporation (sample)
 
-	- **Primary Incident Type:** Unit Overheating
+	- **Work Order Type:** Service
+
+	- **Price List:** Default Price List
 
 	- **Taxable:** No
 
-5. Select **Save and Close** to save you changes and exit the new work order.
+	- **Primary Incident Type:** Unit Overheating
+
+5. Select **Save** to save you changes.
 
 6. On the **Command Bar** of the **Work Order**, select the **Book** button. This will open the **Schedule Assistant.** 
 
 7. You should be presented with options for scheduling the item. Select the **Ryan Brim** record.
 
-8. In the **Create Resource Booking** window, set the **Start Time** to the **Top of the next hour**.
+8. In the **Create Resource Booking** window, set the **Start Time** to the top of the next hour.
 
 9. Set the **End Time** to the **2.5 hours** after that. 
 
@@ -43,19 +47,17 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 11. Once back on the Work Order click the **Save and Close** button from the Command Bar. 
 
- 
-
 12. Using the left navigation, select **Schedule Board**.
 
 13. At the bottom of the screen in the requirements panel, select **Unscheduled Work Orders**.
 
-14. Select the **Adventure Works** Work Order you created earlier use the work order number you wrote down. From the options that appear select **Find Availability**. 
+14. Select the **Adventure Works** Work Order you created earlier using the work order number you wrote down. From the options that appear select **Find Availability**. 
 
 15. This will open the **Schedule Assistant.** 
 
 16. You should be presented with options for scheduling the item. Select the Bob Kozak record.
 
-17. In the **Create Resource Booking** window, set the **Start Time** to the **Top of the next hour**.
+17. In the **Create Resource Booking** window, set the **Start Time** to the top of the next hour.
 
 18. Set the **End Time** to the **2.5 hours** after that. 
 
