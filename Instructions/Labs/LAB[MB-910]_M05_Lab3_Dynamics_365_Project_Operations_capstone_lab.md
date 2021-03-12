@@ -50,10 +50,6 @@ As an enterprise seller, you are responsible for selling high end customized sec
 
 Upon completion of the lab, you will have completed the following:
 
-- Enter a project lead into Dynamics 365 Sales
-
-- Qualify and convert a lead into a project opportunity.
-
 - Manage daily activities associated with a project opportunity. 
 
 - Add create and define a project quote. 
