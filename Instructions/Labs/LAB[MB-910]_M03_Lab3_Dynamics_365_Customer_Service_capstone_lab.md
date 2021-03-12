@@ -85,7 +85,7 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Title:** Sensor is not working – Your Initials
 
-	- **Keywords:** Sensor, Damaged, Not Working, 
+	- **Keywords:** Sensor, Damaged, Not Working
 
 	- **Description:** Helps work through scenarios where a sensor is not working. 
 
@@ -149,7 +149,7 @@ In most organizations, after the article author creates the record, it goes thro
 
 11. Select the **Content** tab
 
-12. In the **Content** field, place your cursor before the word **Press on step 5**. 
+12. In the **Content** field, place your cursor before the word **Press** on step 5. 
 
 13. Press your **Enter** key. 
 
@@ -194,8 +194,6 @@ Now that the article has been approved, we will publish it so that it will be av
 
 	- **Expiration Status:** Expired
 
-	- **Publish Approved translations:** No
-
 7. Click the **Publish** button to publish the article.
 
 
@@ -212,13 +210,15 @@ Now that the article has been approved, we will publish it so that it will be av
 
 4. On the **Case Mix (By Origin)** chart, select **Phone**. Notice that the Cases filter to only display Phone Cases.  
 
-5. On the **Cases by Priority** chart, select **High**. Notice that the case list will be further filtered to include High priority cases.  
+5. Select **Clear Al** to clear the filter.
 
-6. Click the first case that appears in the list to open it. After the case open, click the **Save &amp; Close** button on the command bar to close the case and return to the **Tier 1** Dashboard. 
+6. On the **Cases by Priority** chart, select **High**. Notice that the case list will be further filtered to include High priority cases.  
 
-7. Remove any currently applied filters, by selecting **Clear All**. 
+7. Click the first case that appears in the list to open it. After the case open, click the **Save &amp; Close** button on the command bar to close the case and return to the **Tier 1** Dashboard. 
 
-8. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
+8. Remove any currently applied filters, by selecting **Clear All**. 
+
+9. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
 
  
 
@@ -226,11 +226,11 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
  
 
-9. Using the navigation on the left side of the screen, select **Cases**. 
+10. Using the navigation on the left side of the screen, select **Cases**. 
 
-10. On the **Command Bar**, select the **New** button to create a new case record.
+11. On the **Command Bar**, select the **New** button to create a new case record.
 
-11. Complete the new case record as follows:
+12. Complete the new case record as follows:
 
 	- **Case Title:** Sensor is not working – Your Initials
 
@@ -240,13 +240,13 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Description:** Piper is reporting that one of the sensors that she received is not working properly. 
 
-12. Select the **Save** button to save the record and leave it open. 
+13. Select the **Save** button to save the record and leave it open. 
 
-13. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
+14. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
-14. From the menu that appears, select **Phone Call**.
+15. From the menu that appears, select **Phone Call**.
 
-15. On the **Quick Create: Phone Call** form complete the activity as follows:
+16. On the **Quick Create: Phone Call** form complete the activity as follows:
 
 	- **Subject:** Return Call to Piper
 
@@ -256,19 +256,19 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Duration:** 15 minutes.
 
-16. Click the **Save and Close** button. 
+17. Click the **Save and Close** button. 
 
-17. On the **Phone to Case Process**, select the **Identify** stage.
+18. On the **Phone to Case Process**, select the **Identify** stage.
 
-18. Click the **Next Stage** button to advance to the **Research** stage. 
+19. Click the **Next Stage** button to advance to the **Research** stage. 
 
-19. Click the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
+20. Click the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
 
-20. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
+21. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
-21. From the menu that appears, select **Task**.
+22. From the menu that appears, select **Task**.
 
-22. On the **Quick Create: Phone Call** form complete the activity as follows:
+23. On the **Quick Create: Phone Call** form complete the activity as follows:
 
 	- **Subject:** Research Pipers issue
 
@@ -276,15 +276,15 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Duration:** 30 minutes.
 
-23. Click the **Save and Close** button. 
+24. Click the **Save and Close** button. 
 
-24. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
+25. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
 
-25. Notice that the title of the case y is automatically being used as the search text. Locate and select the **Sensor is not working – your initials** article you created earlier. 
+26. Notice that the title of the case y is automatically being used as the search text. Locate and select the **Sensor is not working – your initials** article you created earlier. 
 
-26. The full contents of the article will be displayed, select the **Thumbs Up** icon at the bottom of the article to indicate the article was helpful. 
+27. The full contents of the article will be displayed, select the **Thumbs Up** icon at the bottom of the article to indicate the article was helpful. 
 
-27. Select the **Link this article to the current record** icon. Verify that the text **Linked to Case** appears. 
+28. Select the **Link this article to the current record** icon. Verify that the text **Linked to Case** appears. 
 
  
 
