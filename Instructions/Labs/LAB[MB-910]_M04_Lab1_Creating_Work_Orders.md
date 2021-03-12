@@ -23,9 +23,9 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 	- **Service Account:** Adventure Works
 
-	- **Price List:** US Bill Rates
+	- **Work Order Type**: Service
 
-	- **Primary Incident Type:** Line Connection Lost
+	- **Price List:** Default Price List
 
 	- **Taxable:** No
 
@@ -37,8 +37,10 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 	- **Time from Promised:** Today @ 9:00 AM
 
-	- **Tom to Promised:** Today @ 11:00 AM
+	- **Time to Promised:** Today @ 11:00 AM
 
-7. Note the work order number and write it down. 
+7. Select **Save**.
 
-8. Select **Save and Close** to save you changes and exit the new work order.
+8. Note the work order number and write it down. 
+
+9. Select **Save and Close** to save you changes and exit the new work order.
