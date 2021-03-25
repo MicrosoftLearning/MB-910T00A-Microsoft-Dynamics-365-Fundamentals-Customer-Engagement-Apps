@@ -19,23 +19,29 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 ## Instructions
 
-1. If necessary, open the Dynamics 365 Marketing Application. 
+**Note:** Before we create a customer journey, we need to make sure that we have an active email that can be added to the customer journey. 
 
-2. Using the navigation on the left, select Customer Journeys under the Marketing Execution group.
+1. If necessary open the Dynamics 365 Marketing Application. 
 
-3. Using the command bar, select **New**.
+2. Using the navigation on the left, select **Marketing emails** under the Marketing Execution group
 
-4. The **New Customer Journey** page opens with the **Select a Customer Journey Template** dialog box shown. Select **Skip** to start creating the journey from scratch.
+3. Locate and open the **Introduction to Chairs** marketing email. 
 
-5. Select **Set audience** (or, alternatively, select **+**). Select the Fargo Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+4. On the **Command Bar** at the top, select the **Go Live** button. 
 
-6. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
+5. Now that the email is live, use the navigation on the left to select **Customer Journeys** under the Marketing Execution group
 
-7. Select **Choose an email**
+6. Using the command bar, select **New** 
 
-8. Select a sample email message from the lookup field.
+7. The **New Customer Journey** page opens with the **Select a Customer Journey Template** dialog box shown. Select **Skip** to start creating the journey from scratch.
 
-9. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
+8. Select **Set audience** (or, alternatively, select **+**). Select the Fargo Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+
+9. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
+
+10. Select the **Introduction to Chairs** email that you activated earlier. 
+
+11. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
 	- **Name**: Fargo Customer Journey
 
@@ -45,6 +51,6 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 	- **Time zone**: Select your local time zone 
 
-10. On the command bar, select **Save** to save the work you've done so far.
+12. On the command bar, select **Save** to save the work you've done so far.
 
-11. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
+13. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
