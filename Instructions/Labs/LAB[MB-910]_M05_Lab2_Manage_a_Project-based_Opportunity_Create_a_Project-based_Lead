@@ -80,27 +80,31 @@ Now that you have successfully created a project opportunity based on a project0
 
 7. In the **Stakeholders** sub-grid, notice **Jean** is already defined as a stakeholder. 
 
-8. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
+8. On the Sales Team sub-grid, select **New Connection**. (If you do not see the **New Connection** button, select the **Vertical Ellipsis**, and from the menu that appears select **New Connection**.) 
 
-9. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+9. In the **Search** field, enter the text **System** and select your **User Record that was provided by the instructor.** Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
 
 10. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
-11. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
+11. Search for and select **Coho Security.** (If Coho Security does not exist, select **New Record**, and then select **Competitors,** otherwise proceed to step 15**.**)  
 
-12. Select Coho Security record you just created in a previous exercise is selected, select the **Add** button. 
+12. In the Quick Create: **Competitor** screen, set the **Name** field to **Coho Security – “Your Initials”**.
 
-13. Click to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+13. Select the **Save and Close** button.
 
-14. Click the **Next Stage** button to advance to the **Propose** stage.
+14. Select Coho Security record you just created in a previous exercise is selected, select the **Add** button. 
 
-15. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
+15. Click to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
-16. Click the **X** on the Propose stage to close the stage window. 
+16. Click the **Next Stage** button to advance to the **Propose** stage.
 
-17. On the opportunity record, select the **Opportunity Lines** tab.
+17. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
 
-18. From the Project-based Lines sub-grid, select the Add New Opportunity Line button. Configure the new Opportunity Line item as follows:
+18. Click the **X** on the Propose stage to close the stage window. 
+
+19. On the opportunity record, select the **Opportunity Lines** tab.
+
+20. From the Project-based Lines sub-grid, select the Add New Opportunity Line button. Configure the new Opportunity Line item as follows:
 
 	- **Product Type:** Project-based Service
 
@@ -112,12 +116,12 @@ Now that you have successfully created a project opportunity based on a project0
 
 	- **Billing Method:** Fixed Price
 
-19. Select **Save &amp; Close**
+21. Select **Save &amp; Close**
 
-20. From the **Project-based Lines** sub-grid, select the **Add New Opportunity Line** button again to add another line item.   
-Configure the new Opportunity Line item as follows:
+22. From the **Project-based Lines** sub-grid, select the **Add New Opportunity Line** button again to add another line item.   
+‎Configure the new Opportunity Line item as follows:
 
-  - **Product Type:** Project-based Service
+	- **Product Type:** Project-based Service
 
 	- **Opportunity:** Complete Global Security Implementation - Your Initials
 
@@ -127,43 +131,4 @@ Configure the new Opportunity Line item as follows:
 
 	- **Billing Method:** Time and Material
 
-Now that we have defined the work-related items that will be associated with the opportunity, we will begin to add some actual products to the opportunity. Even though this is a project-based opportunity, there will often still be products that might be included such as cameras that are being installed. 
-
-21. From the **Product-based Lines** sub-grid, select the **Add New Opportunity Line** button. Configure the new Product Opportunity Line item as follows:
-
-	- **Product Type:** Product
-
-	- **Select Product:** Write-In
-
-	- **Write-In Product:** Security Camera
-
-	- **Pricing:** Override Price
-
-	- **Quantity:** 500
-
-	- **Sales Price:** $50.00
-
-	- **Customer Budget:** $25,000  
-
-22. Select **Save &amp; Close**
-
-23. From the **Product-based Lines** sub-grid, select the **Add New Opportunity Line** button again to define another product.   
-Configure the new Product Opportunity Line item as follows:
-
-	- **Product Type:** Product
-
-	- **Select Product:** Write-In
-
-	- **Write-In Product:** Sensors
-
-	- **Pricing:** Override Price
-
-	- **Quantity:** 5000
-
-	- **Sales Price:** 5  
-
-	- **Customer Budget:** 25000  
-
-24. Select **Save &amp; Close**
-
-**NOTE:** Leave the Project Opportunity open as we will be adding additional items to it in the next task. 
+23. Select **Save &amp; Close**
