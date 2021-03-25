@@ -153,25 +153,23 @@ Both of your newly created work orders are ready to be scheduled.
 
 ### Task 1: Schedule Directly from a Work Order
 
-1. If necessary open the **Dynamics 365 Field Service Application**. 
+1. Using the left navigation, select **Schedule Board**.
 
-2. Using the navigation on the left, select **Work Orders**
+2. In the upper right-hand corner of the screen, set the **New Schedule Board** experience to **ON**. 
 
-3. Locate and open the Work Order you created for Brakes and Gears in the Previous Exercise (Remember the Work Order Number). 
+3. Using the **Search resources** lookup field, enter the name of your user account. (Your resource record should be displayed.)
 
-4. On the **Command Bar** of the **Work Order**, select the **Book** button. This will open the **Schedule Assistant.** 
+4. At the bottom of the screen in the requirements panel, select **Unscheduled Work Orders**.  (If the requirements panel is not displayed, select the arrow at the bottom of the screen to expand it.) 
 
-5. You should be presented with options for scheduling the item. Select the **Brady Hannon** record.
+5. Locate the **Active Transport** Work Order you created from the case record. (Remember the work order number). 
 
-6. In the **Create Resource Booking** window, set the **Start Time** to the **Top of the next hour**.
+6. Drag the **Active Transport** record and place it at an open slot for your user record. 
 
-7. Set the **End Time** to the **2 hours** after that. 
+7. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
 
-8. Select the **Book &amp; Exit** button to book the item and leave the scheduling window. 
+8. Click in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
 
-9. Once back on the Work Order click the **Save and Close** button from the Command Bar. 
-
-10. If necessary, use the left navigation to navigate back to **Work Orders.**
+9. **Right-click** on the scheduled item. From the menu that appears, select **Re-assign**. Click in the using the search box, select your resource record.
 
  
 
