@@ -36,7 +36,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 7. When you are within an app, there will be different areas that you can work with based on what you are trying to do. For example, the Sales Hub application contains different administrative settings that you can work with. 
 
-8. On the lower left side of the screen, select the text **Sales**, from the list that appears, select **App Settings.** This part of the application is where you can make administrative changes to it. 
+8. On the lower left side of the navigation pane, click **Sales** and change to the the **App Settings** area. Explore the application settings.
 
 9. Select the Area selector again and change it from **App Settings** back to **Sales**.
 
