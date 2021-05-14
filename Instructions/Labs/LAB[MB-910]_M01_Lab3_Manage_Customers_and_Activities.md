@@ -11,7 +11,7 @@ Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Objectives
 
-Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do in the application. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
+Defining and working with account and contact records in Dynamics 365 applications is one of the most common activities you will do. Once accounts and contacts are created, activities such as phone calls, tasks, and appointments will represent the interactions that you have with your customers.
 
 ## Lab Setup
 
@@ -19,13 +19,13 @@ Defining and working with account and contact records in Dynamics 365 applicatio
 
 ## Instructions
 
-In this exercise, you will be working with common records that are leveraged by all the first party customer engagement apps. 
+In this exercise, you will be working with common records that are used by all Dynamics 365 for Customer Engagement apps. 
 
 1. If is not open already, open the **Dynamics 365 Sales Hub** application. 
 
 2. Using the navigation on the left side of the screen, select **Accounts**. 
 
-3. On the Command Bar, select the **New** button.
+3. On the Command Bar at the top of the screen, select the **New** button.
 
 4. Complete the account record as follows:
 
@@ -81,7 +81,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 14. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created. 
 
-15. On the **Record Timeline** located in the middle of the screen, select the **Plus Sign Icon** to add a new item. 
+15. On the **Record Timeline** located in the middle of the screen, select the **+** icon to add a new activity item. 
 
 16. From the menu that appears, select **Appointment.**
 
@@ -95,18 +95,18 @@ In this exercise, you will be working with common records that are leveraged by 
 
 18. Select the **Save and Close** button. 
 
-19. On your keyboard, press the **F5 key** to refresh the screen. 
+19. Wait while the timeline automatically refreshes. 
 
-20. Notice that the **Assistant** on the right side of the screen now displays information about the appointment. 
+20. Notice that the **Timeline** now displays information about the appointment. 
 
 21. **Save and close** the account. 
 
-22. Click to select the **Appointment** and display the details about it. 
+22. In the **My Work** section of the navigation pane, select **Activities**.
 
-23. Select the **Open Appointment** link.
+23. Click the **Meeting with Jaskson** link to open the appointment row and display the form. 
 
-24. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to finish the appointment. 
+24. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
 
-25. Select the **Save and Close** button to return to the account record. 
+25. Notice that the appointment is no longer listed in the **My Activities** view. 
 
-26. Select **Save and Close** on the account record to leave the account record. 
+26. Select the **My Activities** view to change to the **Closed Activities** view. The completed **Meeting with Jason** appointment is displayed.
