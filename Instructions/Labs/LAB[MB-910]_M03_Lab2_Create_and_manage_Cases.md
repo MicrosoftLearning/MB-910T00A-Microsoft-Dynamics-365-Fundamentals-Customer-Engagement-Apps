@@ -19,19 +19,19 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 2. Using the navigation on the left side of the screen, select **Cases**. 
 
-3. On the **Command Bar**, select the **New** button to create a new case record.
+3. On the **Command Bar**, select the **New Case** button to create a new case record.
 
 4. Complete the new case record as follows:
 
 	- **Case Title:** Item arrived Damaged – Your Initials
 
-	- **Customer:** Alpine Ski House (Sample)
+	- **Customer:** Alpine Ski House
 
 	- **Origin:** Phone
 
 5. Select the **Save** button to save the record and leave it open. 
 
-6. On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Dwayne Elijah**. 
+6. On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Alfonso Albritton**. 
 
 7. Click the **X** on the **Identify** stage fly out window to remove the window so you can continue working. 
 
