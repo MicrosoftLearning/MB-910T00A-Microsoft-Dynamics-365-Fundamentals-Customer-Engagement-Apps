@@ -29,7 +29,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 4. On the **Command Bar**, select the **Save & Close** button.
 
-5. Repeat the steps to create two more Bookable Resource.
+5. Repeat the steps to create three more Bookable Resource.
 
 	- **Resource Type:** Contact
 
@@ -39,6 +39,13 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 	- **Resource Type:** Contact
 
 	- **Contact:** Aidan Knaggs
+	
+	- Select the Related tab and add a new Related Territory - WA
+
+
+	- **Resource Type:** Contact
+
+	- **Contact:** Cacilia Viera
 	
 	- Select the Related tab and add a new Related Territory - WA
 
