@@ -19,13 +19,15 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 ## Instructions
 
+**Note:** Marketing Emails cannot be created or edited in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+
 **Note:** Before we create a customer journey, we need to make sure that we have an active email that can be added to the customer journey. 
 
 1. If necessary open the Dynamics 365 Marketing Application. 
 
 2. Using the navigation on the left, select **Marketing emails** under the Marketing Execution group
 
-3. Locate and open the **Introduction to Chairs** marketing email. 
+3. Click on the **Created on** column and select **Sort Olderst to Newest**. Locate and open the **Introduction to Chairs** marketing email. 
 
 4. On the **Command Bar** at the top, select the **Go Live** button. 
 
@@ -35,15 +37,15 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 7. The **New Customer Journey** page opens with the **Select a Customer Journey Template** dialog box shown. Select **Skip** to start creating the journey from scratch.
 
-8. Select **Set audience** (or, alternatively, select **+**). Select the Fargo Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+8. Select **Set audience** (or, alternatively, select **+**). Select the Chicago Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
 
-9. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
+9. Select **+** on the Chicago Contacts swimlane, and then select **Send an email** from the contextual menu.
 
 10. Select the **Introduction to Chairs** email that you activated earlier. 
 
 11. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
-	- **Name**: Fargo Customer Journey
+	- **Name**: Chicago Customer Journey
 
 	- **Start date and time**: Enter Todays Date
 
