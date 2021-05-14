@@ -98,13 +98,6 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Email:** piper@sample.com
 
-	- **Street 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **City:** Seattle
-
-	- **State/Province:** WA
-
-	- **ZIP/Postal Code:** 98001 
 
 9. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
 
@@ -154,9 +147,9 @@ After visiting with Piper, you identify that there is enough interest on her end
 
 2. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
 
-3. Select the **Develop** stage to return to the opportunity.
+3. Select the **Qualify** stage to return to the lead.
 
-4. Click the **Save &amp; Close** button to close the Opportunity record that was created. 
+4. Click the **Save &amp; Close** button to close the Lead record that was created. 
 
  
 
@@ -170,11 +163,11 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 1. Using the navigation on the left side of the screen, select **Opportunities**. 
 
-2. Select the drop-down arrow next to the **My Open Opportunities** view, from the menu that appears, select **Open Opportunities**.
+2. Select the drop-down arrow next to the **My Open Opportunities** view, from the menu that appears, select **All Opportunities**.
 
-3. On the Command Bar, select Show Chart. Notice that the Top Customers chart displays based on the Opportunity table. 
+3. On the Command Bar, select Show Chart. Notice that the **Top Customers** chart displays based on the Opportunity table. 
 
-4. Select the drop-down arrow next to Top Customers, from the menu that appears, select **Sales Pipeline**.
+4. Select the drop-down arrow next to **Top Customers**, from the menu that appears, select **Sales Pipeline**.
 
 5. Select the Qualify portion of the Funnel. Notice that the list of Opportunities changes to display on the opportunities that in the qualify stage. 
 
@@ -252,11 +245,10 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 Now that you have a related quote, you will prepare the quote to present it to a customer. Under normal circumstances, we would likely add products to the quote record before it is delivered to a customer. Because we are working in shared environments, we are going to skip the adding of quote lines and walk through the delivery of the quote. 
 
-1. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
 
-2. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left pane, select the Search icon and then select **Default Price List** from the options.
+1. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left pane, select the Search icon and then select **Office 365 USA (sample)** from the options. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
 
-3. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
+2. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
 
 3. On the Opportunity record, select the **Propose** Stage. 
 
@@ -312,4 +304,4 @@ Now that you have create a sales order, we will close the order and generate an 
 
 4. On the **Command Bar** of the order, select the **Create Invoice** button. 
 
-5. Once the Invoice record is open, select the **Invoice Paid*.
+5. On the **Command Bar**, select the **Invoice Paid** button. Click Ok.
