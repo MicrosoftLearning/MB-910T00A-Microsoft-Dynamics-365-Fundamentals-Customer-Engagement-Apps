@@ -32,9 +32,9 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 	- **Topic:** Wants to upgrade their existing equipment – Your Initials
 
-	- **Account:** Adventure Works
+	- **Contact:** Jay Klein
 
-	- **Contact:** Jim Glynn
+	- **Account:** Northwind Traders
 
 	- **Purchase Timeframe:** This Quarter
 
