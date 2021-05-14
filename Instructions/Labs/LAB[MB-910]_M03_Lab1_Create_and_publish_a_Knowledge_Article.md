@@ -21,13 +21,15 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**. 
 
-4. Select **Draft Articles**. You will likely see two articles in draft mode.
+4. Select the **Draft Articles** view. 
 
-5. Select **Approved Articles**. You should see at least one approved article. 
+5. Select **Approved Articles**. 
 
 6. Switch back to **My Active Articles**
 
 7. On the **Command Bar**, select the **New** button. 
+
+8. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. Set **Language** to **English - United States**.
 
 8. Complete the article as follows:
 
