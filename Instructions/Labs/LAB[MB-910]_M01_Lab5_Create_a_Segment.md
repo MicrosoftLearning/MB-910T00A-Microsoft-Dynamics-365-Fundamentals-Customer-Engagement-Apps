@@ -19,7 +19,8 @@ During this exercise you will see that it is very easy to create customer segmen
 
 ## Instructions
 
-1. Using the navigation on the left, select Segments under Marketing. 
+
+1. Open the Dynamics Marketing application. The **Marketing** area should be selected. Select **Segments** under **Customers**.
 
 2. On the command bar, select **New**.
 
@@ -29,15 +30,15 @@ During this exercise you will see that it is very easy to create customer segmen
 
 5. Select **Add query block** to create a query against the contact table. 
 
-6. Select the ghost text **Select attribute**. 
+6. Click the **Select attribute** control.
 
-7. Then type "city" to filter the list and choose **Address 1: City** from the list.
+7. Type "city" to filter the list and select **Address 1: City**.
 
-8. Leave the next drop-down list set to **Equals**. 
+8. Leave the next drop-down list set to **Is**. 
 
-9. Select the third drop-down list, which contains the ghost text **Enter text** and type **Redmond**.
+9. Clck **Type to search** and type **Chicago**.
 
-10. Click to select the **Name** field at the top of the query and enter **Fargo Contacts - Your initials**.
+10. Click to select the **Name** field at the top of the query and enter **Chicago Contacts - Your initials**.
 
 11. Select **Save** on the command bar to save your segment
 
@@ -45,4 +46,4 @@ During this exercise you will see that it is very easy to create customer segmen
 
 13. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
-14. You should now see that a **Members** tab has been added. 
+14. You should now see that a **Members** tab has been added. Jackson Anderson is listed.
