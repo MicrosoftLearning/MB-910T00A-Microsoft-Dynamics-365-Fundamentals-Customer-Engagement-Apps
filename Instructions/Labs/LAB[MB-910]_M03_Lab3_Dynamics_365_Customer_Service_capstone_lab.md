@@ -73,13 +73,13 @@ Upon completion of the lab, you will have completed the following:
 
 3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**. 
 
-4. Select **Draft Articles**. You will likely see two articles in draft mode.
+4. Select **Draft Articles**. 
 
-5. Us the view selector to select **Approved Articles**. You should see at least one approved article. 
+5. Us the view selector to select **Approved Articles**.  
 
 6. Use the view selector to switch back to **My Active Articles**
 
-7. On the **Command Bar**, select the **New** button. 
+7. On the **Command Bar**, select the **New** button. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. Set **Language** to **English - United States**.
 
 8. Complete the article as follows:
 
@@ -153,7 +153,7 @@ In most organizations, after the article author creates the record, it goes thro
 
 13. Press your **Enter** key. 
 
-14. Enter the text press the **Confirm** button. 
+14. Enter the text "Press the confirm button." 
 
 15. On the **Command Bar**, select the **Save &amp; Close** button.
 
@@ -208,17 +208,8 @@ Now that the article has been approved, we will publish it so that it will be av
 
 3. On the **Command Bar**, select the **Show Visual Filter** button.
 
-4. On the **Case Mix (By Origin)** chart, select **Phone**. Notice that the Cases filter to only display Phone Cases.  
 
-5. Select **Clear Al** to clear the filter.
-
-6. On the **Cases by Priority** chart, select **High**. Notice that the case list will be further filtered to include High priority cases.  
-
-7. Click the first case that appears in the list to open it. After the case open, click the **Save &amp; Close** button on the command bar to close the case and return to the **Tier 1** Dashboard. 
-
-8. Remove any currently applied filters, by selecting **Clear All**. 
-
-9. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
+4. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
 
  
 
