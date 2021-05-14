@@ -76,7 +76,7 @@ In this exercise you will be creating a project and defining detailed related to
 
 2. On the Quotes sub-grid, click the **New Quote** button.
 
-3. After the new quote record open, set the **Product Price List** field on the quote to **Products and packaged Services**. 
+3. After the new quote record open, set the **Product Price List** field on the quote to **US Bill Rates**. 
 
 4. Select the **Quote Lines** Tab.
 
@@ -132,7 +132,6 @@ In this exercise you will be creating a project and defining detailed related to
 
 	- **Unit:** Hour
 
-	- **Sales Amount:** 50,000
 
 15. Select the **Save and Close** button to close the line detail item. 
 

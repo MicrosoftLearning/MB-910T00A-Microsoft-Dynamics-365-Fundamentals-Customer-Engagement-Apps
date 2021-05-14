@@ -82,7 +82,7 @@ Now that you have successfully created a project opportunity based on a project0
 
 8. On the Sales Team sub-grid, select **New Connection**. (If you do not see the **New Connection** button, select the **Vertical Ellipsis**, and from the menu that appears select **New Connection**.) 
 
-9. In the **Search** field, enter the text **System** and select your **User Record that was provided by the instructor.** Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+9. In the **Search** field, enter the text **System** and select  **System Administrator.** Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
 
 10. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
