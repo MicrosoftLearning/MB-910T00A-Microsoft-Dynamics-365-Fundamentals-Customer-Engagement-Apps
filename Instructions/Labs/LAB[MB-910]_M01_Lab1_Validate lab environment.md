@@ -30,14 +30,14 @@ Exercise 1 - Access the Dynamics 365 application
 
 **Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.
 
-3. Feel free to explore the Power Platform admin center but **do not make any changes.**
+3. Feel free to explore the Power Platform admin center but **do not make any changes**.
 
 ### Task 2 – Access the Dynamics 365 application
 
-1.  Expand the grid button at the top left of the screen, directly to the left of **Power Platform admin center.** Select **Dynamics 365.**
+1.  Expand the App Launcher domino button at the top left of the screen, directly to the left of **Power Platform admin center. Click on the Dynamics 365 **Marketing** app to launch it.
 
-2.  Select the **Edit** button. You will open the Contoso environment in the **Power Platform admin center.**
+2.  Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the **Marketing** area. 
 
-4. From the list of available Dynamics 365 apps, select **Marketing.**
+3.  Click **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.  
 
-5. Spend a few minutes exploring the application.
+4. Spend a few minutes exploring the application and then return to the **Marketing** area.
