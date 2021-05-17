@@ -61,7 +61,7 @@ In this exercise, you will be working with common records that are used by all D
 
 8. Set the **Parent Account** field to the **Contoso Corporate** account you created earlier. 
 
-9. Click the **Save** button to save the account and leave it open. 
+9. Select the **Save** button to save the account and leave it open. 
 
 10. Locate the **Contacts Sub-grid** on the right side of the screen. 
 
@@ -103,7 +103,7 @@ In this exercise, you will be working with common records that are used by all D
 
 22. In the **My Work** section of the navigation pane, select **Activities**.
 
-23. Click the **Meeting with Jaskson** link to open the appointment row and display the form. 
+23. Select the **Meeting with Jaskson** link to open the appointment row and display the form. 
 
 24. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
 

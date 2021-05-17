@@ -71,7 +71,7 @@ Upon completion of the lab, you will have completed the following:
 
 3. To create a new marketing email, on the **Command Bar**, select **New**.
 
-4. From the list of **Marketing email Templates**, select **1 column newsletter**, and click the **Select** button.
+4. From the list of **Marketing email Templates**, select **1 column newsletter**, and select the **Select** button.
 
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
@@ -81,15 +81,15 @@ Upon completion of the lab, you will have completed the following:
 
 8. In the message window, locate and select the small image **above** the text a **Short headline goes here**. 
 
-9. In the Propterties Pane, hover over and select the **Image gallery** button. 
+9. In the Properties Pane, hover over and select the **Image gallery** button. 
 
-10. Select the **contosologo.png** image and click the **Select** button to insert into your email. 
+10. Select the **contosologo.png** image and select the **Select** button to insert into your email. 
 
 11. Use the size handles on the image to size the image to the desired size. 
 
-12. Click to select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
+12. Select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
 
-13. Click in the section below the text you just modified. 
+13. Select the section below the text you just modified. 
 
 14. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
 
@@ -97,17 +97,17 @@ Upon completion of the lab, you will have completed the following:
 
 16. Select the **Image gallery** button. 
 
-17. Select the **safebox.png** image, and then click the **Select** button to insert into your email. 
+17. Select the **safebox.png** image, and then select the **Select** button to insert into your email. 
 
 18. Size the image. 
 
 19. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
 
-20. Click in the text box below the heading you just modified. 
+20. Select in the text box below the heading you just modified. 
 
 21. Replace the text with the following text: **Our award-winning systems protect you.**
 
-22. Click to select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
+22. Select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
 
 23. Repeat the process for the remaining sections or other elements in the message.
 
@@ -115,7 +115,7 @@ Upon completion of the lab, you will have completed the following:
 
 25. Once you have verified that there are no errors, on the **Command Bar**, select the **Go Live** button. 
 
-26. Click the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+26. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
 
 27. If you have used the same email address for both contacts you will receive a **Duplicate records found** alert. Choose **Ignore and save**.
 
@@ -187,13 +187,13 @@ Creating a customer segment will let us define the customers that we want to tar
 
 8. Notice that the Contact table is selected by default. Do not Change it. 
 
-9. Click to select the ghost text **Select attribute**. 
+9. Select the text **Select attribute**. 
 
 10. Enter the word City to filter the list. Choose **Address 1: City** from the list.
 
 11. Leave the next drop-down list set to **Equals**. 
 
-12. Select the third drop-down list, which contains the ghost text **Enter text** and select **Seattle**.
+12. Select the third drop-down list, which contains the text **Enter text** and select **Seattle**.
 
 13. Select **Save** on the command bar to save your segment.
 
@@ -249,7 +249,7 @@ Now that we have created the marketing content that we want to deliver and defin
 
 4. In the **Audience** area, verify the **Source type** is set to **Segment**. 
 
-5. Click in the segment look up below the **Inclusion** drop-down. 
+5. Select the segment look up below the **Inclusion** drop-down. 
 
 6. Enter the text **Seattle** and select the **Seattle Customers** segment you created earlier. 
 
@@ -259,11 +259,11 @@ Now that we have created the marketing content that we want to deliver and defin
 
 9. Move your cursor after the Send an email action. Select the **+** sign, from the menu that appears, select **If/Then**.
 
-10. In the **If/Then** area on the left side of the screen, under conditions click in the **Select a source** field. 
+10. In the **If/Then** area on the left side of the screen, under conditions select the **Select a source** field. 
 
 11. Select the **Home Security – Your Initials** segment. 
 
-12. Click in the **Select a Condition** field. Choose **a link has been clicked**.
+12. Select the **Select a Condition** field. Choose **a link has been clicked**.
 
 13. In the **Yes** path, select the **+** sign. From the menu that appears, select **Create lead**.
 

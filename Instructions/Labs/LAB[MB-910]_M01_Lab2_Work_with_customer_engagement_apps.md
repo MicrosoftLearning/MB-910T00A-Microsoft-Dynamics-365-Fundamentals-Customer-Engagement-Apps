@@ -30,13 +30,13 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 4. Select the **X** in the upper right-hand corner of the **Filter box** to close the filter box. 
 
-5. To locate a specific app, you can search for it by clicking in the **Search my apps** field on the left side of the screen. 
+5. To locate a specific app, you can search for it by Selecting the **Search my apps** field on the left side of the screen. 
 
 6. Type the text **Sales Hub** and select the **Sales Hub** app to open it. 
 
 7. When you are within an app, there will be different areas that you can work with based on what you are trying to do. For example, the Sales Hub application contains different administrative settings that you can work with. 
 
-8. On the lower left side of the navigation pane, click **Sales** and change to the the **App Settings** area. Explore the application settings.
+8. On the lower left side of the navigation pane, Select **Sales** and change to the the **App Settings** area. Explore the application settings.
 
 9. Select the Area selector again and change it from **App Settings** back to **Sales**.
 

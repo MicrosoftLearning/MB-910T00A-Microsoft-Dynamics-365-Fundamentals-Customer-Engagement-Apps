@@ -30,7 +30,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
 5. Select **Add query block** to create a query against the contact table. 
 
-6. Click the **Select attribute** control.
+6. Select the **Select attribute** control.
 
 7. Type "city" to filter the list and select **Address 1: City**.
 
@@ -38,7 +38,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
 9. Clck **Type to search** and type **Chicago**.
 
-10. Click to select the **Name** field at the top of the query and enter **Chicago Contacts - Your initials**.
+10. Select the **Name** field at the top of the query and enter **Chicago Contacts - Your initials**.
 
 11. Select **Save** on the command bar to save your segment
 

@@ -80,7 +80,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 15. Select the **Book &amp; Exit** button to book the item and leave the scheduling window. 
 
-16. Once back on the Work Order click the **Save and Close** button from the Command Bar. 
+16. Once back on the Work Order, select the **Save and Close** button from the Command Bar. 
 
 17. Using the left navigation, select **Work Orders**. Select the **Unscheduled Work Orders** view.
 
@@ -100,7 +100,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 25. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
 
-26. Click in search resources box on the schedule board (Located right above the resource name column), enter Abboe and locate the work order that is scheduled for Abbie later today. 
+26. Select the search resources box on the schedule board (Located right above the resource name column), enter Abboe and locate the work order that is scheduled for Abbie later today. 
 
 27. Right-click on the work order, and from the menu that appears, select **Substitute Resource**, select the **Find Substitution** button**.**
 

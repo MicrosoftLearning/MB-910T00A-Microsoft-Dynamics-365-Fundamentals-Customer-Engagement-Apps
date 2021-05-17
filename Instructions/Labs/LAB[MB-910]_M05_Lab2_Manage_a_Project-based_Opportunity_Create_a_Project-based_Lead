@@ -76,13 +76,13 @@ Now that you have successfully created a project opportunity based on a project0
 
 5. On the Lead to Opportunity business process flow, select the **Develop** Stage. Notice that you need to Identify Stakeholders and Competitors.
 
-6. Click the **X** on the stage window to close it so you can continue working. 
+6. Select the **X** on the stage window to close it so you can continue working. 
 
 7. In the **Stakeholders** sub-grid, notice **Jean** is already defined as a stakeholder. 
 
 8. On the Sales Team sub-grid, select **New Connection**. (If you do not see the **New Connection** button, select the **Vertical Ellipsis**, and from the menu that appears select **New Connection**.) 
 
-9. In the **Search** field, enter the text **System** and select  **System Administrator.** Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+9. In the **Search** field, enter the text **System** and select  **System Administrator.** Once completed, select the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
 
 10. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
@@ -94,13 +94,13 @@ Now that you have successfully created a project opportunity based on a project0
 
 14. Select Coho Security record you just created in a previous exercise is selected, select the **Add** button. 
 
-15. Click to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+15. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
-16. Click the **Next Stage** button to advance to the **Propose** stage.
+16. Select the **Next Stage** button to advance to the **Propose** stage.
 
 17. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
 
-18. Click the **X** on the Propose stage to close the stage window. 
+18. Select the **X** on the Propose stage to close the stage window. 
 
 19. On the opportunity record, select the **Opportunity Lines** tab.
 

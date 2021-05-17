@@ -34,10 +34,10 @@ Exercise 1 - Access the Dynamics 365 application
 
 ### Task 2 – Access the Dynamics 365 application
 
-1.  Expand the App Launcher domino button at the top left of the screen, directly to the left of **Power Platform admin center. Click on the Dynamics 365 **Marketing** app to launch it.
+1.  Expand the App Launcher domino button at the top left of the screen, directly to the left of **Power Platform admin center. Select the Dynamics 365 **Marketing** app to launch it.
 
 2.  Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the **Marketing** area. 
 
-3.  Click **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.  
+3.  Select **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.  
 
 4. Spend a few minutes exploring the application and then return to the **Marketing** area.

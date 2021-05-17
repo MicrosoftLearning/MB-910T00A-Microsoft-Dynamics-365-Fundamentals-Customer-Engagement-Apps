@@ -53,7 +53,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	4. Select damaged for the reason
 
-	5. Click Print
+	5. Select Print
 
 Once we have received the returned / damaged item, your account will be credited back the amount.
 
@@ -79,13 +79,13 @@ After the author initially creates the record, it will generally go through an a
 
 18. You will be asked to confirm the article approval, select **OK**. 
 
-19. Click the **Next Stage** button to advance to the **Publish** stage. 
+19. Select the **Next Stage** button to advance to the **Publish** stage. 
 
 20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
 21. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
 
-22. Click the **Associate** button. 
+22. Select the **Associate** button. 
 
 23. On the **New Process**, select the **Publish** stage. 
 
@@ -93,9 +93,9 @@ After the author initially creates the record, it will generally go through an a
 
 25. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
-26. Click the **Finish** button to complete the process. 
+26. Select the **Finish** button to complete the process. 
 
-27. On the **Command Bar** for the article, click the **Publish** button. 
+27. On the **Command Bar** for the article, select the **Publish** button. 
 
 28. Confirm that the following is selected:
 

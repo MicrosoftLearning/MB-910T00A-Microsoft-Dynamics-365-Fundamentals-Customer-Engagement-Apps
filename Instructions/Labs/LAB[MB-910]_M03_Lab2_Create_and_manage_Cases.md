@@ -33,7 +33,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 6. On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Alfonso Albritton**. 
 
-7. Click the **X** on the **Identify** stage fly out window to remove the window so you can continue working. 
+7. Select the **X** on the **Identify** stage fly out window to remove the window so you can continue working. 
 
 8. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
@@ -41,13 +41,13 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 10. Set the **Subject** field to **Return Call to Patrick – Your Initials** and leave the rest of the fields as is. 
 
-11. Click the **Save and Close** button. 
+11. Select the **Save and Close** button. 
 
 12. On the **Phone to Case Process**, select the **Identify** stage.
 
-13. Click the **Next Stage** button to advance to the **Research** stage. 
+13. Select the **Next Stage** button to advance to the **Research** stage. 
 
-14. Click the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
+14. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
 
 15. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
 

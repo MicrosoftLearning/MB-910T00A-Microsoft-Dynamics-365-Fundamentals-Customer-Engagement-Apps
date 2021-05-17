@@ -68,7 +68,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 13. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
 
-14. Search for and select your user record. Once completed, click the **Add** button. 
+14. Search for and select your user record. Once completed, select the **Add** button. 
 
 15. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
@@ -78,13 +78,13 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 18. Select the **Save and Close** button.
 
-19. **Coho Technologies** should be selected in the lookup record window. Click the **Add** button to finishing adding the competitor. 
+19. **Coho Technologies** should be selected in the lookup record window. Select the **Add** button to finishing adding the competitor. 
 
-20. Click to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+20. Select to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
-21. Click the **Next Stage** button to advance to the **Propose** stage.
+21. Select the **Next Stage** button to advance to the **Propose** stage.
 
-22. On the **Propose** stage, mark all four steps as **Completed**, and click the **Next Stage** button to advance to the **Close** stage. 
+22. On the **Propose** stage, mark all four steps as **Completed**, and select the **Next Stage** button to advance to the **Close** stage. 
 
 23. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
 
@@ -94,4 +94,4 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 26. Now that you have completed the business process, you need to close the opportunity. On the **Command Bar** of the opportunity, select the **Close as Won** button. 
 
-27. On the **Close Opportunity** screen, click the **OK** button to finish closing the opportunity record. 
+27. On the **Close Opportunity** screen, select the **OK** button to finish closing the opportunity record. 

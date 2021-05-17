@@ -145,7 +145,7 @@ Another way to generate work orders is by escalating case records. In this examp
 
 3. On the **Command Bar**, select the **Convert to Work Order** button. 
 
-4. After the work order creation has completed, click the **OK** button on the pop-up screen to view the Work Order details. 
+4. After the work order creation has completed, select the **OK** button on the pop-up screen to view the Work Order details. 
 
  
 
@@ -185,6 +185,6 @@ Both of your newly created work orders are ready to be scheduled.
 
 6. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
 
-7. Click in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
+7. Select in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
 
-8. **Right-click** on the scheduled item. From the menu that appears, select **Substitute Resource**. Click in the Select/Search box, select your resource record, and select **Re-assign**
+8. **Right-click** on the scheduled item. From the menu that appears, select **Substitute Resource**. Select the Select/Search box, select your resource record, and select **Re-assign**

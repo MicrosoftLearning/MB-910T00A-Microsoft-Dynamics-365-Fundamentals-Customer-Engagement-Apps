@@ -172,15 +172,15 @@ In most organizations, after the article author creates the record, it goes thro
 
 Now that the article has been approved, we will publish it so that it will be available for people working on cases. 
 
-1. Click the **Next Stage** button to advance to the **Publish** stage. 
+1. Select the **Next Stage** button to advance to the **Publish** stage. 
 
 2. Mark the **Set Product Associations** as **Complete**. 
 
 3. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
-4. Click the **Finish** button to complete the process. 
+4. Select the **Finish** button to complete the process. 
 
-5. On the **Command Bar** for the article, click the **Publish** button. 
+5. On the **Command Bar** for the article, select the **Publish** button. 
 
 6. Confirm that the following is selected:
 
@@ -194,7 +194,7 @@ Now that the article has been approved, we will publish it so that it will be av
 
 	- **Expiration Status:** Expired
 
-7. Click the **Publish** button to publish the article.
+7. Select the **Publish** button to publish the article.
 
 
 ## Exercise 2: Manage a support case through its lifecycle
@@ -247,13 +247,13 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Duration:** 15 minutes.
 
-17. Click the **Save and Close** button. 
+17. Select the **Save and Close** button. 
 
 18. On the **Phone to Case Process**, select the **Identify** stage.
 
-19. Click the **Next Stage** button to advance to the **Research** stage. 
+19. Select the **Next Stage** button to advance to the **Research** stage. 
 
-20. Click the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
+20. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
 
 21. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
@@ -267,7 +267,7 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Duration:** 30 minutes.
 
-24. Click the **Save and Close** button. 
+24. Select the **Save and Close** button. 
 
 25. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
 

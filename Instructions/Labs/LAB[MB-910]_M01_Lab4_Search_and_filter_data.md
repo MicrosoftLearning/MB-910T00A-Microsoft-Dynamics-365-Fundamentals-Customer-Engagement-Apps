@@ -29,7 +29,7 @@ In this exercise, you will leverage the searching and filtering capabilities of 
 
 4. From the menu that appears, select **Filter By**.
 
-5. In the Filter by box, leave the **operator** as **Equals**, enter **Redmond** for the value, press **enter** or click **Apply** to filter by Redmond.
+5. In the Filter by box, leave the **operator** as **Equals**, enter **Redmond** for the value, press **enter** or select **Apply** to filter by Redmond.
 
 6. Notice that only accounts with a city of Redmond are being displayed. 
 
@@ -39,9 +39,9 @@ In this exercise, you will leverage the searching and filtering capabilities of 
 
 9. Notice that the Contoso accounts are displayed. 
 
-10. Click on the **Contoso Corporate** link to open the record. 
+10. Select the **Contoso Corporate** link to open the record. 
 
-11. On the **Record Timeline** in the middle of the screen, click the **+** icon to add a new activity. 
+11. On the **Record Timeline** in the middle of the screen, select the **+** icon to add a new activity. 
 
 12. From the menu that appears, select **Task**.
 
@@ -69,7 +69,7 @@ In this exercise, you will leverage the searching and filtering capabilities of 
 
 21. Set **Activity Type** filter to **Task**.
 
-22. Click the **Send Marketing Materials text** to open the task you created earlier. 
+22. Select the **Send Marketing Materials text** to open the task you created earlier. 
 
 23. On the **Command Bar**, select the **Mark Complete** button. 
 

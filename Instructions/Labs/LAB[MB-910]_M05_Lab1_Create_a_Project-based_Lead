@@ -110,7 +110,7 @@ Upon completion of the lab, you will have completed the following:
 
 11. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
 
-12. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Click the **Qualify Stage** to select it. Complete the stage as follows:
+12. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Select the **Qualify Stage** to select it. Complete the stage as follows:
 
 	- **Purchase Timeframe:** This Quarter
 
@@ -120,9 +120,9 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Identify Decision Maker:** Completed
 
-13. Click the **X** on the stage window to close the window. 
+13. Select the **X** on the stage window to close the window. 
 
-14. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
+14. Go to the **Record Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
 
 15. From the menu that appears, select **Phone Call**.
 
@@ -136,7 +136,7 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Description:** Initial conversation with Jean to determine initial qualification. 
 
-17. Click the **Save and Close** button.
+17. Select the **Save and Close** button.
 
 18. Notice the **Initial Qualification Call** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
 
@@ -152,5 +152,5 @@ Upon completion of the lab, you will have completed the following:
 
 3. Select the **Develop** stage to return to the opportunity.
 
-4. Click the **Save &amp; Close** button to close the Opportunity record that was created. 
+4. Select the **Save &amp; Close** button to close the Opportunity record that was created. 
 

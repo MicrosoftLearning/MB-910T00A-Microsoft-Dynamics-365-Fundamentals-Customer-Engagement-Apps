@@ -27,7 +27,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 2. Using the navigation on the left, select **Marketing emails** under the Marketing Execution group
 
-3. Click on the **Created on** column and select **Sort Olderst to Newest**. Locate and open the **Introduction to Chairs** marketing email. 
+3. Select the **Created on** column and select **Sort Olderst to Newest**. Locate and open the **Introduction to Chairs** marketing email. 
 
 4. On the **Command Bar** at the top, select the **Go Live** button. 
 
