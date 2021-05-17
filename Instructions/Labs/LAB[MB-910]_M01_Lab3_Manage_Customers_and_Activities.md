@@ -19,7 +19,7 @@ Defining and working with account and contact records in Dynamics 365 applicatio
 
 ## Instructions
 
-In this exercise, you will be working with common records that are used by all Dynamics 365 for Customer Engagement apps. 
+In this exercise, you will be working with common records that are used by all Dynamics 365 customer engagement apps. 
 
 1. If is not open already, open the **Dynamics 365 Sales Hub** application. 
 
