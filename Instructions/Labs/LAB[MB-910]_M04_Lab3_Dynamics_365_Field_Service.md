@@ -79,13 +79,15 @@ Recently a corporate customer Active Transport, Inc. contacted support about an 
 
 	- **Case Title:** Camera Down
 
-	- **Customer:** Active Transport Inc.
+	- **Customer:** Best For You Organics Company
 
 	- **Origin:** Phone
 
+	Save the record.
+
 5. Select the **Field Service** tab
 
-6. Set the **Incident Type** field to **Camera Down**.
+6. Set the **Incident Type** field to **Camera Down**. (create new)
 
 7. On the **Command bar**, select the **Save and Close** button to save and close the case record. 
 
@@ -103,13 +105,17 @@ We will come back to your created case record later. Next, let’s examine how t
 
 3. Complete the Work Order details as follows:
 
-	- **Service Account:** Brakes & Gears 
+	- **Service Account:** Margie's Travel
 
-	- **Price List:** Default Price List
+	- **Price List:** Office 365 US (sample)
 
-	- **Primary Incident Type:** Fan Out
+	- **Work Order Type:** Service
 
 	- **Taxable:** No
+
+	Save the record and assign the Primary Incident Type
+
+	- **Primary Incident Type:** Fan Out (create new)
 
 4. Note the Work Order Number to ensure that you are working with the correct work order later. 
 
@@ -139,11 +145,7 @@ Another way to generate work orders is by escalating case records. In this examp
 
 3. On the **Command Bar**, select the **Convert to Work Order** button. 
 
-4. After the work order creation has completed, click the **OK** button on the pop-up screen to view the Work Order details. 
-
-5. Select the **Services** Tab and verify that the **Inspect System Health** and **Inspect Range of Motion** services were added to the work order. **NOTE:** If you do not see them initially, press F5 to refresh your screen. 
-
-6. Select the **Service Task** Tab and verify that 4 tasks were added.
+4. After the work order creation has completed, select the **OK** button on the pop-up screen to view the Work Order details. 
 
  
 
@@ -157,21 +159,15 @@ Both of your newly created work orders are ready to be scheduled.
 
 2. In the upper right-hand corner of the screen, set the **New Schedule Board** experience to **ON**. 
 
-3. Using the **Search resources** lookup field, enter the name of your user account. (Your resource record should be displayed.)
+3. Using the **Search resources** lookup field, enter Aidan Knaggs. 
 
 4. At the bottom of the screen in the requirements panel, select **Unscheduled Work Orders**.  (If the requirements panel is not displayed, select the arrow at the bottom of the screen to expand it.) 
 
-5. Locate the **Active Transport** Work Order you created from the case record. (Remember the work order number). 
+5. Locate the **Munson's Pickles** Work Order you created from the case record. (Remember the work order number). 
 
-6. Drag the **Active Transport** record and place it at an open slot for your user record. 
+6. Drag the **Munson's Pickles** record and place it at an open slot for Aiden's contact record. 
 
 7. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
-
-8. Click in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
-
-9. **Right-click** on the scheduled item. From the menu that appears, select **Re-assign**. Click in the using the search box, select your resource record.
-
- 
 
  
 
@@ -185,10 +181,10 @@ Both of your newly created work orders are ready to be scheduled.
 
 4. Locate the **Active Transport** Work Order you created from the case record. (Remember the work order number). 
 
-5. Drag the **Active Transport** record and place it at an open slot for your user record. 
+5. Drag the **Active Transport** record and place it at an open slot for your user record. The text will be green if the time slot matches the customer's preferred time slot.
 
 6. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
 
-7. Click in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
+7. Select in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
 
-8. **Right-click** on the scheduled item. From the menu that appears, select **Substitute Resource**. Click in the Select/Search box, select your resource record, and select **Re-assign**
+8. **Right-click** on the scheduled item. From the menu that appears, select **Substitute Resource**. Select the Select/Search box, select your resource record, and select **Re-assign**

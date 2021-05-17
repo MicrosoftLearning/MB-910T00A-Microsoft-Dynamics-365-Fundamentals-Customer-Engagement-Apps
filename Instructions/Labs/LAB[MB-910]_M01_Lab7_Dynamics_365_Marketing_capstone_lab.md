@@ -9,6 +9,8 @@ Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Practice Lab 1.7 - Dynamics 365 Marketing capstone lab
 
+**Note:** Marketing Emails cannot be created or edited in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
+
 ## Lab Scenario
 
 ABC company specializes in the manufacturing, selling, installation and servicing of security equipment. Their products include both indoor and outdoor security cameras, moisture and fire sensors, monitoring services, and more. 
@@ -69,53 +71,53 @@ Upon completion of the lab, you will have completed the following:
 
 3. To create a new marketing email, on the **Command Bar**, select **New**.
 
-4. From the list of **Marketing email Templates**, select **1 column newsletter**, and click the **Select** button.
+4. From the list of **Marketing email Templates**, select **1 column newsletter**, and select the **Select** button.
 
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
 6. In the **Name** field enter **Home Security – Your Initials**. 
 
-7. In the **Subject** field enter the text **Keep you family Safe**!
+7. In the **Subject** field enter the text **Keep you family Safe**! You may need to scroll to the top of the Design page to reveal the Subject field.
 
 8. In the message window, locate and select the small image **above** the text a **Short headline goes here**. 
 
-9. Hover over and select the **Image gallery** button. 
+9. In the Properties Pane, hover over and select the **Image gallery** button. 
 
-10. Select the **Security2 Image** and click the **Select** button to insert into your email. 
+10. Select the **contosologo.png** image and select the **Select** button to insert into your email. 
 
 11. Use the size handles on the image to size the image to the desired size. 
 
-12. Click to select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
+12. Select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
 
-13. Click in the section below the text you just modified. 
+13. Select the section below the text you just modified. 
 
 14. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
 
 15. Select the **Image** just below the text you added. 
 
-16. Hover over and select the **Image gallery** button. 
+16. Select the **Image gallery** button. 
 
-17. Select the **Security1** image, and then click the **Select** button to insert into your email. 
+17. Select the **safebox.png** image, and then select the **Select** button to insert into your email. 
 
-18. Size the image until it takes up a solid portion on the message window. 
+18. Size the image. 
 
 19. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
 
-20. Click in the text box below the heading you just modified. 
+20. Select in the text box below the heading you just modified. 
 
 21. Replace the text with the following text: **Our award-winning systems protect you.**
 
-22. Click to select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
+22. Select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
 
-23. Repeat the process for the remaining sections in the message. 
+23. Repeat the process for the remaining sections or other elements in the message.
 
 24. Before we make the email live, we will check it for errors. On the **Command Bar**, select the **Check for Errors** button. 
 
 25. Once you have verified that there are no errors, on the **Command Bar**, select the **Go Live** button. 
 
-26. Click the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+26. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
 
-You have now successfully created a marketing email that you can leverage in other areas of the marketing application. 
+27. If you have used the same email address for both contacts you will receive a **Duplicate records found** alert. Choose **Ignore and save**.
 
 ## Exercise 2: Create a Segment in Dynamics 365 Marketing
 
@@ -185,13 +187,13 @@ Creating a customer segment will let us define the customers that we want to tar
 
 8. Notice that the Contact table is selected by default. Do not Change it. 
 
-9. Click to select the ghost text **Select attribute**. 
+9. Select the text **Select attribute**. 
 
 10. Enter the word City to filter the list. Choose **Address 1: City** from the list.
 
 11. Leave the next drop-down list set to **Equals**. 
 
-12. Select the third drop-down list, which contains the ghost text **Enter text** and type **Seattle**.
+12. Select the third drop-down list, which contains the text **Enter text** and select **Seattle**.
 
 13. Select **Save** on the command bar to save your segment.
 
@@ -231,7 +233,7 @@ Now that we have successfully created your segment, let’s verify the dynamics 
 
 6. Open the **Seattle Customers – Your Initials** segment you created earlier. 
 
-7. Select the **Members** tab. Notice that **Rick Jones – Your Initials** should now be present. 
+7. Select the **Members** tab. Notice that **Rick Jones – Your Initials** should now be present. You may need to refresh the view.
 
 **IMPORTANT:** Since we are working a shared environment and everyone is working in the same system, you will likely see other Contacts in the Dynamic Marketing segment as well. That is OK for purposes of this course. 
 
@@ -247,7 +249,7 @@ Now that we have created the marketing content that we want to deliver and defin
 
 4. In the **Audience** area, verify the **Source type** is set to **Segment**. 
 
-5. Click in the segment look up below the **Inclusion** drop-down. 
+5. Select the segment look up below the **Inclusion** drop-down. 
 
 6. Enter the text **Seattle** and select the **Seattle Customers** segment you created earlier. 
 
@@ -257,11 +259,11 @@ Now that we have created the marketing content that we want to deliver and defin
 
 9. Move your cursor after the Send an email action. Select the **+** sign, from the menu that appears, select **If/Then**.
 
-10. In the **If/Then** area on the left side of the screen, under conditions click in the **Select a source** field. 
+10. In the **If/Then** area on the left side of the screen, under conditions select the **Select a source** field. 
 
 11. Select the **Home Security – Your Initials** segment. 
 
-12. Click in the **Select a Condition** field. Choose **a link has been clicked**.
+12. Select the **Select a Condition** field. Choose **a link has been clicked**.
 
 13. In the **Yes** path, select the **+** sign. From the menu that appears, select **Create lead**.
 

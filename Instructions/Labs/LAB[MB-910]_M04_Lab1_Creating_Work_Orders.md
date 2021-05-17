@@ -21,17 +21,19 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 3. Complete the Work Order details as follows:
 
-	- **Service Account:** Adventure Works
+	- **Service Account:** Adventure Works Cycles
 
-	- **Work Order Type**: Service
+	- **Work Order Type**: Service (Create new)
 
-	- **Price List:** Default Price List
+	- **Price List:** CRM Service USA (sample)
 
 	- **Taxable:** No
 
+4. Save the Work Order.
+
 4. Select the **Settings** tab.
 
-5. Set the **Service Territory** field to **WA**.
+5. Set the **Service Territory** field to **WA**. (Create new)
 
 6. Under **Preferences**, configure the time preferences as follows:
 
