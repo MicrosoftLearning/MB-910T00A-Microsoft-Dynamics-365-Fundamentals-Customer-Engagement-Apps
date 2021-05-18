@@ -98,17 +98,10 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Email:** piper@sample.com
 
-	- **Street 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **City:** Seattle
-
-	- **State/Province:** WA
-
-	- **ZIP/Postal Code:** 98001 
 
 9. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
 
-10. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Click the **Qualify Stage** to select it. Complete the stage as follows:
+10. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Select the **Qualify Stage** to select it. Complete the stage as follows:
 
 	- **Purchase Timeframe:** This Quarter
 
@@ -118,9 +111,9 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Identify Decision Maker:** Completed
 
-11. Click the **X** on the stage window to close the window. 
+11. Select the **X** on the stage window to close the window. 
 
-12. Go to the record **Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
+12. Go to the record **Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
 
 13. From the menu that appears, select **Phone Call**.
 
@@ -134,7 +127,7 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Description:** After some instances in her neighborhood, she is looking to purchase a security system. 
 
-15. Click the **Save and Close** button.
+15. Select the **Save and Close** button.
 
 16. Notice the **Looking for home security equipment** activity is now displayed on the record **Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
 
@@ -154,9 +147,9 @@ After visiting with Piper, you identify that there is enough interest on her end
 
 2. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
 
-3. Select the **Develop** stage to return to the opportunity.
+3. Select the **Qualify** stage to return to the lead.
 
-4. Click the **Save &amp; Close** button to close the Opportunity record that was created. 
+4. Select the **Save &amp; Close** button to close the Lead record that was created. 
 
  
 
@@ -170,15 +163,15 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 1. Using the navigation on the left side of the screen, select **Opportunities**. 
 
-2. Select the drop-down arrow next to the **My Open Opportunities** view, from the menu that appears, select **Open Opportunities**.
+2. Select the drop-down arrow next to the **My Open Opportunities** view, from the menu that appears, select **All Opportunities**.
 
-3. On the Command Bar, select Show Chart. Notice that the Top Customers chart displays based on the Opportunity table. 
+3. On the Command Bar, select Show Chart. Notice that the **Top Customers** chart displays based on the Opportunity table. 
 
-4. Select the drop-down arrow next to Top Customers, from the menu that appears, select **Sales Pipeline**.
+4. Select the drop-down arrow next to **Top Customers**, from the menu that appears, select **Sales Pipeline**.
 
 5. Select the Qualify portion of the Funnel. Notice that the list of Opportunities changes to display on the opportunities that in the qualify stage. 
 
-6. Click anywhere in the white space of the chart to display all open opportunities again. 
+6. Select anywhere in the white space of the chart to display all open opportunities again. 
 
 7. Select the drop-down arrow next to the **Open Opportunities** view, from the menu that appears, select **My Open Opportunities**. The **Looking for Security Equipment – Your Initials** will likely be the only item that appears, and the chart should reflect this. 
 
@@ -194,7 +187,7 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 	- **Est Revenue:** 12,500.00
 
-12. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
+12. Go to the **Record Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
 
 13. From the menu that appears, select **Appointment**.
 
@@ -212,13 +205,13 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 16. On the Lead to Opportunity business process flow, select the **Develop** Stage. Notice that you need to Identify Stakeholders and Competitors.
 
-17. Click the **X** on the stage window to close it so you can continue working. 
+17. Select the **X** on the stage window to close it so you can continue working. 
 
 18. In the **Stakeholders** sub-grid, notice **Piper** is already defined as a stakeholder. 
 
 19. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
 
-20. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, click the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+20. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, select the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
 
 21. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
@@ -230,17 +223,17 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 25. Ensure that the Coho Security record you just created is selected, select the **Add** button. 
 
-26. Click to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+26. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
-27. Click the **Next Stage** button to advance to the **Propose** stage.
+27. Select the **Next Stage** button to advance to the **Propose** stage.
 
 28. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
 
-29. Click the **X** on the Propose stage to close the stage window. 
+29. Select the **X** on the Propose stage to close the stage window. 
 
 30. On the opportunity record, select the **Quotes** tab. 
 
-31. On the Quotes sub-grid, click the **New Quote** button.
+31. On the Quotes sub-grid, select the **New Quote** button.
 
  
 
@@ -252,21 +245,20 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 Now that you have a related quote, you will prepare the quote to present it to a customer. Under normal circumstances, we would likely add products to the quote record before it is delivered to a customer. Because we are working in shared environments, we are going to skip the adding of quote lines and walk through the delivery of the quote. 
 
-1. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
 
-2. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left pane, select the Search icon and then select **Default Price List** from the options.
+1. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left pane, select the Search icon and then select **Office 365 USA (sample)** from the options. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
 
-3. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
+2. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
 
 3. On the Opportunity record, select the **Propose** Stage. 
 
-4. Mark **Develop Proposal**, **Complete Internal Review**, and **Present Proposal** as **Completed**, and click the **Next Stage** button to advance to the **Close** stage. 
+4. Mark **Develop Proposal**, **Complete Internal Review**, and **Present Proposal** as **Completed**, and Select the **Next Stage** button to advance to the **Close** stage. 
 
 5. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
 
 6. Set **Confirm Decision Date** to **Todays date**. 
 
-7. Click the **Finish** button. 
+7. Select the **Finish** button. 
 
 8. Select the **X** on the Close stage window to close the window. 
 
@@ -312,4 +304,4 @@ Now that you have create a sales order, we will close the order and generate an 
 
 4. On the **Command Bar** of the order, select the **Create Invoice** button. 
 
-5. Once the Invoice record is open, select the **Invoice Paid*.
+5. On the **Command Bar**, select the **Invoice Paid** button. Select Ok.

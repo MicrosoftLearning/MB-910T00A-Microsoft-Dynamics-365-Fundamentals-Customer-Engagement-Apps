@@ -74,9 +74,9 @@ In this exercise you will be creating a project and defining detailed related to
 
 1. With the Project Opportunity open, select the **Quotes** tab. 
 
-2. On the Quotes sub-grid, click the **New Quote** button.
+2. On the Quotes sub-grid, select the **New Quote** button.
 
-3. After the new quote record open, set the **Product Price List** field on the quote to **Products and packaged Services**. 
+3. After the new quote record open, set the **Product Price List** field on the quote to **US Bill Rates**. 
 
 4. Select the **Quote Lines** Tab.
 
@@ -132,7 +132,6 @@ In this exercise you will be creating a project and defining detailed related to
 
 	- **Unit:** Hour
 
-	- **Sales Amount:** 50,000
 
 15. Select the **Save and Close** button to close the line detail item. 
 
@@ -268,7 +267,7 @@ As part of defining a project schedule, you can specify the types of resources t
 
 1. If necessary, open the **Complete Global Security Implementation – Your Initials** project, and select the **Schedule** tab. 
 
-2. Locate the **Create System Layout** task you added earlier and click in the **Resources** field. 
+2. Locate the **Create System Layout** task you added earlier and select in the **Resources** field. 
 
 3. From the menu that appears, select **Create**. 
 

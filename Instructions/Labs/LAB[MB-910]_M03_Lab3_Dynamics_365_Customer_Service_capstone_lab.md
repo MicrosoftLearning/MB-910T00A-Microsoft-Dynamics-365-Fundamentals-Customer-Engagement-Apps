@@ -73,13 +73,13 @@ Upon completion of the lab, you will have completed the following:
 
 3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**. 
 
-4. Select **Draft Articles**. You will likely see two articles in draft mode.
+4. Select **Draft Articles**. 
 
-5. Us the view selector to select **Approved Articles**. You should see at least one approved article. 
+5. Us the view selector to select **Approved Articles**.  
 
 6. Use the view selector to switch back to **My Active Articles**
 
-7. On the **Command Bar**, select the **New** button. 
+7. On the **Command Bar**, select the **New** button. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. Set **Language** to **English - United States**.
 
 8. Complete the article as follows:
 
@@ -153,7 +153,7 @@ In most organizations, after the article author creates the record, it goes thro
 
 13. Press your **Enter** key. 
 
-14. Enter the text press the **Confirm** button. 
+14. Enter the text "Press the confirm button." 
 
 15. On the **Command Bar**, select the **Save &amp; Close** button.
 
@@ -172,15 +172,15 @@ In most organizations, after the article author creates the record, it goes thro
 
 Now that the article has been approved, we will publish it so that it will be available for people working on cases. 
 
-1. Click the **Next Stage** button to advance to the **Publish** stage. 
+1. Select the **Next Stage** button to advance to the **Publish** stage. 
 
 2. Mark the **Set Product Associations** as **Complete**. 
 
 3. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
-4. Click the **Finish** button to complete the process. 
+4. Select the **Finish** button to complete the process. 
 
-5. On the **Command Bar** for the article, click the **Publish** button. 
+5. On the **Command Bar** for the article, select the **Publish** button. 
 
 6. Confirm that the following is selected:
 
@@ -194,7 +194,7 @@ Now that the article has been approved, we will publish it so that it will be av
 
 	- **Expiration Status:** Expired
 
-7. Click the **Publish** button to publish the article.
+7. Select the **Publish** button to publish the article.
 
 
 ## Exercise 2: Manage a support case through its lifecycle
@@ -208,17 +208,8 @@ Now that the article has been approved, we will publish it so that it will be av
 
 3. On the **Command Bar**, select the **Show Visual Filter** button.
 
-4. On the **Case Mix (By Origin)** chart, select **Phone**. Notice that the Cases filter to only display Phone Cases.  
 
-5. Select **Clear Al** to clear the filter.
-
-6. On the **Cases by Priority** chart, select **High**. Notice that the case list will be further filtered to include High priority cases.  
-
-7. Click the first case that appears in the list to open it. After the case open, click the **Save &amp; Close** button on the command bar to close the case and return to the **Tier 1** Dashboard. 
-
-8. Remove any currently applied filters, by selecting **Clear All**. 
-
-9. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
+4. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
 
  
 
@@ -256,13 +247,13 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Duration:** 15 minutes.
 
-17. Click the **Save and Close** button. 
+17. Select the **Save and Close** button. 
 
 18. On the **Phone to Case Process**, select the **Identify** stage.
 
-19. Click the **Next Stage** button to advance to the **Research** stage. 
+19. Select the **Next Stage** button to advance to the **Research** stage. 
 
-20. Click the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
+20. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
 
 21. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
@@ -276,7 +267,7 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 	- **Duration:** 30 minutes.
 
-24. Click the **Save and Close** button. 
+24. Select the **Save and Close** button. 
 
 25. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
 
