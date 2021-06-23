@@ -10,7 +10,7 @@ demo:
 
 IoT devices are becoming a larger part of everyday life. 
 
-1. Customers often have physical assets that require work and maintenance to be performed. These assets are often installed initially typically will have preventative maintenance contracts opened against them Dynamics 365 Field Service Includes Asset Management functionality that works hand-in-hand with Connected Field Service Functionality 
+1. Customers often have physical assets that require work and maintenance to be performed.  If the asset is a connected device, it might include IoT sensors that can communicate information back.  Assets are often initially installed as part of a work order.  Once installed, preventative maintenance contracts can be opened against them to provide scheduled maintenance to keep the asset working.  Dynamics 365 Field Service includes asset management functionality that works hand-in-hand with Connected Field Service Functionality.    
 
 	- Create a Customer Asset
 
