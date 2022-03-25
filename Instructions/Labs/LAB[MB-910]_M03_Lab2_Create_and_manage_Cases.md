@@ -49,7 +49,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 14. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
 
-15. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
+15. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the **wrench** icon).
 
 16. Notice that the title of the case you created is automatically provided as the search text. Locate and select the **Item Broken on Arrival** article you created earlier. 
 
