@@ -21,11 +21,11 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 3. Complete the Work Order details as follows:
 
-	- **Service Account:** Adventure Works Cycles
+	- **Service Account:** Adventure Works
 
-	- **Work Order Type**: Service (Create new)
+	- **Primary Incident Type**: Line connection lost
 
-	- **Price List:** CRM Service USA (sample)
+	- **Price List:** US Bill Rates
 
 	- **Taxable:** No
 
@@ -33,7 +33,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 4. Select the **Settings** tab.
 
-5. Set the **Service Territory** field to **WA**. (Create new)
+5. Set the **Service Territory** field to **WA**. 
 
 6. Under **Preferences**, configure the time preferences as follows:
 
@@ -41,8 +41,6 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 	- **Time to Promised:** Today @ 11:00 AM
 
-7. Select **Save**.
+7. Note the work order number and write it down. 
 
-8. Note the work order number and write it down. 
-
-9. Select **Save and Close** to save you changes and exit the new work order.
+8. Select **Save and Close** to save you changes and exit the new work order.
