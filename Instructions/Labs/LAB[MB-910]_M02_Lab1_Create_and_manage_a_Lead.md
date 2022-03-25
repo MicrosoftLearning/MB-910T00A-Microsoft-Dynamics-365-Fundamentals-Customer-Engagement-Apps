@@ -74,6 +74,9 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 12. On the **Close Phone Call** window, select the **Close** button 
 
-13. Next you will qualify the lead record. This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
+13. Next you will qualify the lead record.  This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process.  On the Command Bar, select the Qualify button.  
 
-14. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
+14. After the system qualifies the lead, a new **Opportunity** record will be created, and the business process will advance to the **Develop** stage.  Select the **Qualify** stage to view the original lead record. 
+
+15. Select the **Develop** stage to return to the opportunity.
+
