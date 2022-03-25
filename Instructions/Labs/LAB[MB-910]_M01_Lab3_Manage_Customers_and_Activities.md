@@ -81,7 +81,7 @@ In this exercise, you will be working with common records that are used by all D
 
 14. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created. 
 
-15. On the **Record Timeline** located in the middle of the screen, select the **+** icon to add a new activity item. 
+15. On the **Record Timeline** located in the middle of the screen, select the **Plus sign** icon to add a new item. 
 
 16. From the menu that appears, select **Appointment.**
 
@@ -89,24 +89,24 @@ In this exercise, you will be working with common records that are used by all D
 
 	- **Subject:** Meeting with Jackson
 
-	- **Start Time:** Today at 3:00 PM
+	- **Start Time:** Tomorrow at 10:00 AM 
 
-	- **End Time:** Today at 4:00 PM
+	- **End Time:** Tomorrow at 11:00 AM 
 
 18. Select the **Save and Close** button. 
 
-19. Wait while the timeline automatically refreshes. 
+19. On your keyboard, press the **F5** key to refresh the screen.    
 
-20. Notice that the **Timeline** now displays information about the appointment. 
+20. Notice that the Assistant on the right side of the screen now displays information about the appointment.    
 
-21. **Save and close** the account. 
+21. **Save and Close** the account. 
 
-22. In the **My Work** section of the navigation pane, select **Activities**.
+22. Click to select the **Appointment** and display the details about it.   
 
-23. Select the **Meeting with Jaskson** link to open the appointment row and display the form. 
+23. Select the **Open Appointment** link. 
 
 24. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
 
-25. Notice that the appointment is no longer listed in the **My Activities** view. 
+25. Select the **Save and Close** button to return to the account record.   
 
-26. Select the **My Activities** view to change to the **Closed Activities** view. The completed **Meeting with Jason** appointment is displayed.
+26. Select **Save and Close** on the account record to leave the account record.   
