@@ -21,9 +21,9 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**. 
 
-4. Select the **Draft Articles** view. 
+4. Select **Draft Articles**. You will likely see two articles in draft mode.
 
-5. Select **Approved Articles**. 
+5. Select **Approved Articles**. You should see at least one approved article.  
 
 6. Switch back to **My Active Articles**
 
@@ -55,9 +55,9 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	5. Select Print
 
-Once we have received the returned / damaged item, your account will be credited back the amount.
+	Once we have received the returned / damaged item, your account will be credited back the amount.
 
-**NOTE:** You can add formatting to the text if desired. 
+	**NOTE:** You can add formatting to the text if desired. 
 
 10. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open. 
 
@@ -110,5 +110,7 @@ After the author initially creates the record, it will generally go through an a
 	- **Expiration Status:** Expired
 
 	- **Publish Approved translations:** No
+	
+29. Click the **Publish** button to publish the article.
 
 
