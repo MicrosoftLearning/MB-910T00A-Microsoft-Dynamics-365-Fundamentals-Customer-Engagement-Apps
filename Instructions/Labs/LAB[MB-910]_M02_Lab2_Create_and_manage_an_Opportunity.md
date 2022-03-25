@@ -32,9 +32,9 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 	- **Topic:** Wants to upgrade their existing equipment – Your Initials
 
-	- **Contact:** Jay Klein
+	- **Contact:** Jim Glynn
 
-	- **Account:** Northwind Traders
+	- **Account:** Adventure Works
 
 	- **Purchase Timeframe:** This Quarter
 
@@ -56,7 +56,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 9. Notice the record is already in the **Develop** phase of the opportunity of the Lead to Opportunity process. 
 
-10. On the **Looking for new equipment opportunity header** at the top of the record, select the down arrow next to the owner field. 
+10. On the **Looking for new equipment opportunity** header at the top of the record, select the down arrow next to the owner field. 
 
 11. Complete as follows:
 
@@ -80,7 +80,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 19. **Coho Technologies** should be selected in the lookup record window. Select the **Add** button to finishing adding the competitor. 
 
-20. Select to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+20. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
 21. Select the **Next Stage** button to advance to the **Propose** stage.
 
