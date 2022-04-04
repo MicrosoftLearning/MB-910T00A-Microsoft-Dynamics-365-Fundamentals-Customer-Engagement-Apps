@@ -34,10 +34,16 @@ Exercise 1 - Access the Dynamics 365 application
 
 ### Task 2 – Access the Dynamics 365 application
 
-1.  Expand the App Launcher domino button at the top left of the screen, directly to the left of **Power Platform admin center. Select the Dynamics 365 **Marketing** app to launch it.
+1.  Access https://admin.powerplatform.microsoft.com/environments.
 
-2.  Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the **Marketing** area. 
+2. Select the WWLLABnnn environment, where nnn is a number. This is the shared Dynamics 365 environment where you will be performing all labs.
 
-3.  Select **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.  
+3. Click Open environment
 
-4. Spend a few minutes exploring the application and then return to the **Marketing** area.
+4. Expand the App Launcher domino button at the top left of the screen, directly to the left of **Power Platform admin center**. Select the Dynamics 365 **Marketing** app to launch it.
+
+5.  Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the **Marketing** area. 
+
+6.  Select **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.  
+
+7. Spend a few minutes exploring the application and then return to the **Marketing** area.
