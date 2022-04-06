@@ -93,7 +93,7 @@ Recently a corporate customer Active Transport, Inc. contacted support about an 
 
  
 
-### Task 2: Manually create a Word Order
+### Task 2: Manually create a Work Order
 
 We will come back to your created case record later. Next, let’s examine how to manually create a work order record. 
 
