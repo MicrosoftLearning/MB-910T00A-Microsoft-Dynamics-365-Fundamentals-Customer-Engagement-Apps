@@ -37,7 +37,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 7. The **New Customer Journey** page opens with the **Select a Customer Journey Template** dialog box shown. Select **Skip** to start creating the journey from scratch.
 
-8. Select **Set audience** (or, alternatively, select **+**). Select the Fargo Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+8. Select **Set audience** (or, alternatively, select **+**). Select the Redmond Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
 
 9. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
 
@@ -45,7 +45,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 11. Select the **General** tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
-	- **Name**: Fargo Customer Journey
+	- **Name**: Redmond Customer Journey
 
 	- **Start date and time**: Enter Todays Date
 
