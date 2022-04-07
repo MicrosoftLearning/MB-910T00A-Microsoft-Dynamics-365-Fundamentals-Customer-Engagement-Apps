@@ -95,18 +95,14 @@ In this exercise, you will be working with common records that are used by all D
 
 18. Select the **Save and Close** button. 
 
-19. On your keyboard, press the **F5** key to refresh the screen.    
+19. On your keyboard, press the **F5** key to refresh the screen.     
 
-20. Notice that the Assistant on the right side of the screen now displays information about the appointment.    
+20. On the record's timeline, select the **Appointment** to display the details about it.   
 
-21. **Save and Close** the account. 
+21. Select the **Open Appointment** link. 
 
-22. Click to select the **Appointment** and display the details about it.   
+22. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
 
-23. Select the **Open Appointment** link. 
+23. Select the **Save and Close** button to return to the account record.   
 
-24. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
-
-25. Select the **Save and Close** button to return to the account record.   
-
-26. Select **Save and Close** on the account record to leave the account record.   
+24. Select **Save and Close** on the account record to leave the account record.   
