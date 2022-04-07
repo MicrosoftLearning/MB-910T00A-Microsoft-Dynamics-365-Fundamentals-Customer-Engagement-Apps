@@ -31,7 +31,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 5. Select the **Save** button to save the record and leave it open. 
 
-6. On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Alfonso Albritton**. 
+6. On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Patrick Sands**. 
 
 7. Select the **X** on the **Identify** stage fly out window to remove the window so you can continue working. 
 
