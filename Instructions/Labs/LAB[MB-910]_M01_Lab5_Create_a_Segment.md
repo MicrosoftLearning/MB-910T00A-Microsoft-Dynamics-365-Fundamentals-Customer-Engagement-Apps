@@ -26,24 +26,22 @@ During this exercise you will see that it is very easy to create customer segmen
 
 3. From the drop-down menu that appears, select **New Dynamic Segment**.
 
-4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
+4. In the **Segment Templates** dialog box that opens, select **Basic profile segment** and then select the **Select** button
 
-5. Select **Add query block** to create a query against the contact table. 
+5. Select the ghost texct **Select attribute**.
 
-6. Select the **Select attribute** control.
+6. Type "city" to filter the list and select **Address 1: City**.
 
-7. Type "city" to filter the list and select **Address 1: City**.
+7. Leave the next drop-down list set to **Is**. 
 
-8. Leave the next drop-down list set to **Equals**. 
+8. Select the third drop-down list, which contains the ghost text **Enter text** and type **Redmond**.
 
-9. Select the third drop-down list, which contains the ghost text **Enter text** and type **Redmond**.
+9. Click to select the **Name** field at the top of the query and enter **Remond Contacts**.
 
-10. Click to select the **Name** field at the top of the query and enter **Fargo Contacts**.
+10. Select **Save** on the command bar to save your segment.
 
-11. Select **Save** on the command bar to save your segment.
+11. Select **Go Live** to publish the segment.
 
-12. Select **Go Live** to publish the segment.
+12. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
-13. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
-
-14. You should now see that a **Members** tab has been added. Jackson Anderson is listed.
+13. You should now see that a **Members** tab has been added. 
