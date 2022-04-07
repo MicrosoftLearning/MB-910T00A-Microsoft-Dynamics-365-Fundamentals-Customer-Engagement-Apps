@@ -24,13 +24,13 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 3.	On the **Command Bar**, select the **New** button to create a new Work Order.
 
 4.	Complete the Work Order details as follows:
-	a.  Service Account: A. Datum Corporation
-	b.  Primary Incident Type: Unit Overheating
-	c.  Taxable: No
+		a.  Service Account: ADatum Corporation
+		b.  Primary Incident Type: MRI Scanner down
+		c.  Taxable: No
 	
 5.	Select **Save and Close** to save you changes and exit the new work order.
 
-6.	On the **Command Bar** of the **Work Order**, select the **Boo**k button.  This will open the **Schedule Assistant**.  
+6.	On the **Command Bar** of the **Work Order**, select the **Book** button.  This will open the **Schedule Assistant**.  
 
 7.	You should be presented with options for scheduling the item.  Select the **Ryan Brim** record.
 
@@ -46,7 +46,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 13.	At the bottom of the screen in the requirements panel, select **Unscheduled Work Orders**.
 
-14.	Select the **Adventure Works** Work Order you created earlier use the work order number you wrote down.   From the options that appear select **Find Availability**.  
+14.	Select the **Adventure Works** Work Order you created earlier use the work order number you wrote down. From the options that appear select **Find Availability**.  
 
 15.	This will open the **Schedule Assistant**.  
 
