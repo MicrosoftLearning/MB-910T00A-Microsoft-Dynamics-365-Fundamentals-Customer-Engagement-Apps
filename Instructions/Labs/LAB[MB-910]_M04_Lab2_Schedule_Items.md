@@ -24,9 +24,9 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 3.	On the **Command Bar**, select the **New** button to create a new Work Order.
 
 4.	Complete the Work Order details as follows:
-		a.  Service Account: ADatum Corporation
-		b.  Primary Incident Type: MRI Scanner down
-		c.  Taxable: No
+		- Service Account: ADatum Corporation
+		- Primary Incident Type: MRI Scanner down
+		- Taxable: No
 	
 5.	Select **Save and Close** to save you changes and exit the new work order.
 
