@@ -7,18 +7,46 @@ lab:
 Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 ========================
 
-## Practice Lab 1.2 - Work with customer engagement apps 
+## Practice Lab 1.1 - Work with customer engagement apps 
 
 ## Objectives
 
-During this exercise, you will see that it is very easy to access the different Dynamics 365 applications available to you directly from the Home screen. Once you have opened an app, you can easily switch between the different applications as required. Accessing and using the basic functionality in Dynamics 365 applications is something you as a user will do daily.
+During this exercise, you will first log into the environment. Then you can see that it is very easy to access the different Dynamics 365 applications available to you directly from the **Home** screen. Once you have opened an app, you can easily switch between the different applications as required. Accessing and using the basic functionality in Dynamics 365 applications is something you as a user will do daily.
 
 
 ## Lab Setup
 
-  - **Estimated Time**: 15 minutes
+  - **Estimated Time**: 30 minutes
 
 ## Instructions
+
+**Task 1 – Log into the Power Platform admin center**
+
+1. Access https://admin.Powerplatform.microsoft.com and log in with your user credentials.
+
+2. Record your user credential up to the @ symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization.
+
+Important: Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., mollyc) in front of all records, data, apps, flows, etc. you create.
+
+Feel free to explore the Power Platform admin center but do not make any changes.
+
+**Task 2 – Access the Dynamics 365 application**
+
+1. Access https://admin.powerplatform.microsoft.com/environments.
+
+2. Select the WWLLABnnn environment, where nnn is a number. This is the shared Dynamics 365 environment where you will be performing all labs.
+
+3. Click Open environment
+
+4. Expand the App Launcher domino button at the top left of the screen, directly to the left of Power Platform admin center. Select the Dynamics 365 Marketing app to launch it.
+
+5. Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the Marketing area.
+
+6. Select **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.
+
+7. Spend a few minutes exploring the application and then return to the Marketing area.
+
+**Task 3 – Work with customer engagement apps**
 
 In this exercise, you will become familiar with how to access the different Dynamics 365 customer engagement applications by leveraging the Microsoft Office 365 apps screen.
 
