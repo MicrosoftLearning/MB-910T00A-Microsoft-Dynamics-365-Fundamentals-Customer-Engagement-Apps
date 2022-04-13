@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 1.3: Manage Customers and Activities'
+    title: 'Lab 1.2: Manage Customers and Activities'
     module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
 Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 ========================
 
-## Practice Lab 1.3 - Manage Customers and Activities
+## Practice Lab 1.2 - Manage Customers and Activities
 
 ## Objectives
 
