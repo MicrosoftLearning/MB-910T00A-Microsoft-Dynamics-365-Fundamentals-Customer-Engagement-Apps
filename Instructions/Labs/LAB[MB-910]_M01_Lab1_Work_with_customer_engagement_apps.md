@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 1.2: Work with customer engagement apps'
+    title: 'Lab 1.1: Work with customer engagement apps'
     module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
