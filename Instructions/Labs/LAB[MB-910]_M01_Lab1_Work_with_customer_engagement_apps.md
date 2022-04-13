@@ -16,7 +16,7 @@ During this exercise, you will first log into the environment. Then you can see 
 
 ## Lab Setup
 
-  - **Estimated Time**: 30 minutes
+  - **Estimated Time**: 20 minutes
 
 ## Instructions
 
