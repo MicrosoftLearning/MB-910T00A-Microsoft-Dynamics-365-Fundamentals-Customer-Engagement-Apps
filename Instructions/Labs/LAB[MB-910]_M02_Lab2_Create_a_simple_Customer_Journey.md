@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 2.1: Create a simple Customer Journey'
+    title: 'Lab 2.2: Create a simple Customer Journey'
     module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
 Module 2: Learn the Fundamentals of Dynamics 365 Marketing
 ========================
 
-## Practice Lab 2.1 - Create a simple Customer Journey
+## Practice Lab 2.2 - Create a simple Customer Journey
 
 ## Objectives
 
