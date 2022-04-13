@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 3.2: Create and manage Cases in Dynamics 365 Customer Service'
-    module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+    title: 'Lab 4.2: Create and manage Cases in Dynamics 365 Customer Service'
+    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
-Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
+Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 ========================
 
-## Practice Lab 3.2 - Create and manage Cases in Dynamics 365 Customer Service
+## Practice Lab 4.2 - Create and manage Cases in Dynamics 365 Customer Service
 
 ## Lab Setup
 
