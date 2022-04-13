@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 1.5: Create a Segment in Dynamics 365 Marketing'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
+    title: 'Lab 2.1: Create a Segment in Dynamics 365 Marketing'
+    module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
+Module 2: Learn the Fundamentals of Dynamics 365 Marketing
 ========================
 
-## Practice Lab 1.5 - Create a Segment in Dynamics 365 Marketing
+## Practice Lab 2.1 - Create a Segment in Dynamics 365 Marketing
 
 ## Objectives
 
