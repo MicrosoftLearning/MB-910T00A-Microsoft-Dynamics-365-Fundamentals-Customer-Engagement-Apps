@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Creating Purchase Orders'
-    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
 # Demo: Creating Purchase Orders
