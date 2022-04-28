@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Connected Customer Service'
-    module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
+    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
 # Demo: Connected Customer Service

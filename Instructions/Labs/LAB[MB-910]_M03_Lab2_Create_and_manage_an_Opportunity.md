@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 2.2: Create and manage an Opportunity in Dynamics 365 Sales'
-    module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
+    title: 'Lab 3.2: Create and manage an Opportunity in Dynamics 365 Sales'
+    module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
 ---
 
-Module 2: Learn the Fundamentals of Dynamics 365 Sales
+Module 3: Learn the Fundamentals of Dynamics 365 Sales
 ========================
 
-## Practice Lab 2.2 - Create and manage an Opportunity in Dynamics 365 Sales 
+## Practice Lab 3.2 - Create and manage an Opportunity in Dynamics 365 Sales 
 
 ## Objectives
 
