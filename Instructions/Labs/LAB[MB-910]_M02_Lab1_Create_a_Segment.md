@@ -36,7 +36,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
 8. Select the third drop-down list, which contains the ghost text **Enter text** and type **Redmond**.
 
-9. Click to select the **Name** field at the top of the query and enter **Remond Contacts**.
+9. Click to select the **Name** field at the top of the query and enter **Redmond Contacts**.
 
 10. Select **Save** on the command bar to save your segment.
 
