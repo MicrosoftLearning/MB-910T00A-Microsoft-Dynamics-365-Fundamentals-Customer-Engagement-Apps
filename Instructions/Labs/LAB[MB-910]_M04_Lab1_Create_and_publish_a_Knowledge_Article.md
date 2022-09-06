@@ -31,7 +31,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 8. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. Set **Language** to **English - United States**.
 
-8. Complete the article as follows:
+9. Complete the article as follows:
 
 	- **Title:** Item Broken on Arrival – your initials
 
@@ -39,7 +39,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	- **Description:** Helps resolve issues when an Item arrives damaged. 
 
-9. Enter the following text into the Content Designer text.   
+10. Enter the following text into the Content Designer text.   
 ‎  
 ‎	Item Arrived Damaged
 
@@ -59,45 +59,45 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	**NOTE:** You can add formatting to the text if desired. 
 
-10. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open. 
+11. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open. 
 
-11. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Delivery** (Located under Service). 
+12. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Delivery** (Located under Service). 
 
-12. Set the **Mark for Review** field to **Completed**.
+13. Set the **Mark for Review** field to **Completed**.
 
-13. Select **Next Stage** button to advance to **Review** stage.
+14. Select **Next Stage** button to advance to **Review** stage.
 
-14. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
+15. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
 
 After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
 
-15. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval. 
+16. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval. 
 
-16. Open the **Item Broken on Arrival – your initials** article you just created.
+17. Open the **Item Broken on Arrival – your initials** article you just created.
 
-17. On the **New Process**, select the **Review** stage. Set the **Review** field to **Approved**.
+18. On the **New Process**, select the **Review** stage. Set the **Review** field to **Approved**.
 
-18. You will be asked to confirm the article approval, select **OK**. 
+19. You will be asked to confirm the article approval, select **OK**. 
 
-19. Select the **Next Stage** button to advance to the **Publish** stage. 
+20. Select the **Next Stage** button to advance to the **Publish** stage. 
 
-20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
+21. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
-21. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
+22. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
 
-22. Select the **Associate** button. 
+23. Select the **Associate** button. 
 
-23. On the **New Process**, select the **Publish** stage. 
+24. On the **New Process**, select the **Publish** stage. 
 
-24. Mark the **Set Product Associations** as **Complete**. 
+25. Mark the **Set Product Associations** as **Complete**. 
 
-25. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
+26. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
-26. Select the **Finish** button to complete the process. 
+27. Select the **Finish** button to complete the process. 
 
-27. On the **Command Bar** for the article, select the **Publish** button. 
+28. On the **Command Bar** for the article, select the **Publish** button. 
 
-28. Confirm that the following is selected:
+29. Confirm that the following is selected:
 
 	- **Publish:** Now
 
@@ -111,6 +111,6 @@ After the author initially creates the record, it will generally go through an a
 
 	- **Publish Approved translations:** No
 	
-29. Click the **Publish** button to publish the article.
+30. Click the **Publish** button to publish the article.
 
 
