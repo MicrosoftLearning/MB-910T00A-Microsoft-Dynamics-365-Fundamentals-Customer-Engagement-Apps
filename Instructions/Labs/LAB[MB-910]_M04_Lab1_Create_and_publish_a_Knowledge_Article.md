@@ -19,11 +19,11 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 2. Using the navigation on the left side of the screen, select **Knowledge Articles**. 
 
-3. To easily see which articles are in different stages, select the drop-down arrow next to **My Active Articles**. 
+3. To easily see which articles are in different stages, select the drop-down arrow next to **My Active Articles**. Please note that there might not be any active articles in the list.
 
 4. Select **Draft Articles**. 
 
-5. Select **Approved Articles**. You should see at least one approved article.  
+5. Select **Approved Articles**. 
 
 6. Switch back to **My Active Articles**
 
