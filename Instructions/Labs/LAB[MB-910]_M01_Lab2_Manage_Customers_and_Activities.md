@@ -23,7 +23,7 @@ In this exercise, you will be working with common records that are used by all D
 
 1. If is not open already, open the **Dynamics 365 Sales Hub** application. 
 
-2. Using the navigation on the left side of the screen, select **Accounts**. 
+2. Select **Accounts** from the **Customers** section of the left menu. 
 
 3. On the Command Bar at the top of the screen, select the **New** button.
 
