@@ -20,7 +20,7 @@ During this exercise you will see that it is very easy to create customer segmen
 ## Instructions
 
 
-1. Using the navigation on the left, select **Segments** under Marketing.  
+1. Open the Dynamics 365 Marketing Application. Using the navigation on the left, select **Segments** under Marketing section.  
 
 2. On the command bar, select **New**.
 
