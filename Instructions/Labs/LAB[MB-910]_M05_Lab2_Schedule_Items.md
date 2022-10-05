@@ -24,11 +24,13 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 3.	On the **Command Bar**, select the **New** button to create a new Work Order.
 
 4.	Complete the Work Order details as follows:
-	- Service Account: ADatum Corporation
+	- Service Account: Adatum Corporation
 	- Primary Incident Type: MRI Scanner down
+	- Price List: US Bill Rates
+	- Work Order Type: Select from the look up
 	- Taxable: No
 	
-5.	Select **Save and Close** to save you changes and exit the new work order.
+5.	Select **Save** to save your changes and stay on the newly created record.
 
 6.	On the **Command Bar** of the **Work Order**, select the **Book** button.  This will open the **Schedule Assistant**.  
 
