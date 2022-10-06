@@ -17,7 +17,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 1. If is not open already, open the **Dynamics 365 Customer Service Hub** application. 
 
-2. Using the navigation on the left side of the screen, select **Cases**. 
+2. Select **Cases** from the **Service** section of the left menu. 
 
 3. On the **Command Bar**, select the **New Case** button to create a new case record.
 
