@@ -17,7 +17,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 1. If is not open already, open the **Dynamics 365 Customer Service Hub** application. 
 
-2. Using the navigation on the left side of the screen, select **Knowledge Articles**. 
+2. Select **Knowledge Articles** from the **Knowledge** section of the left menu. 
 
 3. To easily see which articles are in different stages, select the drop-down arrow next to **My Active Articles**. Please note that there might not be any active articles in the list.
 
