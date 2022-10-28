@@ -63,9 +63,9 @@ In this exercise, you will be working with common records that are used by all D
 
 9. Select the **Save** button to save the account and leave it open. 
 
-10. Locate the **Contacts Sub-grid** on the right side of the screen. 
+10. Locate the **Plus** icon on the top menu of the screen. 
 
-11. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**. 
+11. From the menu that appears, select **Contact**. 
 
 12. Using the **Quick Create Contact** form, complete the contact as follows:
 
