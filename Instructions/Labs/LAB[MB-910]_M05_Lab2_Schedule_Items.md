@@ -1,13 +1,13 @@
 ---
 lab:
-    title: 'Lab 4.2: Schedule Items in Dynamics 365 Field Service'
-    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
+    title: 'Lab 5.2: Schedule Items in Dynamics 365 Field Service'
+    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
-Module 4: Learn the Fundamentals of Dynamics 365 Field Service
+Module 5: Learn the Fundamentals of Dynamics 365 Field Service
 ========================
 
-## Practice Lab 4.2 - Schedule Items in Dynamics 365 Field Service
+## Practice Lab 5.2 - Schedule Items in Dynamics 365 Field Service
 
 ## Lab Setup
 
