@@ -66,11 +66,11 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 12. In the Stakeholders sub-grid, notice the Suzanne Burke is already defined as a stakeholder. 
 
-13. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
+13. On the Sales Team sub-grid, select **New Connection**. Note: Sub-grids are responsive, if there is not enough space on screen the button can be found in the **Vertical Ellipsis** menu.
 
 14. Search for and select your user record. Once completed, select the **Add** button. 
 
-15. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
+15. On the Competitors sub-grid, select **Add Existing Competitor**. Note: Sub-grids are responsive, if there is not enough space on screen the button can be found in the **Vertical Ellipsis** menu.
 
 16. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 

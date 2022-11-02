@@ -61,7 +61,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 11. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open. 
 
-12. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Delivery** (Located under Service). 
+12. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Default Subject**. 
 
 13. Set the **Mark for Review** field to **Completed**.
 
