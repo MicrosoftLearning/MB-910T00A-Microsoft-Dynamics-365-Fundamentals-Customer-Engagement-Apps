@@ -85,7 +85,7 @@ In this exercise, you will be working with common records that are used by all D
 
 16. From the menu that appears, select **Appointment.**
 
-17. Complete the Appointment as follows:
+17. Complete the **Quick Create: Appointment** form as follows:
 
 	- **Subject:** Meeting with Jackson
 
@@ -93,16 +93,14 @@ In this exercise, you will be working with common records that are used by all D
 
 	- **End Time:** Tomorrow at 11:00 AM 
 
-18. Select the **Save and Close** button. 
+18. Select the **Save and Close** button.      
 
-19. On your keyboard, press the **F5** key to refresh the screen.     
+19. On the record's timeline, select **View more** on the **Appointment** record to reveal more details.   
 
-20. On the record's timeline, select the **Appointment** to display the details about it.   
+20. Click the **Open record** button. 
 
-21. Select the **Open Appointment** link. 
+21. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
 
-22. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to complete the appointment. 
+22. Select the **Save and Close** button to return to the account record.   
 
-23. Select the **Save and Close** button to return to the account record.   
-
-24. Select **Save and Close** on the account record to leave the account record.   
+23. Select **Save and Close** on the account record to leave the account record.   
