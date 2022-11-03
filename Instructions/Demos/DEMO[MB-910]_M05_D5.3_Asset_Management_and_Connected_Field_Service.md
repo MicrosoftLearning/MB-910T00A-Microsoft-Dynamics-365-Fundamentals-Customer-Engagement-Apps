@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Asset Management and Connected Field Service'
-    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Customer Service'
+    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
 # Demo: Asset Management and Connected Field Service
