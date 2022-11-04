@@ -83,7 +83,7 @@ After the author initially creates the record, it will generally go through an a
 
 21. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
-22. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
+22. On the **Relate Product** form, in **Select Product to Associate with**, select **Office 365**.
 
 23. Select the **Associate** button. 
 
