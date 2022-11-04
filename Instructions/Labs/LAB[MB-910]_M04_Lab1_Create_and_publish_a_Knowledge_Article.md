@@ -104,3 +104,5 @@ After the author initially creates the record, it will generally go through an a
 	- **Expiration Date:** One year from today at 12:00 AM
 	
 29. Click the **Publish** button to publish the article.
+
+>[!Note] It may take a few minutes for Published knowledge articles to appear in the **Knowledge Search**.
