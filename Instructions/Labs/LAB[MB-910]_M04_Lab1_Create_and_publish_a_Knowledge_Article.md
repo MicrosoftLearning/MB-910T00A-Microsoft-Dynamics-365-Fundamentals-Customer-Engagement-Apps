@@ -95,22 +95,12 @@ After the author initially creates the record, it will generally go through an a
 
 27. Select the **Finish** button to complete the process. 
 
-28. On the **Command Bar** for the article, select the **Publish** button. 
-
-29. Confirm that the following is selected:
+28. On the **Publish** form, confirm that the following is selected:
 
 	- **Publish:** Now
 
 	- **Published Status:** Published
 
 	- **Expiration Date:** One year from today at 12:00 AM
-
-	- **Expiration State:** Expired
-
-	- **Expiration Status:** Expired
-
-	- **Publish Approved translations:** No
 	
-30. Click the **Publish** button to publish the article.
-
-
+29. Click the **Publish** button to publish the article.
