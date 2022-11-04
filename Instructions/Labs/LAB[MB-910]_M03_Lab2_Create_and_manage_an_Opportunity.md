@@ -74,7 +74,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 16. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 
-17. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies**.
+17. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies - Your Initials**.
 
 18. Select the **Save and Close** button.
 
