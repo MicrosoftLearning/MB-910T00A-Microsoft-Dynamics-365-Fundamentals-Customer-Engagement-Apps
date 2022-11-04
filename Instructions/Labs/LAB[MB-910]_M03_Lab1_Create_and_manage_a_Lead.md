@@ -30,15 +30,15 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 	- **Topic:** Looking for New Equipment – Your Initials
 
-	- **First Name:** Suzanne
+	- **First Name:** Suzanne – Your Initials
 
-	- **Last Name:** Burke
+	- **Last Name:** Burke – Your Initials
 
 	- **Job Title:** CFO
 
 	- **Business Phone:** 888 555-8715
 
-	- **Email:** Suzanne@contososample.com
+	- **Email:** Suzanne.YourInitials@contososample.com
 
 	- **Company:** Contoso - Washington
 
