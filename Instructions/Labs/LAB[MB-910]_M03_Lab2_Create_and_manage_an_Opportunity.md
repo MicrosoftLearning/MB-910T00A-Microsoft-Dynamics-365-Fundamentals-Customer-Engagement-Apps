@@ -74,11 +74,11 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 16. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 
-17. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies**.
+17. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies - Your Initials**.
 
 18. Select the **Save and Close** button.
 
-19. **Coho Technologies** should be selected in the lookup record window. Select the **Add** button to finishing adding the competitor. 
+19. **Coho Technologies - Your Initials** should be selected in the lookup record window. Select the **Add** button to finishing adding the competitor. 
 
 20. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 

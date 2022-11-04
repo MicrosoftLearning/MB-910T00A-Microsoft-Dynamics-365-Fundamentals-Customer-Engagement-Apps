@@ -55,7 +55,7 @@ Module 4: Learn the Fundamentals of Dynamics 365 Customer Service
 
 17. The full contents of the article will be displayed, select the **Link this article to the current record** icon. Verify that the text **Linked to Case** appears. 
 
-18. Now we will get ready to resolve the case. On the **Record Timeline**, hover over the **Return call to Patrick** Phone Call activity you created earlier. Select the mark complete **Check Mark Icon** to complete the activity. 
+18. Now we will get ready to resolve the case. On the **Record Timeline**, hover over the **Return call to Alfonso** Phone Call activity you created earlier. Select the mark complete **Check Mark Icon** to complete the activity. 
 
 19. On the **Close Phone Call** screen, select the **Close** button. Verify the activity says **Closed**.
 

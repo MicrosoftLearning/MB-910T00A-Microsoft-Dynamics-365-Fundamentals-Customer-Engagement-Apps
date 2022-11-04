@@ -83,7 +83,7 @@ After the author initially creates the record, it will generally go through an a
 
 21. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
-22. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
+22. On the **Relate Product** form, in **Select Product to Associate with**, select **Office 365**.
 
 23. Select the **Associate** button. 
 
@@ -95,22 +95,14 @@ After the author initially creates the record, it will generally go through an a
 
 27. Select the **Finish** button to complete the process. 
 
-28. On the **Command Bar** for the article, select the **Publish** button. 
-
-29. Confirm that the following is selected:
+28. On the **Publish** form, confirm that the following is selected:
 
 	- **Publish:** Now
 
 	- **Published Status:** Published
 
 	- **Expiration Date:** One year from today at 12:00 AM
-
-	- **Expiration State:** Expired
-
-	- **Expiration Status:** Expired
-
-	- **Publish Approved translations:** No
 	
-30. Click the **Publish** button to publish the article.
+29. Click the **Publish** button to publish the article.
 
-
+>[!Note] It may take several minutes for Published knowledge articles to appear in the **Knowledge Search**.

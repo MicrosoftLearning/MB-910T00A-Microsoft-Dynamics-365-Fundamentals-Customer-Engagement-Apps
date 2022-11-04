@@ -25,11 +25,12 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 1. If necessary open the Dynamics 365 Marketing Application. 
 
-2. Using the navigation on the left, select **Marketing emails** under the Marketing Execution group
+2. Using the navigation on the left, change the Area to **Outbound marketing** and select **Marketing emails** under the Marketing execution group.
 
 3. Locate and open the **Introduction to Chairs** marketing email.  
 
-4. On the **Command Bar** at the top, select the **Go Live** button. 
+4. If the **Introduction to Chairs** email is already **Live**, skip to the next step. 
+   Otherwise; on the **Command Bar** at the top, select the **Go Live** button. 
 
 5. Now that the email is live, use the navigation on the left to select **Customer Journeys** under the Marketing Execution group.
 
