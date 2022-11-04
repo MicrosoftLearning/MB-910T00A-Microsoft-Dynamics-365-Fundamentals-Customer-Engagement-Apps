@@ -105,4 +105,4 @@ After the author initially creates the record, it will generally go through an a
 	
 29. Click the **Publish** button to publish the article.
 
->[!Note] It may take a few minutes for Published knowledge articles to appear in the **Knowledge Search**.
+>[!Note] It may take several minutes for Published knowledge articles to appear in the **Knowledge Search**.
