@@ -29,7 +29,8 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 3. Locate and open the **Introduction to Chairs** marketing email.  
 
-4. On the **Command Bar** at the top, select the **Go Live** button. 
+4. If the **Introduction to Chairs** email is already **Live**, skip to the next step. 
+   Otherwise; on the **Command Bar** at the top, select the **Go Live** button. 
 
 5. Now that the email is live, use the navigation on the left to select **Customer Journeys** under the Marketing Execution group.
 
