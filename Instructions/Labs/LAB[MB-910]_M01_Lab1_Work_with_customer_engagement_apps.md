@@ -36,9 +36,9 @@ Feel free to explore the Power Platform admin center but do not make any changes
 
 2. Select the WWLLABnnn environment, where nnn is a number. This is the shared Dynamics 365 environment where you will be performing all labs.
 
-3. Click Open environment
+3. Click **Open** from the top menu or click on the WWLLABnnn environment url.
 
-4. Expand the App Launcher domino button at the top left of the screen, directly to the left of Power Platform admin center. Select the Dynamics 365 Marketing app to launch it.
+4. Select the **Marketing** app to launch it.
 
 5. Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the Marketing area.
 
