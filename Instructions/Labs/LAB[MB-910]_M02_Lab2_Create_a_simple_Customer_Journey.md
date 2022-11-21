@@ -46,7 +46,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 11. Select the **General** tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
-	- **Name**: Redmond Customer Journey
+	- **Name**: Redmond Customer Journey - your initials
 
 	- **Start date and time**: Enter Todays Date
 
