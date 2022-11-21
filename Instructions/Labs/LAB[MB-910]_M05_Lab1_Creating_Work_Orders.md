@@ -15,7 +15,7 @@ Module 5: Learn the Fundamentals of Dynamics 365 Field Service
 
 ## Instructions
 
-1. Open the **Dynamics 365 Field Service** application. Select **Work Orders** from the **Scheduling** section of the left menu.
+1. If is not open already, open the **Dynamics 365 Field Service** application. Select **Work Orders** from the **Scheduling** section of the left menu.
 
 2. On the **Command Bar**, select the **New** button to create a new Work Order.
 
