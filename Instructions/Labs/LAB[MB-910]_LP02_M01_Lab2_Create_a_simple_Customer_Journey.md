@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 2.1: Create a simple Customer Journey'
-    Learning Path: 'Explore the fundamentals of Dynamics 365 Marketing'
+    learning path: 'Explore the fundamentals of Dynamics 365 Marketing'
     module: 'Explore Dynamics 365 Marketing'
 ---
 
