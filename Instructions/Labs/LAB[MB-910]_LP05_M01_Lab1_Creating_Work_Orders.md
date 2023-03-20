@@ -48,13 +48,13 @@ We will come back to your created case record later. Next, lets examine how to m
 
 10. Complete the Work Order details as follows: 
 
-		- **Service Account:** Adventure Works 
+	- **Service Account:** Adventure Works 
 
-		- **Price List:** US Bill Rates 
+	- **Price List:** US Bill Rates 
 
-		- **Primary Incident Type:** Line Connection Lost 
+	- **Primary Incident Type:** Line Connection Lost 
 
-		- **Taxable:** No 
+	- **Taxable:** No 
 
 11. Select the **Settings** tab. 
 
