@@ -8,7 +8,7 @@ lab:
 Module 1: Explore Dynamics 365 Sales
 ========================
 
-## Practice Lab 3.2 - Create and manage an Opportunity in Dynamics 365 Sales 
+## Practice Lab 3.1 - Create and manage an Opportunity in Dynamics 365 Sales 
 
 ## Objectives
 
@@ -69,7 +69,7 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 16. On the **Propose** stage, mark all four steps as **Completed**, and click the **Next Stage** button to advance to the **Close** stage. 
 
-17. On the **Close** stage, mark the **Complete Finial Proposal**, **Present Finial Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
+17. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File Debrief** steps as **Completed**. 
 
 18. Set **Confirm Decision Date** to **Todays date**. 
 
