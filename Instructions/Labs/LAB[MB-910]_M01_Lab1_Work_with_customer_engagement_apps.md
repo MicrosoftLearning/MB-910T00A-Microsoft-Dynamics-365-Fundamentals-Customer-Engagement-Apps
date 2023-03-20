@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 1.1: Work with customer engagement apps'
-    module: 'Module 1: Examine the core capabilities of Dynamics 365 (CRM)'
+    module: 'Describe the foundations of Dynamics 365 customer engagement apps'
 ---
 
 Module 1: Examine the core capabilities of Dynamics 365 (CRM)
