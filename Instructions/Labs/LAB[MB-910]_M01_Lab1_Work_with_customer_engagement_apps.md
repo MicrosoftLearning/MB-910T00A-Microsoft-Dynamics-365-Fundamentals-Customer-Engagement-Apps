@@ -1,10 +1,11 @@
 ---
 lab:
     title: 'Lab 1.1: Work with customer engagement apps'
-    module: 'Describe the foundations of Dynamics 365 customer engagement apps'
+    Learning Path: 'Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps'
+    Module: 'Describe the foundations of Dynamics 365 customer engagement apps'
 ---
 
-Module 1: Examine the core capabilities of Dynamics 365 (CRM)
+Module 1: Describe the foundations of Dynamics 365 customer engagement apps
 ========================
 
 ## Practice Lab 1.1 - Work with customer engagement apps 
