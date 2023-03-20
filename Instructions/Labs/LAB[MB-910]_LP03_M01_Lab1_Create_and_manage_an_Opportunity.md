@@ -5,6 +5,7 @@ lab:
     module: 'Explore Dynamics 365 Sales'
 ---
 
+
 Module 1: Explore Dynamics 365 Sales
 ========================
 
