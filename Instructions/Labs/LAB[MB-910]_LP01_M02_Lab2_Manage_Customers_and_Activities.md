@@ -1,6 +1,7 @@
 ---
 lab:
     title: 'Lab 1.2: Manage Customers and Activities'
+    Learning Path: 'Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps'
     module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
 ---
 
