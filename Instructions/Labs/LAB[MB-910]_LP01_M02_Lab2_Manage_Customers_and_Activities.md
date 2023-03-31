@@ -52,9 +52,9 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Phone:** `888-555-4321` 
 
-	- **Parent Account:** select the Hourglass icon to search adn select the **Contoso Corporate** account you created earlier. 
+	- **Parent Account:** select the **Magnifying glass** icon to search and select the **Contoso Corporate** account you created earlier. This relates the two accounts to each other and creates a Parent-Child hierarchy. One parent account can have many children records associated with it. 
 
-	- **Address 1 Street 1:** `187 11th ST N`
+	- **Address 1 Street 1:** `187 11th ST N` 
 
 	- **Address 1 City:** `Chicago` 
 
@@ -66,9 +66,9 @@ In this exercise, you will be working with common records that are leveraged by 
 
 9.  Locate the **Contacts Sub-grid** on the right side of the screen. 
 
-10. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**.  
+10. Select the **vertical ellipsis**, and from the menu that appears, select **New Contact**. 
 
-11. Using the **Quick Create Contact** form, complete the contact record as follows: 
+11. Using the **Quick Create: Contact** form, complete the contact record as follows: 
 
 	- **First Name:** `Jackson` (The blue + icon indicates this is a **Business Recommended** field.)
 
@@ -78,17 +78,17 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Email:** `jackson@contososample.com` 
 
-    > **Note:** Notice the Business Phone and Address fields are copied from the Account.
+    > **Note:** Notice the **Business Phone** and **Address** fields are copied from the Account record. 
 
 12. Select the **Save and Close** button. 
 
-13. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created.  
+13. Just above the **Contact** sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created. 
 
-14. On the **Timeline** located in the middle of the screen, select the **+ Plus Sign Icon** to create a timeline record. 
+14. On the **Timeline** located in the center column of the record, select the **+** plus sign button to create a new timeline record. 
 
-15. From the menu that appears, select **Meeting**. 
+15. From the menu, select **Meeting**. 
 
-16. Complete the **Meeting** record as follows: 
+16. On the **Quick Create: Meeting** form, complete the **Meeting** record as follows: 
 
 	- **Subject:** `Meeting with Jackson` 
 
@@ -96,15 +96,11 @@ In this exercise, you will be working with common records that are leveraged by 
 
 17. Select the **Save and Close** button. 
 
-18. **Save & Close** the account. 
+18. On the **Timeline** sub-grid, select **View more** to expand the **Meeting** and show more details. 
 
-19. Click to select the **Appointment** and display the details about it.  
+19. On the **Timeline** sub-grid, select the **Open Record** button. 
 
-20. Select the **Open Appointment** link. 
+20. With the **Meeting** record open, from the **Command Bar**, select the **Mark Complete** button to finish the meeting. 
 
-21. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to finish the appointment.  
-
-22. Select the **Save and Close** button to return to the account record.  
-
-23. Select **Save and Close** on the account record to leave the account record. 
+21. Select **Save & Close** on the Account record. 
 
