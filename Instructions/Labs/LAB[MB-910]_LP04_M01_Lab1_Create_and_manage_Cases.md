@@ -26,9 +26,7 @@ Module 1: Explore Dynamics 365 Customer Service
 
 	- **Case Title:** `Item arrived Damaged`
 
-	- **Customer:** `Alpine Ski House (Sample)`
-
-	- **Origin:** `Phone`
+	- **Customer:** `Alpine Ski House`
 
 5.  Select the **Save** button to save the record and leave it open. 
 
