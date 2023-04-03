@@ -16,41 +16,41 @@ Module 1: Explore Dynamics 365 Customer Service
 
 ## Instructions
 
-1. If not open already, open the **Dynamics 365 Customer Service workspace** application. 
+1.  If not open already, open the **Dynamics 365 Customer Service workspace** application. 
 
-2. Using the navigation on the left side of the screen, select **Cases**. 
+2.  Using the navigation on the left side of the screen, select **Cases**. 
 
-3. On the **Command Bar**, select the **New** button to create a new case record.
+3.  On the **Command Bar**, select the **+ New** button to create a new case record. 
 
-4. Complete the new case record as follows:
+4.  Complete the new case record as follows:
 
-	- **Case Title:** Item arrived Damaged
+	- **Case Title:** `Item arrived Damaged`
 
-	- **Customer:** Alpine Ski House (Sample)
+	- **Customer:** `Alpine Ski House (Sample)`
 
-	- **Origin:** Phone
+	- **Origin:** `Phone`
 
-5. Select the **Save** button to save the record and leave it open. 
+5.  Select the **Save** button to save the record and leave it open. 
 
-6. On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Patrick Sands**. 
+6.  On the **Phone to Case Process**, select the **Identify** stage and set the **Find Contact Field** to **Patrick Sands**. 
 
-7. Click the **X** on the **Identify** stage fly out window to remove the window so you can continue working. 
+7.  Select the **X** on the **Identify** stage fly out window to remove the window so you can continue working. 
 
-8. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
+8.  Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
-9. From the menu that appears, select **Phone Call**.
+9.  From the menu that appears, select **Phone Call**.
 
 10. Set the **Subject** field to **Return Call to Patrick** and leave the rest of the fields as is. 
 
-11. Click the **Save and Close** button. 
+11. Select the **Save and Close** button. 
 
 12. On the **Phone to Case Process**, select the **Identify** stage.
 
-13. Click the **Next Stage** button to advance to the **Research** stage. 
+13. Select the **Next Stage** button to advance to the **Research** stage. 
 
-14. Click the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
+14. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
 
-15. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
+15. On the right side of the case screen, locate and select the **Knowledge** book icon. (It will be directly below the wrench icon).
 
 16. Notice that the title of the case you created is automatically provided as the search text. Locate and select the **Item Broken on Arrival** article you created earlier. 
 
