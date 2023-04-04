@@ -30,17 +30,17 @@ In this exercise, you will be working with common records that are leveraged by 
 
 4.  Complete the account record as follows: 
 
-	- **Account Name:** `Contoso Corporate` 
+    - **Account Name:** `Contoso Corporate` 
 
-	- **Phone:** `888-555-1234` 
+    - **Phone:** `888-555-1234` 
 
-	- **Address 1 Street 1:** `191 181st Ave N` 
+    - **Address 1 Street 1:** `191 181st Ave N` 
 
-	- **Address 1 City:** `Seattle` 
+    - **Address 1 City:** `Seattle` 
 
-	- **Address 1 State/ Province:** `WA` 
+    - **Address 1 State/ Province:** `WA` 
 
-	- **Address 1 Postal Code:** `98101` 
+    - **Address 1 Postal Code:** `98101` 
 
 5.  On the Command Bar, select the **Save & Close** button to save and exit the account record. 
 
@@ -48,23 +48,23 @@ In this exercise, you will be working with common records that are leveraged by 
 
 7.  Complete the account record as follows: 
 
-	- **Account Name:** `Contoso North America` 
+    - **Account Name:** `Contoso North America` 
 
-	- **Phone:** `888-555-4321` 
+    - **Phone:** `888-555-4321` 
 
-	- **Parent Account:** select the **Magnifying glass** icon to search and select the **Contoso Corporate** account you created earlier. This relates the two accounts to each other and creates a Parent-Child hierarchy. One parent account can have many children records associated with it. 
+    - **Parent Account:** select the **Magnifying glass** icon to search and select the **Contoso Corporate** account you created earlier. This relates the two accounts to each other and creates a Parent-Child hierarchy. One parent account can have many children records associated with it. 
 
-	- **Address 1 Street 1:** `187 11th ST N` 
+    - **Address 1 Street 1:** `187 11th ST N` 
 
-	- **Address 1 City:** `Chicago` 
+    - **Address 1 City:** `Chicago` 
 
-	- **Address 1 State/ Province:** `IL` 
+    - **Address 1 State/ Province:** `IL` 
 
-	- **Address 1 Postal Code:** `60176` 
+    - **Address 1 Postal Code:** `60176` 
 
 8.  Select the **Save** button to save the account and leave it open. 
 
-9.  Locate the **Contacts Sub-grid** on the right side of the screen. 
+9.  Locate the **Contacts** sub-grid on the right side of the screen. 
 
 10. Select the **vertical ellipsis**, and from the menu that appears, select **New Contact**. 
 
