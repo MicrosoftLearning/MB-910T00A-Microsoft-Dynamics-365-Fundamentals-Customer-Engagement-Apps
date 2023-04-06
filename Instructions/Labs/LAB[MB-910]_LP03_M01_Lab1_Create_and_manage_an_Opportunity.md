@@ -67,7 +67,7 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 	- **Purchase Timeframe:** Immediate
 
-	- **Estimated Budget:** 50,000 
+	- **Estimated Budget:** $50,000 
 
 	- **Purchase Process:** Committee
 
