@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 2.1: Create a simple Customer Journey'
+    title: 'Learning Path 2 - Lab 2.1: Create a simple Customer Journey'
     learning path: 'Explore the fundamentals of Dynamics 365 Marketing'
     module: 'Explore Dynamics 365 Marketing'
 ---
 
-Module 1: Explore Dynamics 365 Marketing
+Learning Path 2 - Module 1: Explore Dynamics 365 Marketing
 ========================
 
 ## Practice Lab 2.1 - Create a simple Customer Journey
@@ -32,7 +32,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 	- **First Name**: Jenny
 
-	- **Last Name**: Jones
+	- **Last Name**: Jones (Your Initials)
 
 	- **Email**: Enter an email address that you can receive mail from.
 
@@ -52,7 +52,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 	- **First Name**: Marco
 
-	- **Last Name**: Gomez
+	- **Last Name**: Gomez (Your Initials)
 
 	- **Email**: Enter an email address that you can receive mail from.
 
@@ -66,58 +66,94 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 **NOTE:** We are using the same address information, to make it easy to recognize the contacts as sample data. 
 
-9. Next, we will define a segment that includes the new customers. Using the navigation on the left, select Segments under Marketing. 
+9. Once you have completed the contact, select **Save &amp; Close**.
 
-10. On the command bar, select **New**.
+**IMPORTANT:** Because of the address, the systems duplicate detection settings may trigger. If you get the duplicate record screen, select the **Ignore and save** button. 
 
-11. From the drop-down menu that appears, select **New Dynamic Segment**.
+**Task 2: Create Fargo segment** 
 
-12. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
+Next, we will create a new segment, and add the contacts we created in the previous task. 
 
-13. Select **Add query block** to create a query against the contact entity. 
+1. Using the navigation on the left, select **Segments** under **Marketing**. 
 
-14. Select the ghost text **Select attribute**. 
+	2. On the command bar, select **New**.
 
-15. Then type "city" to filter the list and choose **Address 1: City** from the list.
+	3. From the drop-down menu that appears, select **New Dynamic Segment**.
 
-16. Leave the next drop-down list set to **Equals**. 
+	4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
 
-17. Select the third drop-down list, which contains the ghost text **Enter text** and type **Fargo**.
+	5. Select **Add query block** to create a query against the contact entity. 
 
-18. Click to select the **Name** field at the top of the query and enter Fargo Contacts.
+	6. Select the ghost text **Select attribute**. 
 
-19. Select **Save** on the command bar to save your segment
+	7. Then type "city" to filter the list and choose **Address 1: City** from the list.
 
-20. Select **Go Live** to publish the segment 
+	8. Leave the next drop-down list set to **Is**. 
 
-21. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
+	9. Select the third drop-down list, which contains the ghost text **Type to Search** and type **Fargo**.
 
-22. You should now see that a **Members** tab has been added 
+	10. Click to select the **Name** field at the top of the query and enter **Fargo Contacts (Your Initials)**. (You might need to select the down arrow next to the Status reason.)
 
-23. Using the navigation on the left, select **Customer journeys** under the **Marketing Execution** group.
+	11. Select **Save** on the command bar to save your segment.
 
-24. Using the Command Bar, select **+ New**.
+	12. Select **Go Live** to publish the segment.
 
-25. On the **Customer journey templates** pop-up, select **Skip** to start creating a new journey from scratch.
+	13. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
-26. Select **Set audience** (or, alternatively, select **+**). Select the Fargo Customers segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+	14. You should now see that a **Members** tab has been added. 
 
-27. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
+ 
 
-28. Select sample email message you created earlier,
+**Task 3: Create a simple email.** 
 
-29. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
+Next, we will create a simple email from an existing template that we will be able to leverage with our customer journey. 
 
-30. **Name**: Fargo Customer Journey
+1. Using the navigation on the left, select **Marketing emails** under the **Marketing Execution** group.
 
-31. **Start date and time**: Enter Todays Date
+2. Using the Command Bar, select **+ New**.
 
-32. **End date and time**: One Month from Today
+3. On the **Marketing email templates** screen, select **1 column**, and then choose the **Select** button. 
 
-33. **Time zone**: Select your local time zone
+4. In the upper left corner of the email, select the Name field. (Will have text similar to Email ypl (1 column))
 
-34. On the command bar, select **Save** to save the work you've done so far.
+5. Change the name to ‘**Sample Email Message (Your Initials)’**.
 
-35. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
+6. In the **Subject** field, enter the text, ‘**See what we have to offer’**. 
+
+7. Select the **Save** button. 
+
+8. Select the **Go live** button to publish the email. 
+
+ 
+
+**Task 4: Create a Customer Journey.** 
+
+Now that we have our target audience, as well as the email activity we want to use, we are going to create a Customer Journey. 
+
+1. Using the navigation on the left, select **Customer journeys** under the **Marketing Execution** group.
+
+	2. Using the Command Bar, select **+ New**.
+
+	3. On the **Customer journey templates** pop-up, select **Skip** to start creating a new journey from scratch.
+
+	4. Select **Set audience** (or, alternatively, select **+**). Verify the **Source Type** is set to **Segment**, and Select the **Fargo Contacts** (Your Initials) segment that you created in the previous exercise. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+
+	5. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
+
+	6. In the Send an email section, select **Sample Email Message** (Your Initials) you created earlier.
+
+	7. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
+
+		- **Name**: Fargo Customer Journey (Your Initials)
+
+		- **Start date and time**: Enter Todays Date
+
+		- **End date and time**: One Month from Today
+
+		- **Time zone**: Select your local time zone
+
+8. On the command bar, select **Save** to save the work you've done so far.
+
+9. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
 
  
