@@ -5,7 +5,7 @@ lab:
     module: 'Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps'
 ---
 
-Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
+Learning Path 2 - Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ========================
 
 ## Practice Lab 1.2 - Manage Customers and Activities
