@@ -2,7 +2,7 @@
 lab:
     title: 'Learning Path 1 - Lab 1.1: Work with customer engagement apps'
     learning path: 'Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps'
-    Module: 'Describe the foundations of Dynamics 365 customer engagement apps'
+    module: 'Module 1: Describe the foundations of Dynamics 365 customer engagement apps'
 ---
 
 Learning Path 1 - Module 1: Describe the foundations of Dynamics 365 customer engagement apps
