@@ -20,25 +20,23 @@ Learning Path 4 - Module 1: Explore Dynamics 365 Customer Service
 
 2. Using the navigation on the left, select **Cases**.
 
-3. On the **Command Bar**, select the **New** button to create a new case record.
+3.  On the **Command Bar**, select the **+ New** button to create a new case record. 
 
-4. Complete the new case record as follows:
+4.  Complete the new case record as follows:
 
 	- **Case Title:** Item arrived Damaged (Your Initials)
 
 	- **Customer:** George Li
 
-	- **Origin:** Phone
+5.  Select the **Save** button to save the record and leave it open. 
 
-5. Select the **Save** button to save the record and leave it open.
+6.  Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity.
 
-6. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity.
+7.  From the menu that appears, select **Phone Call**.
 
-7. From the menu that appears, select **Phone Call**.
+8.  Set the **Subject** field to **Return Call to George** and leave the rest of the fields as is.
 
-8. Set the **Subject** field to **Return Call to George** and leave the rest of the fields as is.
-
-9. Click the **Save and Close** button.
+9.  Click the **Save and Close** button.
 
 10. On the **Phone to Case Process**, select the **Identify** stage.
 

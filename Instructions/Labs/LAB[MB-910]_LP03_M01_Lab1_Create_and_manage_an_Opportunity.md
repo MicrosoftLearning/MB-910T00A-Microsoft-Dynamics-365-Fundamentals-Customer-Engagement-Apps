@@ -15,13 +15,11 @@ Learning Path 3 - Module 1: Explore Dynamics 365 Sales
 
 During this exercise, you will manually be creating a lead for Jane Anderson. Jane works for a company called Jim works for a company called **ABC Consulting**. Not only will you be capturing the Lead information in the system, but you will be leveraging the tools available in Dynamics 365 Sales to qualify the Lead as an Opportunity and work it through closing the opportunity.
 
-
 ## Lab Setup
 
   - **Estimated Time**: 20 minutes
 
 ## Instructions
-
 
 1. If is not open already, open the **Dynamics 365 Sales Hub** application.
 
@@ -31,66 +29,61 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 4. Complete the **Lead** information as follows:
 
-	- **Topic:** Want to upgrade their existing equipment
+	- **Topic:** `Wants to upgrade their existing equipment`
 
-	- **First Name:** Jane
+	- **First Name:** `Jane`
 
-	- **Last Name:** Anderson (Your Initials)
+	- **Last Name:** `Anderson (Your Initials)`
 
-	- **Job Title:** CEO
+	- **Job Title:** `CEO`
 
-	- **Business Phone:** 888-555-6767
+	- **Business Phone:** `888-555-6767`
 
-	- **Email:** [JaneA@sample.com](mailto:JaneA@sample.com)
+	- **Email:** `JaneA@sample.com`
 
-	- **Company:** ABC Consulting
+	- **Company:** `ABC Consulting`
 
-	- **Street 1:** 1987 191<sup data-htmlnode="">st</sup> Ave N
+	- **Street 1:** `1987 191st Ave N`
 
-	- **City:** Fargo
+	- **City:** `Fargo`
 
-	- **State/Province:** ND
+	- **State/Province:** `ND`
 
-	- **Zip/Postal Code:** 58102
+	- **Zip/Postal Code:** `58102`
 
 5. Select the **Save** button to save the new lead and leave it open. 
-
-	- **Purchase Timeframe:** This Quarter
-
-	- **Budget Amount:** 50,000
-
-	- **Purchase Process:** Individual
 
 6. On the **Lead to Opportunity** sales process, select the **Qualify** stage.
 
 7. Complete as follows:
 
-	- **Purchase Timeframe:** Immediate
+	- **Purchase Timeframe:** `Immediate`
 
-	- **Estimated Budget:** $50,000 
+	- **Estimated Budget:** `50,000` 
 
-	- **Purchase Process:** Committee
+	- **Purchase Process:** `Committee`
 
-8. Click your mouse off the **Qualify** stage to close it. 
+8. Close the **Qualify** stage fly-out. 
 
-9. On the **Command ba**r, select the **Qualify** button. 
+9.  On the **Command bar**, select the **Qualify** button. 
 
-	The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has 	automatically been advanced to the **Develop** stage. 
+    The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage. 
 
-10. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
+10. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field. 
 
 11. Complete as follows:
+
 	- **Est. Close Date:** Two days from today
 
-	- **Est Revenue:** $50,000
-		
-12. In the **Stakeholders** sub-grid, notice that **Jane Anderson** (Your Initials) is already defined as a stakeholder.
+	- **Est Revenue:** `$50,000`
+	
+12. In the **Stakeholders** sub-grid, notice that **Jane Anderson** (Your Initials) is already defined as a stakeholder. 
 
 13. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
 
-14. Search for and select your user record. Once completed, click the **Add** button.
+14. Search for and select your user record. Once completed, click the **Add** button. 
 
-15. On the Competitors sub-grid, select the **Vertical Ellipsis** (look like three vertical dots). From the menu that appears select **Add Existing Competitor**.
+15. On the **Competitors** sub-grid, select the **Vertical Ellipsis** (look like three vertical dots). From the menu that appears select **Add Existing Competitor**. 
 
 16. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 
@@ -102,9 +95,9 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 20. On the **Lead to Opportunity** business process flow, select the **Develop** stage. 
 
-21. Complete as follows:
+21. Complete as follows: 
 
-	- **Identify Stakeholders:** Mark Complete.
+	- **Identify Stakeholders:** Mark Complete. 
 
 	- **Identify Competitors:** Mark Complete. 
 
@@ -119,5 +112,4 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 26. On the Timeline select the new button. Now that you have completed the business process, you need to close the opportunity. On the **Command Bar** of the opportunity, select the **Close as Won** button.
 
 27. On the **Close Opportunity** screen, click the **OK** button to finish closing the opportunity record.
-
 

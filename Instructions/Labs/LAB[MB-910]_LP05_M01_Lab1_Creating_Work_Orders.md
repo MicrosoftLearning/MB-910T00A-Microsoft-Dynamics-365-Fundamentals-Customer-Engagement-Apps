@@ -8,7 +8,7 @@ lab:
 Module 1: Explore Dynamics 365 Field Service
 ========================
 
-## Practice Lab 5.1 - Creating Work Orders in Dynamics 365 Field Service
+# Practice Lab 5.1 - Creating Work Orders in Dynamics 365 Field Service
 
 ## Lab Setup
 
@@ -18,76 +18,77 @@ Module 1: Explore Dynamics 365 Field Service
 
 ## Instructions
 
-1. If is not open already, open the **Dynamics 365 Field Service** application.  
+### Task 1 - Create a case
 
-2. Using the navigation on the left side of the screen, select **Cases**.  
+1.  If is not open already, open the **Dynamics 365 Field Service** application. 
 
-3. On the **Command Bar**, select the **New** button to create a new case record. 
+2.  Using the navigation on the left side of the screen, select **Cases**. 
 
-4. Complete the new case record as follows: 
+3.  On the **Command Bar**, select the **+ New** button to create a new case record. 
 
-	- **Case Title:** Control Unit Overheating 
+4.  Complete the new case record as follows: 
 
-	- **Customer:** A. Datum Corporation 
+	- **Case Title:** `Control Unit Overheating` 
 
-	- **Origin:** Phone 
+	- **Customer:** `A. Datum Corporation` 
 
-5. Select the **Field Service** tab 
+	- **Origin:** `Phone` 
 
-6. Set the **Incident Type** field to **Unit Overheating**. 
+5.  Select the **Field Service** tab. 
 
-7. On the **Command bar**, select the **Save and Close** button to save and close the case record.  
+6.  Set the **Incident Type** field to `Unit Overheating`
 
- 
+7.  On the **Command Bar**, select the **Save and Close** button. 
 
-We will come back to your created case record later. Next, lets examine how to manually create a work order record.  
 
- 
+### Task 2 - Manually create a work order
 
-8. Using the navigation on the left, select **Work Orders**. 
+We will come back to your created case record later. Next, let's examine how to manually create a work order record. 
 
-9. On the **Command Bar**, select the **New** button to create a new Work Order. 
+1.  Using the navigation on the left, select **Work Orders**. 
 
-10. Complete the Work Order details as follows: 
+2.  On the **Command Bar**, select the **+ New** button to create a new Work Order. 
 
-	- **Service Account:** Adventure Works 
+3.  Complete the Work Order details as follows: 
 
-	- **Price List:** US Bill Rates 
+	- **Service Account:** `Adventure Works` 
 
-	- **Primary Incident Type:** Line Connection Lost 
+	- **Price List:** `US Bill Rates` 
 
-	- **Taxable:** No 
+	- **Primary Incident Type:** `Line Connection Lost` 
 
-11. Select the **Settings** tab. 
+	- **Taxable:** `No` 
 
-12. Set the **Service Territory** field to **WA**. 
+4.  Select the **Settings** tab. 
 
-13. Under **Preferences**, configure the time preferences as follows: 
+5.  Set the **Service Territory** field to `WA`
+
+6.  Under **Preferences**, configure the time preferences as follows: 
 
 	- **Time from Promised:** Today @ 9:00 AM 
 
 	- **Time to Promised:** Today @ 11:00 AM 
 
-14. Select **Save and Close** to save you changes and exit the new work order. 
+7.  Select **Save and Close** to save you changes and exit the new work order. 
 
- 
+
+### Task 3 - Escalate the Case
 
 Another way to generate work orders is by escalating case records. In this example, we will escalate the Control Unit Overheating Case we created earlier.  
 
- 
+1.  Using the left navigation, select **Cases**. 
 
-15. Using the left navigation, select **Cases**.  
+2.  Open the **Control Unit Overheating** case you created earlier. 
 
-16. Open the **Control Unit Overheating** case you created earlier.  
+3.  On the **Command Bar**, select the **Convert to Work Order** button. 
 
-17. On the **Command Bar**, select the **Convert to Work Order** button.  
+4.  After the work order creation has completed, select the **OK** button on the pop-up screen to view the Work Order details.  
 
-18. After the work order creation has completed, click the **OK** button on the pop-up screen to view the Work Order details.  
+5.  Select the **Services** tab and verify that the **Inspect System Health** and **Inspect Range of Motion** services were added to the work order. 
 
-19. Select the **Services** Tab and verify that the **Inspect System Health** and **Inspect Range of Motion** services were added to the work order. 
+    > **Note:** If you do not see them initially, press **F5** to refresh the record. 
 
-**NOTE:** If you do not see them initially, press F5 to refresh your screen.  
-
-20. Select the **Service Task** Tab and verify that 4 tasks were added. 
+6.  Select the **Service Task** tab and verify that 4 tasks were added. 
 
 Your new work orders are ready to be scheduled. 
+
