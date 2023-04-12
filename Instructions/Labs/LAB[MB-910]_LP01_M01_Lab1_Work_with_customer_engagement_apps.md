@@ -1,11 +1,11 @@
 ---
 lab:
-    title: 'Lab 1.1: Work with customer engagement apps'
+    title: 'Learning Path 1 - Lab 1.1: Work with customer engagement apps'
     learning path: 'Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps'
     Module: 'Describe the foundations of Dynamics 365 customer engagement apps'
 ---
 
-Module 1: Describe the foundations of Dynamics 365 customer engagement apps
+Learning Path 1 - Module 1: Describe the foundations of Dynamics 365 customer engagement apps
 ========================
 
 ## Practice Lab 1.1 - Work with customer engagement apps 
@@ -20,13 +20,13 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 ## Instructions
 
-1.  In a web browser, open a new tab and navigate to `https://www.office.com/apps` and sign in. All the Microsoft applications that you have access to will be displayed. 
+1.  In a web browser, navigate to [https://make.powerapps.com](https://make.powerapps.com/). 
 
-2.  Under **Get work done**, select the **Business Apps** tab to filter just Dynamics 365 business applications. 
+2.  Login with the credentials provided to you by your instructor. 
 
-3.  Select the **Search** field located at the top screen. 
+3.  Using the navigation on the left, select **Apps**. 
 
-4.  Enter the text `Sales Hub` and select the **Sales Hub** app to open it. 
+4.  In the list of **Apps**, open the **Sales Hub** application. 
 
 5.  When you are in an app, there are different areas that you can work with based on what you are trying to do. For example, the **Sales Hub** application is built with five different areas that you can work with. 
 

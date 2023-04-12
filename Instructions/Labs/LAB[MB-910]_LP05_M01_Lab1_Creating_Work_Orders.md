@@ -12,6 +12,8 @@ Module 1: Explore Dynamics 365 Field Service
 
 ## Lab Setup
 
+**Note to Instructors:** *For this lab to work as intended for students, there are a few configuration steps that you will need to complete.  You can find the configuration steps in the MB-910T00A Trainer Preparation Guide.*
+
   - **Estimated Time**: 20 minutes
 
 ## Instructions
@@ -65,7 +67,7 @@ We will come back to your created case record later. Next, let's examine how to 
 
 	- **Time from Promised:** Today @ 9:00 AM 
 
-	- **Tom to Promised:** Today @ 11:00 AM 
+	- **Time to Promised:** Today @ 11:00 AM 
 
 7.  Select **Save and Close** to save you changes and exit the new work order. 
 
