@@ -70,14 +70,14 @@ In this exercise, you will be working with common records that are leveraged by 
 
 11. Using the **Quick Create: Contact** form, complete the contact record as follows: 
 
-	- **First Name:** `Jackson` (The blue + icon indicates this is a **Business Recommended** field.)
+    - **First Name:** `Jackson` (The blue + icon indicates this is a **Business Recommended** field.)
 
 	- **Last Name:** `Anderson` (The red * indicates this is a **Business Required** or Mandatory field.)
 
 	- **Job Title:** `CEO` 
 
 	- **Email:** `jackson@contososample.com` 
-
+ 
     > **Note:** Notice the **Business Phone** and **Address** fields are copied from the Account record. 
 
 12. Select the **Save and Close** button. 
@@ -86,9 +86,9 @@ In this exercise, you will be working with common records that are leveraged by 
 
 14. On the **Timeline** located in the center column of the record, select the **+** plus sign button to create a new timeline record. 
 
-15. From the menu, select **Meeting**. 
+15. From the menu, select **Activity > Appointment**. 
 
-16. On the **Quick Create: Meeting** form, complete the **Meeting** record as follows: 
+16. On the **Quick Create: Appointment** form, complete the **Appointment** record as follows: 
 
 	- **Subject:** `Meeting with Jackson` 
 
@@ -96,11 +96,11 @@ In this exercise, you will be working with common records that are leveraged by 
 
 17. Select the **Save and Close** button. 
 
-18. On the **Timeline** sub-grid, select **View more** to expand the **Meeting** and show more details. 
+18. On the **Timeline** sub-grid, select **View more** to expand the **Appointment** and show the details. 
 
-19. On the **Timeline** sub-grid, select the **Open Record** button. 
+19. On the **Timeline** sub-grid, for the **Appointment** record, select the **Open Record** button. 
 
-20. With the **Meeting** record open, from the **Command Bar**, select the **Mark Complete** button to finish the meeting. 
+20. With the **Appointment** record open, from the **Command Bar**, select the **Mark Complete** button to finish the appointment. 
 
 21. Select **Save & Close** on the Account record. 
 
