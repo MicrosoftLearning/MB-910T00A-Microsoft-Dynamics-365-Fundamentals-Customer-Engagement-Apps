@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Working with Dynamics 365 Customer Service'
-    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Customer Service'
+    module: 'Learn the Fundamentals of Dynamics 365 Customer Service'
 ---
 
 # Demo: Working with Dynamics 365 Customer Service
