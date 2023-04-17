@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Customer Voice'
-    module: 'Module 21: Learn the Fundamentals of Dynamics 365 Marketing'
+    module: 'Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
 # Demo: Customer Voice
