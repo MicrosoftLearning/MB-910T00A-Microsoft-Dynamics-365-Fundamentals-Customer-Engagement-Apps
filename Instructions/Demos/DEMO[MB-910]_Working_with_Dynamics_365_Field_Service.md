@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Working with Dynamics 365 Field Service'
-    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Field Service'
+    module: 'Learn the Fundamentals of Dynamics 365 Field Service'
 ---
 
 # Demo: Working with Dynamics 365 Field Service
