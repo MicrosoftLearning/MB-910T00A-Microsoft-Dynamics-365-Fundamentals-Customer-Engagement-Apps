@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Working with Dynamics 365 Marketing'
-    module: 'Module 2: Learn the Fundamentals of Dynamics 365 Marketing'
+    module: 'Learn the Fundamentals of Dynamics 365 Marketing'
 ---
 
 # Demo: Working with Dynamics 365 Marketing
