@@ -59,7 +59,7 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 	- **Purchase Timeframe:** `Immediate`
 
-	- **Estimated Budget:** `50,000` 
+	- **Estimated Budget:** `50000` 
 
 	- **Purchase Process:** `Committee`
 
@@ -79,15 +79,15 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 	
 12. In the **Stakeholders** sub-grid, notice that **Jane Anderson** (Your Initials) is already defined as a stakeholder. 
 
-13. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
+13. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
 
-14. Search for and select your user record. Once completed, click the **Add** button. 
+14. Search for and choose your user record. Once completed, select the **Add** button. 
 
 15. On the **Competitors** sub-grid, select the **Vertical Ellipsis** (look like three vertical dots). From the menu that appears select **Add Existing Competitor**. 
 
 16. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 
-17. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies (Your Initials)**.
+17. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies (Your Initials)**.
 
 18. Select the **Save and Close** button.
 
@@ -97,19 +97,19 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 21. Complete as follows: 
 
-	- **Identify Stakeholders:** Mark Complete. 
+	- **Identify Stakeholders**: `completed` 
 
-	- **Identify Competitors:** Mark Complete. 
+	- **Identify Competitors**: `completed` 
 
 22. Select the **Next Stage** button to advance to the **Propose** stage. 
 
-23. On the **Propose** stage, Mark All four tasks as **complete**. 
+23. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
 
-24. On the **Close** stage, Mark all tasks as **complete**. 
+24. On the **Close** stage, mark all tasks as **completed**. 
 
 25. Select the **Finish** button on the business process flow. 
 
-26. On the Timeline select the new button. Now that you have completed the business process, you need to close the opportunity. On the **Command Bar** of the opportunity, select the **Close as Won** button.
+26. Now that you have completed the business process, you need to close the opportunity. On the **Command Bar** of the opportunity, select the **Close as Won** button.
 
-27. On the **Close Opportunity** screen, click the **OK** button to finish closing the opportunity record.
+27. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record. 
 

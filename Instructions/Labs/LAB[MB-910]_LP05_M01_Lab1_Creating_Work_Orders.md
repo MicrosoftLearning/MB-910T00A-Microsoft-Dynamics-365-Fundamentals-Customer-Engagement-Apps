@@ -30,7 +30,7 @@ Module 1: Explore Dynamics 365 Field Service
 
 	- **Case Title:** `Control Unit Overheating` 
 
-	- **Customer:** `A. Datum Corporation` 
+	- **Customer:** `Adatum Corporation` 
 
 	- **Origin:** `Phone` 
 
@@ -38,7 +38,7 @@ Module 1: Explore Dynamics 365 Field Service
 
 6.  Set the **Incident Type** field to `Unit Overheating`
 
-7.  On the **Command Bar**, select the **Save and Close** button. 
+7.  On the **Command Bar**, select the **Save &amp; Close** button. 
 
 
 ### Task 2 - Manually create a work order
@@ -49,15 +49,17 @@ We will come back to your created case record later. Next, let's examine how to 
 
 2.  On the **Command Bar**, select the **+ New** button to create a new Work Order. 
 
-3.  Complete the Work Order details as follows: 
+3.  Complete the **New Work Order** details as follows: 
 
-	- **Service Account:** `Adventure Works` 
+	- **Service Account**: `Adventure Works` 
+	
+    - **Work Order Type**: `Line connection lost`
 
-	- **Price List:** `US Bill Rates` 
+	- **Price List**: `US Bill Rates` 
 
-	- **Primary Incident Type:** `Line Connection Lost` 
+	- **Primary Incident Type**: `Line connection lost` 
 
-	- **Taxable:** `No` 
+	- **Taxable**: `No` 
 
 4.  Select the **Settings** tab. 
 
@@ -69,7 +71,7 @@ We will come back to your created case record later. Next, let's examine how to 
 
 	- **Time to Promised:** Today @ 11:00 AM 
 
-7.  Select **Save and Close** to save you changes and exit the new work order. 
+7.  Select **Save &amp; Close** to save you changes and exit the new work order. 
 
 
 ### Task 3 - Escalate the Case
