@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Dynamics 365 Sales Insights'
-    module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
+    module: 'Learn the Fundamentals of Dynamics 365 Sales'
 ---
 
 # Demo: Dynamics 365 Sales Insights
