@@ -68,7 +68,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 9.  Once you have completed the contact, select **Save &amp; Close**. 
 
-    **IMPORTANT:** Because of the address, the system duplicate detection settings will trigger. When you get the duplicate record dialogue, select **Ignore and save**. 
+    **IMPORTANT:** Because of the address, the system duplicate detection settings will trigger. When you get the duplicate record dialog, select **Ignore and save**. 
 
 
 **Task 2: Create Fargo segment** 
