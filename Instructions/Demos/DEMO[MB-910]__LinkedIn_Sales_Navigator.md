@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: LinkedIn Sales Navigator'
-    module: 'Module 3: Learn the Fundamentals of Dynamics 365 Sales'
+    module: 'Learn the Fundamentals of Dynamics 365 Sales'
 ---
 
 # Demo: LinkedIn Sales Navigator
