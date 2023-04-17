@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 5.1: Creating Work Orders in Dynamics 365 Field Service'
+    title: 'Learning Path 5 - Lab 5.1: Creating Work Orders in Dynamics 365 Field Service'
     learning path: 'Learn the Fundamentals of Dynamics 365 Field Service'
     module: 'Explore Dynamics 365 Field Service'
 ---
