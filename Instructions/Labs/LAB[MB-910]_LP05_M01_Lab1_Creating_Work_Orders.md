@@ -18,79 +18,67 @@ Module 1: Explore Dynamics 365 Field Service
 
 ## Instructions
 
-### Task 1 - Create a case
+1. If is not open already, open the **Dynamics 365 Field Service** application.
 
-1.  If is not open already, open the **Dynamics 365 Field Service** application. 
+2. Using the navigation on the left side of the screen, select **Cases**.
 
-2.  Using the navigation on the left side of the screen, select **Cases**. 
+3. On the **Command Bar**, select the **New** button to create a new case record.
 
-3.  On the **Command Bar**, select the **+ New** button to create a new case record. 
+4. Complete the new case record as follows:
 
-4.  Complete the new case record as follows: 
+	- **Case Title:** Control Unit Overheating (Your Initials)
 
-	- **Case Title:** `Control Unit Overheating` 
+	- **Customer:** A. Datum Corporation
 
-	- **Customer:** `Adatum Corporation` 
+	- **Origin:** Phone
 
-	- **Origin:** `Phone` 
+5. Select the **Field Service** tab
 
-5.  Select the **Field Service** tab. 
+6. Set the **Incident Type** field to **Unit Overheating**.
 
-6.  Set the **Incident Type** field to `Unit Overheating`
+7. On the **Command bar**, select the **Save and Close** button to save and close the case record.
 
-7.  On the **Command Bar**, select the **Save &amp; Close** button. 
+We will come back to your created case record later. Next, let’s examine how to manually create a work order record.
 
+8. Using the navigation on the left, select **Work Orders**.
 
-### Task 2 - Manually create a work order
+9. On the **Command Bar**, select the **New** button to create a new Work Order.
 
-We will come back to your created case record later. Next, let's examine how to manually create a work order record. 
+10. Complete the Work Order details as follows:
 
-1.  Using the navigation on the left, select **Work Orders**. 
+	- **Service Account:** Adventure Works
 
-2.  On the **Command Bar**, select the **+ New** button to create a new Work Order. 
+	- **Price List:** US Bill Rates
 
-3.  Complete the **New Work Order** details as follows: 
+	- **Primary Incident Type:** Line Connection Lost
 
-	- **Service Account**: `Adventure Works` 
-	
-    - **Work Order Type**: `Line connection lost`
+11. Select the **Settings** tab.
 
-	- **Price List**: `US Bill Rates` 
+12. Set the **Service Territory** field to **WA**.
 
-	- **Primary Incident Type**: `Line connection lost` 
+13. Under **Preferences**, configure the time preferences as follows:
 
-	- **Taxable**: `No` 
+	- **Time from Promised:** Today @ 9:00 AM
 
-4.  Select the **Settings** tab. 
+	- **Tom to Promised:** Today @ 11:00 AM
 
-5.  Set the **Service Territory** field to `WA`
+14. Select **Save and Close** to save your changes and exit the new work order.
 
-6.  Under **Preferences**, configure the time preferences as follows: 
+Another way to generate work orders is by escalating case records. In this example, we will escalate the Control Unit Overheating Case we created earlier.
 
-	- **Time from Promised:** Today @ 9:00 AM 
+15. Using the left navigation, select **Cases**.
 
-	- **Time to Promised:** Today @ 11:00 AM 
+16. Open the **Control Unit Overheating** **(Your Initials)** case you created earlier.
 
-7.  Select **Save &amp; Close** to save you changes and exit the new work order. 
+17. On the **Command Bar**, select the **Convert to Work Order** button.
 
+18. After the work order creation has been completed, click the **OK** button on the pop-up screen to view the Work Order details.
 
-### Task 3 - Escalate the Case
+19. Select the **Services** Tab and verify that the **Inspect System Health** and **Inspect Range of Motion** services were added to the work order.
 
-Another way to generate work orders is by escalating case records. In this example, we will escalate the Control Unit Overheating Case we created earlier.  
+**NOTE:** If you do not see them initially, press F5 to refresh your screen.
 
-1.  Using the left navigation, select **Cases**. 
+20. Select the **Service Task** Tab and verify that the **Inspect Unit** task was added.
 
-2.  Open the **Control Unit Overheating** case you created earlier. 
-
-3.  On the **Command Bar**, select the **Convert to Work Order** button. 
-
-4.  After the work order creation has completed, select the **OK** button on the pop-up screen to view the Work Order details.  
-
-5.  Select the **Services** tab and verify that the **Inspect System Health** and **Inspect Range of Motion** services were added to the work order. 
-
-    > **Note:** If you do not see them initially, press **F5** to refresh the record. 
-
-6.  Select the **Service Task** tab and verify that 4 tasks were added. 
-
-Your new work orders are ready to be scheduled. 
+Your new work orders are ready to be scheduled.
 
