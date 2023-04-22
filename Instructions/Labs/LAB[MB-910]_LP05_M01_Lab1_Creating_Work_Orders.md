@@ -12,7 +12,7 @@ Module 1: Explore Dynamics 365 Field Service
 
 ## Lab Setup
 
-**Note to Instructors:** *For this lab to work as intended for students, there are a few configuration steps that you will need to complete.  You can find the configuration steps in the MB-910T00A Trainer Preparation Guide. You can find the Field Service demo data here:https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/blob/master/Instructions/Labs/FS_demo_data.zip*
+**Note to Instructors:** *For this lab to work as intended for students, there are a few configuration steps that you will need to complete.  You can find the configuration steps in the MB-910T00A Trainer Preparation Guide. You can find the Field Service demo data here: [https://github.com/MicrosoftLearning/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/tree/master/Instructions/Labs]*
 
   - **Estimated Time**: 20 minutes
 
