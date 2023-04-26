@@ -60,7 +60,7 @@ We will come back to your created case record later. Next, let’s examine how t
 
 	- **Time from Promised:** Today @ 9:00 AM
 
-	- **Tom to Promised:** Today @ 11:00 AM
+	- **Time to Promised:** Today @ 11:00 AM
 
 14. Select **Save and Close** to save your changes and exit the new work order.
 
