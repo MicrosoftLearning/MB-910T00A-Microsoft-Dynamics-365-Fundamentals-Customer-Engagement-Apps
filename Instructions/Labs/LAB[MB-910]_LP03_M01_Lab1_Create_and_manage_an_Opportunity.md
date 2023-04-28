@@ -39,7 +39,7 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 	- **Business Phone:** `888-555-6767`
 
-	- **Email:** `JaneA@sample.com`
+	- **Email:** `JaneA(your initials)@sample.com`
 
 	- **Company:** `ABC Consulting`
 
@@ -65,9 +65,9 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 8. Close the **Qualify** stage fly-out. 
 
-9.  On the **Command bar**, select the **Qualify** button. 
+9.  On the **Command bar**, select the **Qualify** button. **Note:** If you do not see the Qualify button, select the **More Commands** button (Looks like three vertical dots). 
 
-    The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage. 
+	The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage. 
 
 10. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field. 
 
