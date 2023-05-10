@@ -52,7 +52,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Phone:** 888-555-4321 (Your Initials)
 
-	- **Address 1 – Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N (Your Initials)
+	- **Address 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N (Your Initials)
 
 	- **Address 1 City:** Chicago
 
