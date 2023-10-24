@@ -12,7 +12,7 @@ Dynamics 365 Customer Insights - Journeys lets your organization take control of
 
 1. Navigate to and open Dynamics 365 Customer Insights - Journeys.
 
-- Dynamics 365 Marketing, lets, you easily identify and target specific customers based on tailored demographics. 
+- Dynamics 365 Dynamics 365 Customer Insights - Journeys lets you easily identify and target specific customers based on tailored demographics. 
 
 	- Start on the Marketing Sales Pipeline Dashboard
 
