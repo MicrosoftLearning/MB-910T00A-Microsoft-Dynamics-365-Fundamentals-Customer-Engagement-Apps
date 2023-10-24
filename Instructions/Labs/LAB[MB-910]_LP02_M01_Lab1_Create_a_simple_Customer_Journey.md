@@ -1,20 +1,20 @@
 ---
 lab:
     title: 'Learning Path 2 - Lab 2.1: Create a simple Customer Journey'
-    learning path: 'Explore the fundamentals of Dynamics 365 Marketing'
-    module: 'Explore Dynamics 365 Marketing'
+    learning path: 'Explore the fundamentals of Dynamics 365 Customer Insights'
+    module: 'Explore Dynamics 365 Customer Insights'
 ---
 
-Learning Path 2 - Module 1: Explore Dynamics 365 Marketing
+Learning Path 2 - Module 1: Explore Dynamics 365 Customer Insights
 ========================
 
 ## Practice Lab 2.1 - Create a simple Customer Journey
 
-**IMPORTANT**: Instructors, make sure that you have completed the all of the setup steps defined in the Dynamics 365 Marketing section of the Trainer Prep Guide to ensure that your students can complete this lab correctly.   
+**IMPORTANT**: Instructors, make sure that you have completed the all of the setup steps defined in the Dynamics 365 Customer Insights - Journeys section of the Trainer Prep Guide to ensure that your students can complete this lab correctly.   
 
 ## Objectives
 
-During this exercise you will see that Customer Journeys are a key component in Dynamics 365 Marketing. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue. 
+During this exercise you will see that Customer Journeys are a key component in Dynamics 365 Customer Insights - Journeys. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue. 
 
 ## Lab Setup
 
