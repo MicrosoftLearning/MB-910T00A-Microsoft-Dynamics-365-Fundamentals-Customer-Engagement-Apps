@@ -1,16 +1,16 @@
 ---
 demo:
-    title: 'Demo: Working with Dynamics 365 Marketing'
-    module: 'Learn the Fundamentals of Dynamics 365 Marketing'
+    title: 'Demo: Working with Dynamics 365 Customer Insights'
+    module: 'Learn the Fundamentals of Dynamics 365 Customer Insights'
 ---
 
-# Demo: Working with Dynamics 365 Marketing
+# Demo: Working with Dynamics 365 Customer Insights
 
 ## Instructions
 
-Dynamics 365 Marketing lets your organization take control of all the different aspects of marketing from delivering and executing campaigns to managing events. 
+Dynamics 365 Customer Insights - Journeys lets your organization take control of all the different aspects of marketing from delivering and executing campaigns to managing events. 
 
-1. Navigate to and open Dynamics 365 Marketing.
+1. Navigate to and open Dynamics 365 Customer Insights - Journeys.
 
 - Dynamics 365 Marketing, lets, you easily identify and target specific customers based on tailored demographics. 
 
