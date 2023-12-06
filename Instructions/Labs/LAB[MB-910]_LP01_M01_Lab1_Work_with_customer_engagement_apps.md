@@ -45,25 +45,24 @@ In this exercise, you will become familiar with how to access and navigate diffe
 10.  The **Apps** selector pop-up will appear, select **Customer Service Hub** and you will be taken to the **Customer Service Hub** application. Notice the **Customer Service Hub** has different areas available in the **Change Area** menu.
 
 11. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
-
 Alternatively, you can access Business applications from the office portal. 
 
-1. In a web browser, navigate to [https://www.office.com/apps](https://www.office.com/apps). All the applications that you have access to will be displayed.
+12. In a web browser, navigate to [https://www.office.com/apps](https://www.office.com/apps). All the applications that you have access to will be displayed.
 
-2. Select the **Business Apps** tab to limit the applications that are being displayed to only show Dynamics 365 business applications.
+13. Select the **Business Apps** tab to limit the applications that are being displayed to only show Dynamics 365 business applications.
 
-3. To reduce the number of applications being displayed, click in the Search field located at the top screen.
+14. To reduce the number of applications being displayed, click in the Search field located at the top screen.
 
-4. Type the text **Sales Hub** and select the **Sales Hub** app to open it.
+15. Type the text **Sales Hub** and select the **Sales Hub** app to open it.
 
-5. When you are within an app, there will be different areas that you can work with based on what you are trying to do. For example, the Sales Hub application contains different administrative settings that you can work with.
+16. When you are within an app, there will be different areas that you can work with based on what you are trying to do. For example, the Sales Hub application contains different administrative settings that you can work with.
 
-6. On the lower left side of the screen, select the text **Sales**, from the list that appears, select **App Settings.** This part of the application is where you can make administrative changes to it.
+17. On the lower left side of the screen, select the text **Sales**, from the list that appears, select **App Settings.** This part of the application is where you can make administrative changes to it.
 
-7. Select the Area selector again and change it from **App Settings** back to **Sales**.
+18. Select the Area selector again and change it from **App Settings** back to **Sales**.
 
-8. If you want to switch from the Sales app to a different app such as Customer Service hub, select the **Sales Hub** text in the upper left part of the screen next to the text Dynamic 365.
+19. If you want to switch from the Sales app to a different app such as Customer Service hub, select the **Sales Hub** text in the upper left part of the screen next to the text Dynamic 365.
 
-9. The Apps screen will appear, select **Customer Service Hub** and you will be taken to the Customer Service Hub Application.
+20. The Apps screen will appear, select **Customer Service Hub** and you will be taken to the Customer Service Hub Application.
 
-10. Select the **Customer Service Hub** text at the top to switch back to the **Sales Hub** App.
+21. Select the **Customer Service Hub** text at the top to switch back to the **Sales Hub** App.
