@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Learning Path 4 - Lab 4.1: Create and manage Cases in Dynamics 365 Customer Service'
+    title: 'Learning Path 4 - Lab 4.1: Create and manage cases in Dynamics 365 Customer Service'
     learning path: 'Learn the fundamentals of Dynamics 365 Customer Service'
     module: 'Explore Dynamics 365 Customer Service'
 ---
@@ -8,7 +8,7 @@ lab:
 Learning Path 4 - Module 1: Explore Dynamics 365 Customer Service
 ========================
 
-## Practice Lab 4.1 - Create and manage Cases in Dynamics 365 Customer Service
+## Practice Lab 4.1 - Create and manage cases in Dynamics 365 Customer Service
 
 ## Lab Setup
 
