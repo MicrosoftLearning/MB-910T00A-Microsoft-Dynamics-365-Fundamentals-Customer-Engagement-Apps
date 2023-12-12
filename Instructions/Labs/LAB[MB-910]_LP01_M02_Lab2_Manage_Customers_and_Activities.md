@@ -90,9 +90,9 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Subject:** Meeting with Jackson (Your Initials)
 
-	- **Start Time:** Tomorrow at 10:00 AM
+	- **Start Time:** Today at 4:00 PM
 
-	- **End Time:** Tomorrow at 11:00 AM
+	- **End Time:** Today at 4:30 PM
 
 18. Select the **Save and Close** button.
 
