@@ -8,7 +8,7 @@ lab:
 Learning Path 2 - Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 ========================
 
-## Practice Lab 1.2 - Manage Customers and Activities
+## Practice Lab 1.2 - Manage customers and activities
 
 ## Objectives
 
@@ -42,7 +42,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 	- **Address 1 Postal Code:** 98101
 
-5. On the Command Bar, select the **Save and Close** button to save and exit the account record.
+5. On the Command bar, select the **Save and Close** button to save and exit the account record.
 
 6. On the Command bar, from the list of accounts, select the **New** button again.
 
@@ -86,13 +86,13 @@ In this exercise, you will be working with common records that are leveraged by 
 
 16. From the menu that appears, select **Meeting.**
 
-17. Complete the Appointment as follows:
+17. Complete the appointment as follows:
 
 	- **Subject:** Meeting with Jackson (Your Initials)
 
-	- **Start Time:** Tomorrow at 10:00 AM
+	- **Start Time:** Today at 4:00 PM
 
-	- **End Time:** Tomorrow at 11:00 AM
+	- **End Time:** Today at 4:30 PM
 
 18. Select the **Save and Close** button.
 

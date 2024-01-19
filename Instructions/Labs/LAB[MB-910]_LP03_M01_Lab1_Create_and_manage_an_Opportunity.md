@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Learning Path 3 - Lab 3.1: Create and manage an Opportunity in Dynamics 365 Sales'
+    title: 'Learning Path 3 - Lab 3.1: Create and manage an opportunity in Dynamics 365 Sales'
     learning path: 'Explore the fundamentals of Microsoft Dynamics 365 Sales'
     module: 'Explore Dynamics 365 Sales'
 ---
@@ -9,11 +9,11 @@ lab:
 Learning Path 3 - Module 1: Explore Dynamics 365 Sales
 ========================
 
-## Practice Lab 3.1 - Create and manage an Opportunity in Dynamics 365 Sales 
+## Practice Lab 3.1 - Create and manage an opportunity in Dynamics 365 Sales 
 
 ## Objectives
 
-During this exercise, you will manually be creating a lead for Jane Anderson. Jane works for a company called Jim works for a company called **ABC Consulting**. Not only will you be capturing the Lead information in the system, but you will be leveraging the tools available in Dynamics 365 Sales to qualify the Lead as an Opportunity and work it through closing the opportunity.
+During this exercise, you will manually be creating a lead for Jane Anderson. Jane works for a company called Jim works for a company called **ABC Consulting**. Not only will you be capturing the lead information in the system, but you will be leveraging the tools available in Dynamics 365 Sales to qualify the lead as an opportunity and work it through closing the opportunity.
 
 ## Lab Setup
 
