@@ -23,11 +23,11 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 1. If is not open already, open the **Dynamics 365 Sales Hub** application.
 
-1. Using the navigation on the left side of the screen, select **Leads**.
+2. Using the navigation on the left side of the screen, select **Leads**.
 
-1. On the **My Open Leads** view, select the **New** button to create a new lead.
+3. On the **My Open Leads** view, select the **New** button to create a new lead.
 
-1. Complete the **Lead** information as follows:
+4. Complete the **Lead** information as follows:
 
 	- **Topic:** Wants to upgrade their existing equipment (Your initials)
 
@@ -51,11 +51,11 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 	- **Zip/Postal Code:** 58102
 
-1. Select the **Save** button to save the Lead and leave it open.
+5. Select the **Save** button to save the Lead and leave it open.
 
-1. On the **Lead to Opportunity** sales process, select the **Qualify** stage.
+6. On the **Lead to Opportunity** sales process, select the **Qualify** stage.
 
-1. Complete as follows:
+7. Complete as follows:
 
 	- **Purchase Timeframe:** Immediate
 
@@ -63,56 +63,56 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 	- **Purchase Process:** Committee
 
-1. Close the **Qualify** stage fly-out.
+8. Close the **Qualify** stage fly-out.
 
-1. On the **Command bar**, select the **Qualify** button.
+9. On the **Command bar**, select the **Qualify** button.
 
-**Note:** If you do not see the Qualify button, select the **More Commands** button (Looks like three vertical dots).
+	> **Note:** If you do not see the Qualify button, select the **More Commands** button (Looks like three vertical dots).
 
-The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage.
+	The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage.
 
-1. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
+10. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
 
-1. Complete as follows:
+11. Complete as follows:
 
 	- **Est. Close Date:** Two days from today
 
 	- **Est Revenue:** $50,000
 
-1. In the **Stakeholders** sub-grid, notice that **Jane Anderson** (Your Initials) is already defined as a stakeholder.
+12. In the **Stakeholders** sub-grid, notice that **Jane Anderson** (Your Initials) is already defined as a stakeholder.
 
-1. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
+13. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
 
-1. Search for and choose your user record. Once completed, select the **Add** button.
+14. Search for and choose your user record. Once completed, select the **Add** button.
 
-1. On the **Competitors** sub-grid, select the **Vertical Ellipsis** (look like three vertical dots). From the menu that appears select **Add Existing Competitor**.
+15. On the **Competitors** sub-grid, select the **Vertical Ellipsis** (look like three vertical dots). From the menu that appears select **Add Existing Competitor**.
 
-1. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
+16. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 
-1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies (Your Initials)**.
+17. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies (Your Initials)**.
 
-1. Select the **Save and Close** button.
+18. Select the **Save and Close** button.
 
-1. **Coho Technologies** should be selected in the lookup record window. Click the **Add** button to finish adding the competitor.
+19. **Coho Technologies** should be selected in the lookup record window. Click the **Add** button to finish adding the competitor.
 
-1. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
+20. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
 
-1. Complete as follows:
+21. Complete as follows:
 
 	- **Identify Stakeholders**: completed
 
 	- **Identify Competitors**: completed
 
-1. Select the **Next Stage** button to advance to the **Propose** stage.
+22. Select the **Next Stage** button to advance to the **Propose** stage.
 
-1. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
+23. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
 
-1. On the **Close** stage, mark all tasks as **completed**.
+24. On the **Close** stage, mark all tasks as **completed**.
 
-1. Select the **Finish** button on the business process flow.
+25. Select the **Finish** button on the business process flow.
 
 Now that you have completed the business process, you need to close the opportunity.
 
-1. On the **Command Bar** of the opportunity, select the **Close as Won** button.
+26. On the **Command Bar** of the opportunity, select the **Close as Won** button.
 
-1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
+27. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
