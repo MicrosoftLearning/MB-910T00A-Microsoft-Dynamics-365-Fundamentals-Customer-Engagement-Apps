@@ -2,10 +2,10 @@
 lab:
     title: 'Learning Path 2 - Lab 2.1: Create a simple customer journey'
     learning path: 'Explore the fundamentals of Dynamics 365 Customer Insights'
-    module: 'Explore Dynamics 365 Customer Insights'
+    module: 'Explore Dynamics 365 Customer Insights - Journeys'
 ---
 
-Learning Path 2 - Module 1: Explore Dynamics 365 Customer Insights
+Learning Path 2 - Module 1: Explore Dynamics 365 Customer Insights - Journeys
 ========================
 
 ## Practice Lab 2.1 - Create a simple customer journey
@@ -21,28 +21,32 @@ During this exercise you will see that customer journeys are a key component in 
   - **Estimated Time**: 10 minutes
 
 ## Instructions
-1. Using the navigation on the left, select **Customer journeys** under the **Marketing Execution** group.
+1. Using the navigation on the left, select **Journeys** under the **Engagement** group.
 
-2. Using the Command Bar, select **+ New**.
+1. Using the Command Bar, select **+ New Journey**.
 
-3. On the **Customer journey templates** pop-up, select **Skip** to start creating a new journey from scratch.
-4. Select **Set audience** (or, alternatively, select **+**). Verify the **Source Type** is set to **Segment**, and Select the **Fargo Contacts** segment. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
+1. Select **Skip and Create from blank**
 
-5. Select **+** on the canvas, and then select **Send an email** from the contextual menu.
+1. On the **Create Journey with Copilot** pop-up, select **Skip** **and create from blank**.
 
-6. In the **Send an email** section, select **Sample Email Message**.
+1. In the Name the Journey field, enter Fargo Customer Journey (Your Initials) 
 
-7. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
+1. Under Choose the Type of Journey, Set to Segment-based, and select the **Fargo Contacts** segment. The first tile populates with the segment name and the **Audience** pane displays the segment properties.
 
-	- **Name**: Fargo Customer Journey (Your Initials) 
+1. Under **Select the frequency**, choose **A one-time journey with a static audience**.
 
-	- **Start date and time**: Enter Todays Date
+1. Set the **Start date** to **Tomorrow’s Date**.
 
-	- **End date and time**: One Month from Today
+1. Select the **Create** button.
 
-	- **Time zone**: Select your local time zone
+1. Select the **Add an Action** button.
 
-8. On the command bar, select **Save** to save the work you've done so far.
+1. From the menu that appears, select **Email**.
 
-9. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
+1. In the Email Properties panel on the right, configure as follows:
 
+	- **Select email:** Email 
+
+	- **Send to:** Email
+
+1. Your journey is now ready to go. To start the journey, publish it by selecting **Go live** on the command bar.
