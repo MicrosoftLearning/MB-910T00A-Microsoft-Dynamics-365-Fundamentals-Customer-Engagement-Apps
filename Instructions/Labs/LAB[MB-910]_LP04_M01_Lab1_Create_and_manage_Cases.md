@@ -26,7 +26,7 @@ Learning Path 4 - Module 1: Explore Dynamics 365 Customer Service
 
 	- **Case Title:** Item arrived Damaged (Your Initials)
 
-	- **Customer:** George Li
+	- **Customer:** George Cao
 
 5.  Select the **Save** button to save the record and leave it open. 
 
@@ -44,7 +44,7 @@ Learning Path 4 - Module 1: Explore Dynamics 365 Customer Service
 
 12. Select the **X** on the **Research** stage fly out window so you can continue working. 
 
-13. On the **Timeline**, select the **Main actions** vertical elipsis menu on the **Phone Call** activity you created earlier. Select **Close activity** to complete the activity. 
+13. On the **Timeline**, select the **Phone Call** activity you created earlier. Select **Close activity** to complete the activity. 
 
 14. On the **Close Phone Call** screen, select the **Close Phone Call** button. 
 
