@@ -12,7 +12,7 @@ Learning Path 2 - Module 2: Describe shared activities and integration options i
 
 ## Objectives
 
-In this exercise, you will be working with common records that are leveraged by all the first party customer engagement apps. 
+In this exercise, you will be working with common records that are used by all the first party customer engagement apps. 
 
 ## Lab Setup
 
@@ -100,7 +100,7 @@ In this exercise, you will be working with common records that are leveraged by 
 
 20. Click to select the **Appointment** and display the details about it.
 
-21. Select the **Open Appointment** link.
+21. Select the **Open Record** link.
 
 22. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to finish the appointment.
 
